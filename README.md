@@ -1,3 +1,4 @@
+![enter image description here](https://img001.prntscr.com/file/img001/5tNkLiuoS0SKloLAp7gdZQ.png)
 
 ## Установка
 
@@ -31,7 +32,6 @@
     
 
 ## Запуск скрипта
-![enter image description here](https://img001.prntscr.com/file/img001/5tNkLiuoS0SKloLAp7gdZQ.png)
 
 Для запуска приложения выполните команду:
 
