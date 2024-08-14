@@ -9,8 +9,9 @@ from PyQt6.QtWidgets import (
     QMessageBox, QFormLayout, QDialog
 )
 from PyQt6.QtGui import QPixmap
-from PyQt6.QtCore import Qt, QSettings
+from PyQt6.QtCore import Qt, QSettings, QPersistentModelIndex  # Добавлен QPersistentModelIndex
 from datetime import datetime, timezone
+from collections import defaultdict
 
 # Constants for API endpoints
 API_USER_INFO = "https://csfloat.com/api/v1/me"
@@ -427,39 +428,105 @@ class SteamInventoryApp(QMainWindow):
             )
 
             self.inventory_table.setRowHidden(row, not (matches_name and matches_sticker and matches_float))
-
+            
+    def show_confirmation_dialog(self, message):
+        reply = QMessageBox.question(self, "Confirmation", message, QMessageBox.StandardButton.Yes | QMessageBox.StandardButton.No)
+        return reply == QMessageBox.StandardButton.Yes
+                        
     def sell_items(self):
-        selected_indexes = self.inventory_table.selectionModel().selectedIndexes()
-        selected_rows = list(set(index.row() for index in selected_indexes))
-        selected_rows.sort()
+        selected_indexes = self.inventory_table.selectionModel().selectedRows()
+        if not selected_indexes:
+            QMessageBox.warning(self, "Warning", "Please select items to sell.")
+            return
+        
         successful_sales = []
+        already_listed_items = []
+        
+        # Получаем уникальные Asset ID для явно выбранных строк (видимых)
+        selected_asset_ids = set()
+        for index in selected_indexes:
+            row = index.row()
+            if not self.inventory_table.isRowHidden(row):  # Проверка видимости строки
+                asset_id_item = self.inventory_table.item(row, 6)
+                if asset_id_item and asset_id_item.text():
+                    selected_asset_ids.add(asset_id_item.text())
     
-        for row in selected_rows:
+        # Проходим по всей таблице и проверяем, какие строки соответствуют выбранным Asset ID
+        items_to_sell = []
+        for row in range(self.inventory_table.rowCount()):
             asset_id_item = self.inventory_table.item(row, 6)
-            if asset_id_item is None or not asset_id_item.text():
-                QMessageBox.warning(self, "Warning", "Asset ID not found for the selected item.")
-                continue
+            if asset_id_item and asset_id_item.text() in selected_asset_ids:
+                item_name = self.inventory_table.item(row, 0).text()
+                price_input = self.price_input.text().strip()
     
-            asset_id = asset_id_item.text()
-            item_name = self.inventory_table.item(row, 0).text()
+                if not price_input:
+                    QMessageBox.warning(self, "Warning", "Price field must be filled.")
+                    return
     
-            try:
-                price = int(float(self.price_input.text()) * 100)
-                if price <= 0:
-                    raise ValueError("Price must be greater than 0")
-            except ValueError as e:
-                QMessageBox.warning(self, "Error", f"Invalid price input: {e}")
-                continue
+                try:
+                    price = float(price_input)
+                    if price < 0.03:
+                        QMessageBox.warning(self, "Warning", "Price cannot be lower than $0.03.")
+                        return
+                    price = int(price * 100)  # Convert to cents
+                except ValueError as e:
+                    QMessageBox.warning(self, "Error", f"Invalid price input: {e}")
+                    return
+                
+                items_to_sell.append((row, asset_id_item.text(), item_name, price))
+        
+        # Подтверждение перед продажей
+        if items_to_sell:
+            grouped_operations = defaultdict(int)
+            for _, _, item_name, price in items_to_sell:
+                grouped_operations[(item_name, price)] += 1
+            
+            confirm_message = "You are about to sell the following items:\n"
+            for (item_name, price), count in grouped_operations.items():
+                if count > 1:
+                    confirm_message += f"{count}x {item_name} for {price / 100:.2f}$\n"
+                else:
+                    confirm_message += f"{item_name} for {price / 100:.2f}$\n"
+            
+            if not self.show_confirmation_dialog(confirm_message.strip()):
+                return
     
+        # Продажа предметов
+        for row, asset_id, item_name, price in items_to_sell:
             response = sell_item(API_KEY, asset_id, price)
             if response:
+                if "code" in response and response["code"] == 4:
+                    QMessageBox.warning(self, "Warning", "The sale price is too high. You need to complete KYC and onboard with Stripe to list this item.")
+                    return
+    
                 listing_id = response.get("id")
-                successful_sales.append(f"{item_name}: {price / 100:.2f}$")
+                successful_sales.append((item_name, price / 100))
                 self.update_item_as_sold(row, price, listing_id)
-                time.sleep(0.1)  # Задержка 500 мс
+                time.sleep(0.1)  # Задержка 100 мс
+            else:
+                already_listed_items.append(item_name)
     
         if successful_sales:
-            QMessageBox.information(self, "Info", f"Items successfully listed for sale:\n" + "\n".join(successful_sales))
+            self.show_grouped_operations(successful_sales)
+    
+        if already_listed_items:
+            QMessageBox.warning(self, "Warning", "The following items are already listed:\n" + "\n".join(already_listed_items))
+    
+    def show_grouped_operations(self, operations):
+        grouped_operations = defaultdict(int)
+        
+        for item_name, price in operations:
+            grouped_operations[(item_name, price)] += 1
+        
+        messages = []
+        for (item_name, price), count in grouped_operations.items():
+            if count > 1:
+                messages.append(f"{count}x {item_name} {price:.2f}$")
+            else:
+                messages.append(f"{item_name} {price:.2f}$")
+        
+        final_message = "\n".join(messages)
+        QMessageBox.information(self, "Items Sold", final_message)
            
     def update_item_as_sold(self, row, price, listing_id):
         days_on_sale_item = QTableWidgetItem("0d 0h")
@@ -484,26 +551,78 @@ class SteamInventoryApp(QMainWindow):
 
     def delist_items(self):
         selected_indexes = self.inventory_table.selectionModel().selectedRows()
-        items_delisted = []
+        if not selected_indexes:
+            QMessageBox.warning(self, "Warning", "Please select items to delist.")
+            return
     
+        items_to_delist = []
+    
+        # Получаем уникальные Asset ID для явно выбранных строк (видимых)
+        selected_asset_ids = set()
         for index in selected_indexes:
             row = index.row()
-            listing_id = self.inventory_table.item(row, 5).text()
-            item_name = self.inventory_table.item(row, 0).text()
-            if not listing_id:
-                QMessageBox.warning(self, "Warning", f"Selected item {item_name} is not listed for sale.")
-                continue
+            if not self.inventory_table.isRowHidden(row):  # Проверка видимости строки
+                asset_id_item = self.inventory_table.item(row, 6)
+                if asset_id_item and asset_id_item.text():
+                    selected_asset_ids.add(asset_id_item.text())
     
+        # Проходим по всей таблице и проверяем, какие строки соответствуют выбранным Asset ID
+        for row in range(self.inventory_table.rowCount()):
+            asset_id_item = self.inventory_table.item(row, 6)
+            if asset_id_item and asset_id_item.text() in selected_asset_ids:
+                listing_id = self.inventory_table.item(row, 5).text()
+                item_name = self.inventory_table.item(row, 0).text()
+                if not listing_id:
+                    QMessageBox.warning(self, "Warning", f"Selected item {item_name} is not listed for sale.")
+                    continue
+    
+                items_to_delist.append((row, listing_id, item_name))
+    
+        # Подтверждение перед снятием с продажи
+        if items_to_delist:
+            grouped_items = defaultdict(int)
+            for _, _, item_name in items_to_delist:
+                grouped_items[item_name] += 1
+    
+            confirm_message = "You are about to delist the following items:\n"
+            for item_name, count in grouped_items.items():
+                if count > 1:
+                    confirm_message += f"{count}x {item_name}\n"
+                else:
+                    confirm_message += f"{item_name}\n"
+    
+            if not self.show_confirmation_dialog(confirm_message.strip()):
+                return
+    
+        # Снятие предметов с продажи
+        items_delisted = []
+        for row, listing_id, item_name in items_to_delist:
             response = delete_item(API_KEY, listing_id)
             if response:
-                items_delisted.append(item_name)
+                items_delisted.append(item_name)  # Добавляем только название предмета
                 self.update_item_as_unsold(row)
-                time.sleep(0.1)  # Задержка 500 мс
+                time.sleep(0.1)  # Задержка 100 мс
             else:
                 QMessageBox.warning(self, "Error", f"Failed to delist item {item_name}.")
     
         if items_delisted:
-            QMessageBox.information(self, "Info", f"Items successfully delisted:\n" + "\n".join(items_delisted))
+            self.show_delisted_items(items_delisted)
+    
+    def show_delisted_items(self, items):
+        grouped_items = defaultdict(int)
+    
+        for item in items:
+            grouped_items[item] += 1
+    
+        messages = []
+        for item, count in grouped_items.items():
+            if count > 1:
+                messages.append(f"{count}x {item}")
+            else:
+                messages.append(item)
+    
+        final_message = "\n".join(messages)
+        QMessageBox.information(self, "Items Delisted", final_message)
 
     def update_item_as_unsold(self, row):
         self.inventory_table.setItem(row, 3, QTableWidgetItem(""))  # Убираем информацию о днях на продаже
@@ -513,41 +632,104 @@ class SteamInventoryApp(QMainWindow):
     def change_item_price(self):
         selected_indexes = self.inventory_table.selectionModel().selectedRows()
         if not selected_indexes:
-            QMessageBox.warning(self, "Warning", "Please select an item to change the price.")
+            QMessageBox.warning(self, "Warning", "Please select items to change the price.")
             return
-    
-        successful_changes = []
+        
+        items_to_change = []
+        
+        # Получаем уникальные Asset ID для явно выбранных строк (видимых)
+        selected_asset_ids = set()
         for index in selected_indexes:
             row = index.row()
-            listing_id = self.inventory_table.item(row, 5).text()
-            if not listing_id:
-                QMessageBox.warning(self, "Warning", "Price can only be changed for listed items.")
-                continue
+            if not self.inventory_table.isRowHidden(row):  # Проверка видимости строки
+                asset_id_item = self.inventory_table.item(row, 6)
+                if asset_id_item and asset_id_item.text():
+                    selected_asset_ids.add(asset_id_item.text())
     
-            item_name = self.inventory_table.item(row, 0).text()
-            current_price_widget = self.inventory_table.cellWidget(row, 4)
-            if not current_price_widget:
-                QMessageBox.warning(self, "Warning", "Unable to retrieve current price widget.")
-                continue
+        # Проходим по всей таблице и проверяем, какие строки соответствуют выбранным Asset ID
+        for row in range(self.inventory_table.rowCount()):
+            asset_id_item = self.inventory_table.item(row, 6)
+            if asset_id_item and asset_id_item.text() in selected_asset_ids:
+                listing_id = self.inventory_table.item(row, 5).text()
+                if not listing_id:
+                    QMessageBox.warning(self, "Warning", "Price can only be changed for listed items.")
+                    continue
     
-            current_price = current_price_widget.layout().itemAt(1).widget().text().strip()
+                item_name = self.inventory_table.item(row, 0).text()
+                current_price_widget = self.inventory_table.cellWidget(row, 4)
+                if not current_price_widget:
+                    QMessageBox.warning(self, "Warning", "Unable to retrieve current price widget.")
+                    continue
     
-            try:
-                new_price = int(float(self.price_input.text()) * 100)
-                if new_price <= 0:
-                    raise ValueError("Price must be greater than 0")
-            except ValueError as e:
-                QMessageBox.warning(self, "Error", f"Invalid price input: {e}")
+                current_price = float(current_price_widget.layout().itemAt(1).widget().text().strip().replace("$", ""))
+    
+                try:
+                    price_input = self.price_input.text().strip()
+                    if not price_input:
+                        QMessageBox.warning(self, "Warning", "Price field must be filled.")
+                        return
+    
+                    new_price = float(price_input)
+                    if new_price < 0.03:
+                        QMessageBox.warning(self, "Warning", "Price cannot be lower than $0.03.")
+                        return
+    
+                    new_price = int(new_price * 100)  # Convert to cents
+                except ValueError as e:
+                    QMessageBox.warning(self, "Error", f"Invalid price input: {e}")
+                    return
+    
+                items_to_change.append((row, asset_id_item.text(), item_name, current_price, new_price / 100))
+        
+        # Подтверждение перед изменением цены
+        if items_to_change:
+            grouped_operations = defaultdict(int)
+            for _, _, item_name, current_price, new_price in items_to_change:
+                grouped_operations[(item_name, current_price, new_price)] += 1
+    
+            confirm_message = "You are about to change the price for the following items:\n"
+            for (item_name, current_price, new_price), count in grouped_operations.items():
+                if count > 1:
+                    confirm_message += f"{count}x {item_name} {current_price:.2f}$ → {new_price:.2f}$\n"
+                else:
+                    confirm_message += f"{item_name} {current_price:.2f}$ → {new_price:.2f}$\n"
+    
+            if not self.show_confirmation_dialog(confirm_message.strip()):
                 return
     
-            response = change_price(API_KEY, listing_id, new_price)
-            if response:
-                successful_changes.append(f"{item_name}: {current_price} → {new_price / 100:.2f}$")
-                self.update_item_price(row, new_price)
-                time.sleep(0.1)  # Задержка 500 мс
+        successful_changes = []
+        
+        # Изменение цены на предметы
+        for row, asset_id, item_name, current_price, new_price in items_to_change:
+            listing_id = self.inventory_table.item(row, 5).text()
+            if listing_id:
+                response = change_price(API_KEY, listing_id, int(new_price * 100))
+                if response:
+                    successful_changes.append((item_name, current_price, new_price))
+                    self.update_item_price(row, int(new_price * 100))
+                    time.sleep(0.1)  # Задержка 100 мс
     
         if successful_changes:
-            QMessageBox.information(self, "Info", f"Price changed for items:\n" + "\n".join(successful_changes))
+            self.show_price_change_operations(successful_changes)
+    
+    def show_price_change_operations(self, operations):
+        grouped_operations = defaultdict(int)
+        
+        # Группируем предметы по названию, старой и новой цене
+        for item_name, old_price, new_price in operations:
+            key = (item_name, old_price, new_price)
+            grouped_operations[key] += 1
+    
+        # Формируем сообщение
+        messages = []
+        for (item_name, old_price, new_price), count in grouped_operations.items():
+            if count > 1:
+                messages.append(f"{count}x {item_name} {old_price:.2f}$ → {new_price:.2f}$")
+            else:
+                messages.append(f"{item_name} {old_price:.2f}$ → {new_price:.2f}$")
+    
+        final_message = "\n".join(messages)
+        QMessageBox.information(self, "Price Change Confirmation", f"Price changed for items:\n{final_message}")
             
     def update_item_price(self, row, new_price):
         price_widget = QWidget()
@@ -568,7 +750,9 @@ class SteamInventoryApp(QMainWindow):
         if not self.user_info:
             QMessageBox.warning(self, "Warning", "User info not loaded.")
             return
-
+            # Подсчитайте общую сумму выставленных скинов
+        total_exhibited = sum(item['price'] for item in self.stall) / 100  # Суммируем цены всех выставленных скинов
+    
         dialog = QDialog(self)
         dialog.setWindowTitle("User Information")
         layout = QFormLayout(dialog)
@@ -583,7 +767,8 @@ class SteamInventoryApp(QMainWindow):
         layout.addRow("Total Failed Trades:", QLabel(str(self.user_info.get("total_failed_trades", 0))))
         layout.addRow("Total Verified Trades:", QLabel(str(self.user_info.get("total_verified_trades", 0))))
         layout.addRow("Total Trades:", QLabel(str(self.user_info.get("total_trades", 0))))
-
+        layout.addRow("Total Exhibited:", QLabel(f"{total_exhibited:.2f}$"))  # Добавляем строку с общей суммой цен
+         
         dialog.exec()
 
 def main():
