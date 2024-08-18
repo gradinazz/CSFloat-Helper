@@ -7,6 +7,3 @@ SET SCRIPT_PATH=%~dp0csfloat_helper.py
 
 REM Запуск скрипта с использованием Python
 "%PYTHON_PATH%" "%SCRIPT_PATH%"
-
-REM Задержка, чтобы консоль оставалась открытой после завершения
-pause
