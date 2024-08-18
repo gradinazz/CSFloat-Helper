@@ -1,5 +1,6 @@
-import requests
 import json
+import urllib.request
+import urllib.error
 
 # Constants for API endpoints
 API_USER_INFO = "https://csfloat.com/api/v1/me"
@@ -8,54 +9,64 @@ API_STALL = "https://csfloat.com/api/v1/users/{steam_id}/stall?limit=999"
 LISTINGS_URL = "https://csfloat.com/api/v1/listings"
 
 def get_user_info(api_key):
+    url = API_USER_INFO
     headers = {'Authorization': api_key}
+    
+    req = urllib.request.Request(url, headers=headers)
+    
     try:
-        response = requests.get(API_USER_INFO, headers=headers)
-        response.raise_for_status()
-
-        user_info = response.json().get("user", {})
-        return user_info
-    except requests.HTTPError as http_err:
+        with urllib.request.urlopen(req) as response:
+            user_info = json.load(response).get("user", {})
+            return user_info
+    except urllib.error.HTTPError as http_err:
         print(f"HTTP error occurred: {http_err}")
         return None
-    except Exception as err:
+    except urllib.error.URLError as err:
         print(f"Other error occurred: {err}")
         return None
 
 def get_inventory_data(api_key):
-    headers = {"Authorization": api_key}
+    url = API_INVENTORY
+    headers = {'Authorization': api_key}
+    
+    req = urllib.request.Request(url, headers=headers)
+    
     try:
-        response_inventory = requests.get(API_INVENTORY, headers=headers)
-        response_inventory.raise_for_status()
-        inventory_data = response_inventory.json()
-        if isinstance(inventory_data, dict) and 'items' in inventory_data:
-            return inventory_data['items']
-        elif isinstance(inventory_data, list):  # Если данные уже в списке
-            return inventory_data
-        else:
-            print("Unexpected response format.")
-            return []
-    except requests.HTTPError as http_err:
+        with urllib.request.urlopen(req) as response:
+            inventory_data = json.load(response)
+            if isinstance(inventory_data, dict) and 'items' in inventory_data:
+                return inventory_data['items']
+            elif isinstance(inventory_data, list):  # Если данные уже в списке
+                return inventory_data
+            else:
+                print("Unexpected response format.")
+                return []
+    except urllib.error.HTTPError as http_err:
         print(f"HTTP error occurred: {http_err}")
         return None
-    except Exception as err:
+    except urllib.error.URLError as err:
         print(f"Other error occurred: {err}")
         return None
 
 def get_stall_data(api_key, steam_id):
-    headers = {"Authorization": api_key}
+    url = API_STALL.format(steam_id=steam_id)
+    headers = {'Authorization': api_key}
+    
+    req = urllib.request.Request(url, headers=headers)
+    
     try:
-        response_stall = requests.get(API_STALL.format(steam_id=steam_id), headers=headers)
-        response_stall.raise_for_status()
-        return response_stall.json().get("data", [])
-    except requests.HTTPError as http_err:
+        with urllib.request.urlopen(req) as response:
+            stall_data = json.load(response).get("data", [])
+            return stall_data
+    except urllib.error.HTTPError as http_err:
         print(f"HTTP error occurred: {http_err}")
         return None
-    except Exception as err:
+    except urllib.error.URLError as err:
         print(f"Other error occurred: {err}")
         return None
 
 def sell_item(api_key, asset_id, price, marketplace="steam"):
+    url = LISTINGS_URL
     data = {
         "asset_id": asset_id,
         "price": price,
@@ -65,29 +76,35 @@ def sell_item(api_key, asset_id, price, marketplace="steam"):
         "Authorization": api_key,
         "Content-Type": "application/json"
     }
+    
+    req = urllib.request.Request(url, data=json.dumps(data).encode('utf-8'), headers=headers)
+    
     try:
-        response = requests.post(LISTINGS_URL, json=data, headers=headers)
-        response.raise_for_status()
-        return response.json()
-    except requests.HTTPError as http_err:
-        print(f"Error during sale: {http_err}, Response: {response.text}")
-        return None
-    except Exception as err:
-        print(f"An error occurred: {err}")
-        return None
+        with urllib.request.urlopen(req) as response:
+            return json.load(response)
+    except urllib.error.HTTPError as http_err:
+        if http_err.code == 400:
+            error_data = json.load(http_err)
+            if error_data.get("code") == 4:
+                raise ValueError("Item overpriced. You need to complete KYC.") from http_err
+        raise ValueError(f"HTTP error occurred: {http_err}") from http_err
+    except urllib.error.URLError as err:
+        raise ValueError(f"An unexpected error occurred: {err}") from err
 
 def delete_item(api_key, listing_id):
     url = f"{LISTINGS_URL}/{listing_id}"
-    headers = {"Authorization": api_key}
+    headers = {'Authorization': api_key}
+    
+    req = urllib.request.Request(url, headers=headers, method='DELETE')
+    
     try:
-        response = requests.delete(url, headers=headers)
-        response.raise_for_status()
-        return response.json()
-    except requests.HTTPError as http_err:
+        with urllib.request.urlopen(req) as response:
+            return json.load(response)
+    except urllib.error.HTTPError as http_err:
         print(f"HTTP error occurred: {http_err}")
         return None
-    except Exception as err:
-        print(f"An error occurred: {err}")
+    except urllib.error.URLError as err:
+        print(f"Other error occurred: {err}")
         return None
 
 def change_price(api_key, listing_id, new_price):
@@ -96,14 +113,18 @@ def change_price(api_key, listing_id, new_price):
         "Authorization": api_key,
         "Content-Type": "application/json"
     }
-    data = {"price": new_price}
+    data = json.dumps({"price": new_price}).encode('utf-8')
+
+    req = urllib.request.Request(url, data=data, headers=headers, method='PATCH')
+
     try:
-        response = requests.patch(url, json=data, headers=headers)
-        response.raise_for_status()
-        return response.json()
-    except requests.HTTPError as http_err:
-        print(f"HTTP error occurred: {http_err}")
-        return None
-    except Exception as err:
-        print(f"An error occurred: {err}")
-        return None
+        with urllib.request.urlopen(req) as response:
+            return json.load(response)
+    except urllib.error.HTTPError as http_err:
+        if http_err.code == 400:
+            error_data = json.load(http_err)
+            if error_data.get("code") == 4:
+                raise ValueError("Item overpriced. You need to complete KYC.") from http_err
+        raise ValueError(f"HTTP error occurred: {http_err}") from http_err
+    except urllib.error.URLError as err:
+        raise ValueError(f"An unexpected error occurred: {err}") from err
