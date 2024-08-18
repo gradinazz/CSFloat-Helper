@@ -5,12 +5,13 @@ from modules.utils import load_config
 
 def main():
     config = load_config()
-    if not config:
-        print("Config file not found. Please ensure config.json exists and contains the required API key.")
-        sys.exit(1)
+    api_keys = config.get("api_keys", [])
+    if not api_keys:
+        print("No API keys found in the config file.")
+        return
 
     app = QApplication(sys.argv)
-    window = SteamInventoryApp(api_key=config.get("api_key"))
+    window = SteamInventoryApp(api_keys=api_keys)
     window.show()
     sys.exit(app.exec())
 
