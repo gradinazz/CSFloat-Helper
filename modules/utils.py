@@ -1,6 +1,7 @@
 import os
 import json
-import requests
+import urllib.request
+import urllib.error
 from datetime import datetime, timezone
 
 CACHE_DIR = "cache"
@@ -13,6 +14,7 @@ def load_config():
         with open("config.json", 'r') as file:
             return json.load(file)
     except FileNotFoundError:
+        print("Config file not found!")
         return None
 
 def cache_image(url):
@@ -23,10 +25,10 @@ def cache_image(url):
     file_path = os.path.join(CACHE_DIR, file_name)
     if not os.path.exists(file_path):
         try:
-            response = requests.get(url)
-            with open(file_path, 'wb') as file:
-                file.write(response.content)
-        except requests.RequestException as e:
+            with urllib.request.urlopen(url) as response:
+                with open(file_path, 'wb') as file:
+                    file.write(response.read())
+        except urllib.error.URLError as e:
             print(f"Failed to download image from {url}: {e}")
             return None
     return file_path
