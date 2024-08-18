@@ -1,4 +1,4 @@
-![enter image description here](https://img001.prntscr.com/file/img001/5tNkLiuoS0SKloLAp7gdZQ.png)
+![enter image description here](https://img001.prntscr.com/file/img001/5jc2VPmeRQSsCN_kEjXa9A.png)
 
 ## Установка
 
@@ -25,10 +25,13 @@
 1.  Измените файл `config.json` в корневой папке проекта со следующим содержимым:
     
     `{
-      "api_key": "YOUR_API_KEY",
-    }` 
+    "api_keys": [
+		"YOUR_API_KEY",
+        "YOUR_API_KEY"
+    ]
+}` 
     
-3.  Замените `"YOUR_API_KEY"` на ваш реальный API-ключ.
+3.  Замените `"YOUR_API_KEY"` на ваш реальный API-ключ, можно использовать несколько ключей.
     
 
 ## Запуск скрипта
