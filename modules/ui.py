@@ -32,7 +32,7 @@ class SteamInventoryApp(QMainWindow):
         self.initUI()
         self.load_data()  # Загружаем данные при инициализации
 
-        self.setWindowTitle("Steam Inventory")
+        self.setWindowTitle("CSFloat Helper")
         self.setFixedSize(740, 750)
 
         self.price_sort_order = Qt.SortOrder.AscendingOrder
