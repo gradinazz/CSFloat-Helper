@@ -1,0 +1,1634 @@
+Name,Quality,stattrak_available,souvenir_available,weapon_type,min_float,max_float,worst_condition_index,best_condition_index,containers_found_in,DefIndex,PaintIndex
+AK-47 | Aquamarine Revenge,covert,True,False,rifle,0.0,1.0,4,0,falchion case,7,474
+AK-47 | Asiimov,covert,True,False,rifle,0.05,0.7,4,0,danger zone case,7,801
+AK-47 | Baroque Purple,industrial grade,False,False,rifle,0.0,1.0,4,0,the canals collection,7,745
+AK-47 | Black Laminate,mil-spec,False,True,rifle,0.06,0.8,4,0,the vertigo collection,7,172
+AK-47 | Bloodsport,covert,True,False,rifle,0.0,0.45,3,0,spectrum case,7,639
+AK-47 | Blue Laminate,restricted,True,False,rifle,0.02,0.4,3,0,esports 2013 winter case,7,226
+AK-47 | Cartel,classified,True,False,rifle,0.0,0.75,4,0,chroma case,7,394
+AK-47 | Case Hardened,classified,True,False,rifle,0.0,1.0,4,0,csgo weapon case,7,44
+AK-47 | Elite Build,mil-spec,True,False,rifle,0.0,1.0,4,0,chroma 2 case,7,422
+AK-47 | Emerald Pinstripe,restricted,False,False,rifle,0.0,1.0,4,0,the bank collection,7,300
+AK-47 | Fire Serpent,covert,True,False,rifle,0.06,0.76,4,0,operation bravo case,7,180
+AK-47 | First Class,restricted,False,False,rifle,0.0,1.0,4,0,the baggage collection,7,341
+AK-47 | Frontside Misty,classified,True,False,rifle,0.02,0.87,4,0,shadow case,7,490
+AK-47 | Fuel Injector,covert,True,False,rifle,0.0,1.0,4,0,operation wildfire case,7,524
+AK-47 | Gold Arabesque,covert,False,True,rifle,0.0,0.7,4,0,the 2021 dust 2 collection,7,921
+AK-47 | Green Laminate,mil-spec,False,True,rifle,0.02,0.4,3,0,the 2021 vertigo collection,7,1070
+AK-47 | Head Shot,covert,True,False,rifle,0.0,1.0,4,0,revolution case,7,1221
+AK-47 | Hydroponic,classified,False,False,rifle,0.0,0.8,4,0,the rising sun collection,7,456
+AK-47 | Ice Coaled,classified,True,False,rifle,0.0,0.77,4,0,recoil case,7,1143
+AK-47 | Inheritance,covert,True,False,rifle,0.0,0.8,4,0,kilowatt case,7,1171
+AK-47 | Jaguar,covert,True,False,rifle,0.0,1.0,4,0,esports 2014 summer case,7,316
+AK-47 | Jet Set,classified,False,False,rifle,0.0,1.0,4,0,the baggage collection,7,340
+AK-47 | Jungle Spray,industrial grade,False,False,rifle,0.06,0.8,4,0,the aztec collection,7,122
+AK-47 | Leet Museo,covert,True,False,rifle,0.0,0.65,4,0,operation riptide case,7,1087
+AK-47 | Legion of Anubis,covert,True,False,rifle,0.0,0.7,4,0,fracture case,7,959
+AK-47 | Neon Revolution,covert,True,False,rifle,0.0,0.8,4,0,gamma 2 case,7,600
+AK-47 | Neon Rider,covert,True,False,rifle,0.0,0.8,4,0,horizon case,7,707
+AK-47 | Nightwish,covert,True,False,rifle,0.0,1.0,4,0,dreams and nightmares case,7,1141
+AK-47 | Orbit Mk01,restricted,True,False,rifle,0.0,0.55,4,0,operation hydra case,7,656
+AK-47 | Panthera onca,classified,False,True,rifle,0.0,1.0,4,0,the ancient collection,7,1018
+AK-47 | Phantom Disruptor,classified,True,False,rifle,0.0,0.65,4,0,prisma 2 case,7,941
+AK-47 | Point Disarray,classified,True,False,rifle,0.0,0.67,4,0,revolver case,7,506
+AK-47 | Predator,industrial grade,False,False,rifle,0.06,0.8,4,0,the dust collection,7,170
+AK-47 | Rat Rod,restricted,True,False,rifle,0.0,1.0,4,0,shattered web case,7,885
+AK-47 | Red Laminate,classified,True,False,rifle,0.06,0.8,4,0,esports 2013 case,7,14
+AK-47 | Redline,classified,True,False,rifle,0.1,0.7,4,1,operation phoenix weapon case,7,282
+AK-47 | Safari Mesh,industrial grade,False,True,rifle,0.06,0.8,4,0,the dust 2 collection,7,72
+AK-47 | Safety Net,restricted,False,True,rifle,0.0,0.6,4,0,the 2018 inferno collection,7,795
+AK-47 | Slate,restricted,True,False,rifle,0.0,1.0,4,0,snakebite case,7,1035
+AK-47 | Steel Delta,mil-spec,False,True,rifle,0.0,0.73,4,0,anubis collection package,7,1238
+AK-47 | The Empress,covert,True,False,rifle,0.0,1.0,4,0,spectrum 2 case,7,675
+AK-47 | Uncharted,mil-spec,True,False,rifle,0.0,0.75,4,0,prisma case,7,836
+AK-47 | Vulcan,covert,True,False,rifle,0.0,0.9,4,0,huntsman weapon case,7,302
+AK-47 | Wasteland Rebel,covert,True,False,rifle,0.05,0.7,4,0,operation vanguard weapon case,7,380
+AK-47 | Wild Lotus,covert,False,False,rifle,0.0,1.0,4,0,the st marc collection,7,724
+AK-47 | X-Ray,covert,False,False,rifle,0.0,1.0,4,0,the havoc collection,7,1004
+AUG | Akihabara Accept,covert,False,False,rifle,0.0,1.0,4,0,the rising sun collection,8,455
+AUG | Amber Fade,mil-spec,False,False,rifle,0.0,0.4,3,0,the 2021 train collection,8,246
+AUG | Amber Slipstream,mil-spec,True,False,rifle,0.0,0.55,4,0,horizon case,8,708
+AUG | Anodized Navy,mil-spec,False,False,rifle,0.0,0.08,1,0,the alpha collection,8,197
+AUG | Arctic Wolf,restricted,True,False,rifle,0.0,0.7,4,0,shattered web case,8,886
+AUG | Aristocrat,restricted,True,False,rifle,0.0,0.66,4,0,gamma case,8,583
+AUG | Bengal Tiger,classified,True,False,rifle,0.06,0.8,4,0,esports 2014 summer case,8,9
+AUG | Carved Jade,mil-spec,False,True,rifle,0.0,0.2,2,0,the ancient collection,8,1033
+AUG | Chameleon,covert,True,False,rifle,0.0,0.5,4,0,operation phoenix weapon case,8,280
+AUG | Colony,consumer grade,False,True,rifle,0.06,0.8,4,0,the mirage collection,8,47
+AUG | Condemned,industrial grade,False,True,rifle,0.06,0.8,4,0,the safehouse collection,8,110
+AUG | Contractor,consumer grade,False,True,rifle,0.06,0.8,4,0,the italy collection,8,46
+AUG | Copperhead,mil-spec,False,False,rifle,0.12,0.38,2,1,the dust collection,8,10
+AUG | Daedalus,consumer grade,False,False,rifle,0.0,0.55,4,0,the gods and monsters collection,8,444
+AUG | Death by Puppy,classified,True,False,rifle,0.0,0.4,3,0,cs20 case,8,913
+AUG | Flame Jörmungandr,restricted,False,False,rifle,0.0,0.5,4,0,the norse collection,8,758
+AUG | Fleet Flock,classified,True,False,rifle,0.0,1.0,4,0,chroma 3 case,8,541
+AUG | Hot Rod,mil-spec,False,False,rifle,0.0,0.08,1,0,the assault collection,8,33
+AUG | Midnight Lily,restricted,False,False,rifle,0.0,0.5,4,0,the st marc collection,8,727
+AUG | Momentum,classified,True,False,rifle,0.05,1.0,4,0,prisma case,8,845
+AUG | Navy Murano,consumer grade,False,False,rifle,0.0,1.0,4,0,the canals collection,8,740
+AUG | Plague,mil-spec,True,False,rifle,0.0,0.76,4,0,operation riptide case,8,1088
+AUG | Radiation Hazard,industrial grade,False,True,rifle,0.0,0.55,4,0,the cache collection,8,375
+AUG | Random Access,restricted,False,True,rifle,0.0,0.5,4,0,the 2018 nuke collection,8,779
+AUG | Ricochet,mil-spec,True,False,rifle,0.0,0.8,4,0,revolver case,8,507
+AUG | Sand Storm,restricted,False,True,rifle,0.0,0.5,4,0,the 2021 mirage collection,8,823
+AUG | Snake Pit,consumer grade,False,True,rifle,0.0,0.55,4,0,anubis collection package,8,1249
+AUG | Spalted Wood,industrial grade,False,True,rifle,0.0,0.48,4,0,the 2021 dust 2 collection,8,927
+AUG | Storm,consumer grade,False,True,rifle,0.06,0.8,4,0,the lake collection,8,100
+AUG | Stymphalian,classified,True,False,rifle,0.0,0.63,4,0,clutch case,8,690
+AUG | Surveillance,consumer grade,False,False,rifle,0.0,0.6,4,0,the control collection,8,995
+AUG | Sweeper,consumer grade,False,True,rifle,0.0,0.6,4,0,the 2018 inferno collection,8,794
+AUG | Syd Mead,classified,True,False,rifle,0.0,0.8,4,0,gamma 2 case,8,601
+AUG | Tom Cat,mil-spec,True,False,rifle,0.0,0.8,4,0,prisma 2 case,8,942
+AUG | Torque,restricted,True,False,rifle,0.0,0.5,4,0,huntsman weapon case,8,305
+AUG | Triqua,mil-spec,True,False,rifle,0.0,1.0,4,0,spectrum 2 case,8,674
+AUG | Wings,mil-spec,True,False,rifle,0.0,0.14,1,0,csgo weapon case,8,73
+AWP | Acheron,mil-spec,False,True,sniper rifle,0.0,0.83,4,0,the 2018 nuke collection,9,788
+AWP | Asiimov,covert,True,False,sniper rifle,0.18,1.0,4,2,operation phoenix weapon case,9,279
+AWP | Atheris,restricted,True,False,sniper rifle,0.0,1.0,4,0,prisma case,9,838
+AWP | Black Nile,mil-spec,False,True,sniper rifle,0.0,0.75,4,0,anubis collection package,9,1239
+AWP | BOOM,classified,True,False,sniper rifle,0.06,0.28,2,0,esports 2013 case,9,174
+AWP | Capillary,mil-spec,True,False,sniper rifle,0.05,0.7,4,0,prisma 2 case,9,943
+AWP | Chromatic Aberration,covert,True,False,sniper rifle,0.0,0.7,4,0,recoil case,9,1144
+AWP | Chrome Cannon,covert,True,False,sniper rifle,0.0,1.0,4,0,kilowatt case,9,1170
+AWP | Containment Breach,covert,True,False,sniper rifle,0.0,1.0,4,0,shattered web case,9,887
+AWP | Corticera,classified,True,False,sniper rifle,0.06,0.3,2,0,esports 2014 summer case,9,181
+AWP | Desert Hydra,covert,False,True,sniper rifle,0.0,0.6,4,0,the 2021 mirage collection,9,819
+AWP | Dragon Lore,covert,False,True,sniper rifle,0.0,0.7,4,0,the cobblestone collection,9,344
+AWP | Duality,classified,True,False,sniper rifle,0.0,0.8,4,0,revolution case,9,1222
+AWP | Electric Hive,classified,True,False,sniper rifle,0.0,0.4,3,0,esports 2013 winter case,9,227
+AWP | Elite Build,classified,True,False,sniper rifle,0.0,1.0,4,0,operation wildfire case,9,525
+AWP | Exoskeleton,restricted,True,False,sniper rifle,0.0,1.0,4,0,operation broken fang case,9,975
+AWP | Fade,covert,False,False,sniper rifle,0.0,0.08,1,0,the control collection,9,1026
+AWP | Fever Dream,classified,True,False,sniper rifle,0.0,0.55,4,0,spectrum case,9,640
+AWP | Graphite,classified,True,False,sniper rifle,0.0,0.12,1,0,operation bravo case,9,212
+AWP | Gungnir,covert,False,False,sniper rifle,0.0,0.6,4,0,the norse collection,9,756
+AWP | Hyper Beast,covert,True,False,sniper rifle,0.0,1.0,4,0,falchion case,9,475
+AWP | Lightning Strike,covert,True,False,sniper rifle,0.0,0.08,1,0,csgo weapon case,9,51
+AWP | Man-o'-war,covert,True,False,sniper rifle,0.1,0.2,2,1,chroma case,9,395
+AWP | Medusa,covert,False,False,sniper rifle,0.0,1.0,4,0,the gods and monsters collection,9,446
+AWP | Mortis,classified,True,False,sniper rifle,0.0,0.64,4,0,clutch case,9,691
+AWP | Neo-Noir,covert,True,False,sniper rifle,0.0,0.5,4,0,danger zone case,9,803
+AWP | Oni Taiji,covert,True,False,sniper rifle,0.0,0.5,4,0,operation hydra case,9,662
+AWP | PAW,restricted,True,False,sniper rifle,0.0,0.5,4,0,horizon case,9,718
+AWP | Phobos,restricted,True,False,sniper rifle,0.0,0.4,3,0,gamma case,9,584
+AWP | Pink DDPAT,restricted,False,True,sniper rifle,0.06,0.8,4,0,the overpass collection,9,84
+AWP | Pit Viper,restricted,False,True,sniper rifle,0.08,0.5,4,1,the italy collection,9,251
+AWP | POP AWP,restricted,False,False,sniper rifle,0.0,0.44,3,0,the 2021 train collection,9,1058
+AWP | Redline,classified,True,False,sniper rifle,0.1,0.4,3,1,winter offensive weapon case,9,259
+AWP | Safari Mesh,industrial grade,False,True,sniper rifle,0.06,0.8,4,0,the lake collection,9,72
+AWP | Silk Tiger,classified,False,False,sniper rifle,0.0,0.6,4,0,the havoc collection,9,1029
+AWP | Snake Camo,mil-spec,False,False,sniper rifle,0.06,0.8,4,0,the dust collection,9,30
+AWP | Sun in Leo,industrial grade,False,False,sniper rifle,0.0,0.5,4,0,the gods and monsters collection,9,451
+AWP | The Prince,covert,False,False,sniper rifle,0.0,0.6,4,0,the canals collection,9,736
+AWP | Wildfire,covert,True,False,sniper rifle,0.01,0.7,4,0,cs20 case,9,917
+AWP | Worm God,restricted,True,False,sniper rifle,0.0,0.45,3,0,chroma 2 case,9,424
+Bayonet | Autotronic,covert,True,False,knife,0.0,0.85,4,0,"gamma 2 case, gamma case",500,573
+Bayonet | Black Laminate,covert,True,False,knife,0.0,1.0,4,0,"gamma 2 case, gamma case",500,563
+Bayonet | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",500,42
+Bayonet | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",500,77
+Bayonet | Bright Water,covert,True,False,knife,0.0,0.5,4,0,"gamma 2 case, gamma case",500,578
+Bayonet | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",500,44
+Bayonet | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",500,12
+Bayonet | Damascus Steel,covert,True,False,knife,0.0,0.5,4,0,"chroma 3 case, chroma 2 case, chroma case",500,410
+Bayonet | Doppler,covert,True,False,knife,0.0,0.08,1,0,"chroma 3 case, chroma 2 case, chroma case",500,421
+Bayonet | Fade,covert,True,False,knife,0.0,0.08,1,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",500,38
+Bayonet | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",500,5
+Bayonet | Freehand,covert,True,False,knife,0.0,0.48,4,0,"gamma 2 case, gamma case",500,580
+Bayonet | Gamma Doppler,covert,True,False,knife,0.0,0.08,1,0,"gamma 2 case, gamma case",500,572
+Bayonet | Lore,covert,True,False,knife,0.0,0.65,4,0,"gamma 2 case, gamma case",500,558
+Bayonet | Marble Fade,covert,True,False,knife,0.0,0.08,1,0,"chroma 3 case, chroma 2 case, chroma case",500,413
+Bayonet | Night,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",500,40
+Bayonet | Rust Coat,covert,True,False,knife,0.4,1.0,4,3,"chroma 3 case, chroma 2 case, chroma case",500,414
+Bayonet | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",500,72
+Bayonet | Scorched,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",500,175
+Bayonet | Slaughter,covert,True,False,knife,0.01,0.26,2,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",500,59
+Bayonet | Stained,covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",500,43
+Bayonet | Tiger Tooth,covert,True,False,knife,0.0,0.08,1,0,"chroma 3 case, chroma 2 case, chroma case",500,409
+Bayonet | Ultraviolet,covert,True,False,knife,0.06,0.8,4,0,"chroma 3 case, chroma 2 case, chroma case",500,98
+Bayonet | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",500,143
+Bayonet | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",500,0
+Bloodhound Gloves | Bronzed,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5027,10008
+Bloodhound Gloves | Charred,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5027,10006
+Bloodhound Gloves | Guerrilla,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5027,10039
+Bloodhound Gloves | Snakebite,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5027,10007
+Bowie Knife | Autotronic,covert,True,False,knife,0.0,0.85,4,0,"dreams and nightmares case, operation riptide case",514,1114
+Bowie Knife | Black Laminate,covert,True,False,knife,0.0,1.0,4,0,"dreams and nightmares case, operation riptide case",514,1109
+Bowie Knife | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,,514,42
+Bowie Knife | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,,514,77
+Bowie Knife | Bright Water,covert,True,False,knife,0.0,0.5,4,0,"dreams and nightmares case, operation riptide case",514,579
+Bowie Knife | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,,514,44
+Bowie Knife | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,,514,12
+Bowie Knife | Damascus Steel,covert,True,False,knife,0.0,0.5,4,0,"spectrum 2 case, spectrum case",514,411
+Bowie Knife | Doppler,covert,True,False,knife,0.0,0.08,1,0,"spectrum 2 case, spectrum case",514,421
+Bowie Knife | Fade,covert,True,False,knife,0.0,0.08,1,0,,514,38
+Bowie Knife | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,,514,5
+Bowie Knife | Freehand,covert,True,False,knife,0.0,0.48,4,0,"dreams and nightmares case, operation riptide case",514,581
+Bowie Knife | Gamma Doppler,covert,True,False,knife,0.0,0.08,1,0,"dreams and nightmares case, operation riptide case",514,572
+Bowie Knife | Lore,covert,True,False,knife,0.0,1.0,4,0,"dreams and nightmares case, operation riptide case",514,1104
+Bowie Knife | Marble Fade,covert,True,False,knife,0.0,0.08,1,0,"spectrum 2 case, spectrum case",514,413
+Bowie Knife | Night,covert,True,False,knife,0.06,0.8,4,0,,514,40
+Bowie Knife | Rust Coat,covert,True,False,knife,0.4,1.0,4,3,"spectrum 2 case, spectrum case",514,414
+Bowie Knife | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,,514,72
+Bowie Knife | Scorched,covert,True,False,knife,0.06,0.8,4,0,,514,175
+Bowie Knife | Slaughter,covert,True,False,knife,0.01,0.26,2,0,,514,59
+Bowie Knife | Stained,covert,True,False,knife,0.0,1.0,4,0,,514,43
+Bowie Knife | Tiger Tooth,covert,True,False,knife,0.0,0.08,1,0,"spectrum 2 case, spectrum case",514,409
+Bowie Knife | Ultraviolet,covert,True,False,knife,0.06,0.8,4,0,"spectrum 2 case, spectrum case",514,98
+Bowie Knife | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,,514,143
+Bowie Knife | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,,514,0
+Broken Fang Gloves | Jade,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",4725,10085
+Broken Fang Gloves | Needle Point,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",4725,10087
+Broken Fang Gloves | Unhinged,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",4725,10088
+Broken Fang Gloves | Yellow-banded,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",4725,10086
+Butterfly Knife | Autotronic,covert,True,False,knife,0.0,0.85,4,0,"dreams and nightmares case, operation riptide case",515,1115
+Butterfly Knife | Black Laminate,covert,True,False,knife,0.0,1.0,4,0,"dreams and nightmares case, operation riptide case",515,1110
+Butterfly Knife | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,,515,42
+Butterfly Knife | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,,515,77
+Butterfly Knife | Bright Water,covert,True,False,knife,0.0,0.5,4,0,"dreams and nightmares case, operation riptide case",515,579
+Butterfly Knife | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,,515,44
+Butterfly Knife | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,,515,12
+Butterfly Knife | Damascus Steel,covert,True,False,knife,0.0,0.5,4,0,"spectrum 2 case, spectrum case",515,411
+Butterfly Knife | Doppler,covert,True,False,knife,0.0,0.08,1,0,"spectrum 2 case, spectrum case",515,619
+Butterfly Knife | Fade,covert,True,False,knife,0.0,0.08,1,0,,515,38
+Butterfly Knife | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,,515,5
+Butterfly Knife | Freehand,covert,True,False,knife,0.0,0.48,4,0,"dreams and nightmares case, operation riptide case",515,581
+Butterfly Knife | Gamma Doppler,covert,True,False,knife,0.0,0.08,1,0,"dreams and nightmares case, operation riptide case",515,572
+Butterfly Knife | Lore,covert,True,False,knife,0.0,1.0,4,0,"dreams and nightmares case, operation riptide case",515,1105
+Butterfly Knife | Marble Fade,covert,True,False,knife,0.0,0.08,1,0,"spectrum 2 case, spectrum case",515,413
+Butterfly Knife | Night,covert,True,False,knife,0.06,0.8,4,0,,515,40
+Butterfly Knife | Rust Coat,covert,True,False,knife,0.4,1.0,4,3,"spectrum 2 case, spectrum case",515,414
+Butterfly Knife | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,,515,72
+Butterfly Knife | Scorched,covert,True,False,knife,0.06,0.8,4,0,,515,175
+Butterfly Knife | Slaughter,covert,True,False,knife,0.01,0.26,2,0,,515,59
+Butterfly Knife | Stained,covert,True,False,knife,0.0,1.0,4,0,,515,43
+Butterfly Knife | Tiger Tooth,covert,True,False,knife,0.0,0.08,1,0,"spectrum 2 case, spectrum case",515,409
+Butterfly Knife | Ultraviolet,covert,True,False,knife,0.06,0.8,4,0,"spectrum 2 case, spectrum case",515,98
+Butterfly Knife | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,,515,143
+Butterfly Knife | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,,515,0
+Classic Knife | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,,503,42
+Classic Knife | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,,503,77
+Classic Knife | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,,503,44
+Classic Knife | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,,503,12
+Classic Knife | Fade,covert,True,False,knife,0.0,0.08,1,0,,503,38
+Classic Knife | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,,503,5
+Classic Knife | Night Stripe,covert,True,False,knife,0.06,0.8,4,0,,503,735
+Classic Knife | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,,503,72
+Classic Knife | Scorched,covert,True,False,knife,0.06,0.8,4,0,,503,175
+Classic Knife | Slaughter,covert,True,False,knife,0.01,0.26,2,0,,503,59
+Classic Knife | Stained,covert,True,False,knife,0.0,1.0,4,0,,503,43
+Classic Knife | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,,503,143
+Classic Knife | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,,503,0
+CZ75-Auto | Army Sheen,consumer grade,False,False,pistol,0.0,0.3,2,0,the chop shop collection,63,298
+CZ75-Auto | Chalice,restricted,False,True,pistol,0.0,0.1,1,0,the cobblestone collection,63,325
+CZ75-Auto | Circaetus,mil-spec,True,False,pistol,0.0,0.9,4,0,snakebite case,63,1036
+CZ75-Auto | Crimson Web,mil-spec,True,False,pistol,0.06,0.8,4,0,csgo weapon case 3,63,12
+CZ75-Auto | Distressed,mil-spec,True,False,pistol,0.0,1.0,4,0,prisma 2 case,63,944
+CZ75-Auto | Eco,restricted,True,False,pistol,0.0,1.0,4,0,horizon case,63,709
+CZ75-Auto | Emerald,mil-spec,False,False,pistol,0.0,0.08,1,0,the chop shop collection,63,453
+CZ75-Auto | Emerald Quartz,mil-spec,False,False,pistol,0.0,0.7,4,0,the norse collection,63,859
+CZ75-Auto | Framework,consumer grade,False,True,pistol,0.0,0.8,4,0,the 2021 vertigo collection,63,1076
+CZ75-Auto | Green Plaid,consumer grade,False,False,pistol,0.0,0.58,4,0,the baggage collection,63,366
+CZ75-Auto | Hexane,mil-spec,True,False,pistol,0.0,0.4,3,0,esports 2014 summer case,63,218
+CZ75-Auto | Imprint,mil-spec,True,False,pistol,0.0,1.0,4,0,gamma 2 case,63,602
+CZ75-Auto | Indigo,consumer grade,False,False,pistol,0.06,0.8,4,0,the canals collection,63,333
+CZ75-Auto | Jungle Dashed,consumer grade,False,False,pistol,0.06,0.8,4,0,the control collection,63,147
+CZ75-Auto | Midnight Palm,industrial grade,False,True,pistol,0.0,0.5,4,0,the 2021 mirage collection,63,933
+CZ75-Auto | Nitro,mil-spec,False,True,pistol,0.06,0.8,4,0,the overpass collection,63,322
+CZ75-Auto | Poison Dart,mil-spec,True,False,pistol,0.0,0.7,4,0,the huntsman collection,63,315
+CZ75-Auto | Pole Position,restricted,True,False,pistol,0.0,0.7,4,0,chroma 2 case,63,435
+CZ75-Auto | Polymer,mil-spec,True,False,pistol,0.0,0.5,4,0,glove case,63,622
+CZ75-Auto | Red Astor,restricted,True,False,pistol,0.0,1.0,4,0,chroma 3 case,63,543
+CZ75-Auto | Silver,industrial grade,False,True,pistol,0.0,0.08,1,0,the ancient collection,63,32
+CZ75-Auto | Syndicate,restricted,False,False,pistol,0.0,0.7,4,0,the 2021 train collection,63,1064
+CZ75-Auto | Tacticat,restricted,True,False,pistol,0.0,0.7,4,0,spectrum 2 case,63,687
+CZ75-Auto | The Fuschia Is Now,classified,True,False,pistol,0.0,0.4,3,0,csgo weapon case 3,63,269
+CZ75-Auto | Tigris,restricted,True,False,pistol,0.0,1.0,4,0,operation breakout weapon case,63,350
+CZ75-Auto | Tread Plate,restricted,True,False,pistol,0.0,0.2,2,0,csgo weapon case 3,63,268
+CZ75-Auto | Tuxedo,mil-spec,False,False,pistol,0.0,0.8,4,0,the bank collection,63,297
+CZ75-Auto | Twist,mil-spec,True,False,pistol,0.0,1.0,4,0,huntsman weapon case,63,334
+CZ75-Auto | Vendetta,mil-spec,True,False,pistol,0.0,1.0,4,0,operation broken fang case,63,976
+CZ75-Auto | Victoria,covert,True,False,pistol,0.0,0.75,4,0,csgo weapon case 3,63,270
+CZ75-Auto | Xiangliu,classified,True,False,pistol,0.0,0.56,4,0,spectrum case,63,643
+CZ75-Auto | Yellow Jacket,classified,True,False,pistol,0.0,1.0,4,0,falchion case,63,476
+Desert Eagle | Blaze,restricted,False,False,pistol,0.0,0.08,1,0,the dust collection,1,37
+Desert Eagle | Blue Ply,mil-spec,True,False,pistol,0.0,1.0,4,0,prisma 2 case,1,945
+Desert Eagle | Bronze Deco,mil-spec,True,False,pistol,0.0,0.46,4,0,chroma 2 case,1,425
+Desert Eagle | Cobalt Disruption,classified,True,False,pistol,0.0,0.2,2,0,esports 2013 winter case,1,231
+Desert Eagle | Code Red,covert,True,False,pistol,0.0,1.0,4,0,horizon case,1,711
+Desert Eagle | Conspiracy,classified,True,False,pistol,0.0,0.3,2,0,operation breakout weapon case,1,351
+Desert Eagle | Corinthian,mil-spec,True,False,pistol,0.0,0.44,3,0,revolver case,1,509
+Desert Eagle | Crimson Web,restricted,True,False,pistol,0.06,0.8,4,0,esports 2014 summer case,1,232
+Desert Eagle | Directive,restricted,True,False,pistol,0.06,1.0,4,0,gamma 2 case,1,603
+Desert Eagle | Emerald Jörmungandr,restricted,False,False,pistol,0.0,0.5,4,0,the norse collection,1,757
+Desert Eagle | Fennec Fox,classified,False,True,pistol,0.0,0.8,4,0,the 2021 mirage collection,1,764
+Desert Eagle | Golden Koi,covert,True,False,pistol,0.0,0.12,1,0,operation bravo case,1,185
+Desert Eagle | Hand Cannon,restricted,False,True,pistol,0.01,0.7,4,0,the cobblestone collection,1,328
+Desert Eagle | Heirloom,restricted,True,False,pistol,0.0,0.8,4,0,csgo weapon case 3,1,273
+Desert Eagle | Hypnotic,classified,True,False,pistol,0.0,0.08,1,0,csgo weapon case,1,61
+Desert Eagle | Kumicho Dragon,classified,True,False,pistol,0.0,0.76,4,0,operation wildfire case,1,527
+Desert Eagle | Light Rail,restricted,True,False,pistol,0.0,0.9,4,0,prisma case,1,841
+Desert Eagle | Mecha Industries,classified,True,False,pistol,0.0,0.6,4,0,danger zone case,1,805
+Desert Eagle | Meteorite,mil-spec,False,False,pistol,0.0,0.18,2,0,the bank collection,1,296
+Desert Eagle | Midnight Storm,industrial grade,False,False,pistol,0.0,0.75,4,0,the rising sun collection,1,468
+Desert Eagle | Mudder,industrial grade,False,True,pistol,0.06,0.8,4,0,the lake collection,1,90
+Desert Eagle | Naga,restricted,True,False,pistol,0.0,1.0,4,0,chroma case,1,397
+Desert Eagle | Night,industrial grade,False,False,pistol,0.06,0.8,4,0,the chop shop collection,1,40
+Desert Eagle | Night Heist,mil-spec,False,False,pistol,0.0,0.65,4,0,the havoc collection,1,1006
+Desert Eagle | Ocean Drive,covert,True,False,pistol,0.0,1.0,4,0,operation riptide case,1,1090
+Desert Eagle | Oxide Blaze,mil-spec,True,False,pistol,0.0,0.5,4,0,spectrum case,1,645
+Desert Eagle | Pilot,restricted,False,False,pistol,0.0,1.0,4,0,the baggage collection,1,347
+Desert Eagle | Printstream,covert,True,False,pistol,0.0,0.8,4,0,fracture case,1,962
+Desert Eagle | Sputnik,mil-spec,False,False,pistol,0.0,0.5,4,0,the 2021 train collection,1,1056
+Desert Eagle | Sunset Storm 弐,restricted,False,False,pistol,0.0,0.75,4,0,the rising sun collection,1,470
+Desert Eagle | The Bronze,industrial grade,False,False,pistol,0.0,0.3,2,0,the control collection,1,992
+Desert Eagle | Trigger Discipline,restricted,True,False,pistol,0.0,0.97,4,0,snakebite case,1,1050
+Desert Eagle | Urban DDPAT,industrial grade,False,True,pistol,0.06,0.8,4,0,the overpass collection,1,17
+Desert Eagle | Urban Rubble,mil-spec,False,True,pistol,0.0,0.5,4,0,the train collection,1,237
+Driver Gloves | Black Tie,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5031,10072
+Driver Gloves | Convoy,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5031,10015
+Driver Gloves | Crimson Weave,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5031,10016
+Driver Gloves | Diamondback,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5031,10040
+Driver Gloves | Imperial Plaid,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5031,10042
+Driver Gloves | King Snake,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5031,10041
+Driver Gloves | Lunar Weave,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5031,10013
+Driver Gloves | Overtake,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5031,10043
+Driver Gloves | Queen Jaguar,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5031,10071
+Driver Gloves | Racing Green,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5031,10044
+Driver Gloves | Rezan the Red,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5031,10069
+Driver Gloves | Snow Leopard,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5031,10070
+Dual Berettas | Anodized Navy,mil-spec,False,True,pistol,0.0,0.08,1,0,the inferno collection,2,28
+Dual Berettas | Balance,mil-spec,True,False,pistol,0.0,1.0,4,0,shattered web case,2,895
+Dual Berettas | Black Limba,mil-spec,True,False,pistol,0.06,0.8,4,0,operation bravo case,2,190
+Dual Berettas | Briar,consumer grade,False,True,pistol,0.0,0.22,2,0,the cobblestone collection,2,330
+Dual Berettas | Cartel,mil-spec,True,False,pistol,0.0,1.0,4,0,operation wildfire case,2,528
+Dual Berettas | Cobalt Quartz,restricted,False,True,pistol,0.0,0.4,3,0,the lake collection,2,249
+Dual Berettas | Cobra Strike,classified,True,False,pistol,0.0,0.6,4,0,operation hydra case,2,658
+Dual Berettas | Colony,consumer grade,False,True,pistol,0.06,0.8,4,0,the train collection,2,47
+Dual Berettas | Contractor,consumer grade,False,True,pistol,0.06,0.8,4,0,the safehouse collection,2,46
+Dual Berettas | Demolition,restricted,False,True,pistol,0.26,0.6,4,2,the vertigo collection,2,153
+Dual Berettas | Dezastre,restricted,True,False,pistol,0.0,1.0,4,0,operation broken fang case,2,978
+Dual Berettas | Drift Wood,industrial grade,False,True,pistol,0.0,0.6,4,0,the 2021 mirage collection,2,824
+Dual Berettas | Dualing Dragons,mil-spec,True,False,pistol,0.0,1.0,4,0,shadow case,2,491
+Dual Berettas | Duelist,restricted,False,False,pistol,0.0,1.0,4,0,the chop shop collection,2,447
+Dual Berettas | Elite 1.6,mil-spec,True,False,pistol,0.0,0.7,4,0,cs20 case,2,903
+Dual Berettas | Emerald,mil-spec,False,False,pistol,0.0,0.08,1,0,the canals collection,2,453
+Dual Berettas | Flora Carnivora,restricted,True,False,pistol,0.0,1.0,4,0,recoil case,2,1156
+Dual Berettas | Heist,consumer grade,False,False,pistol,0.0,0.7,4,0,the havoc collection,2,1005
+Dual Berettas | Hemoglobin,restricted,True,False,pistol,0.0,0.2,2,0,csgo weapon case 2,2,220
+Dual Berettas | Hideout,mil-spec,True,False,pistol,0.0,0.7,4,0,kilowatt case,2,1169
+Dual Berettas | Marina,restricted,True,False,pistol,0.05,0.5,4,0,winter offensive weapon case,2,261
+Dual Berettas | Melondrama,classified,True,False,pistol,0.0,1.0,4,0,dreams and nightmares case,2,1126
+Dual Berettas | Moon in Libra,consumer grade,False,False,pistol,0.0,0.5,4,0,the gods and monsters collection,2,450
+Dual Berettas | Oil Change,consumer grade,False,True,pistol,0.0,0.5,4,0,the 2021 vertigo collection,2,1086
+Dual Berettas | Panther,mil-spec,True,False,pistol,0.0,0.58,4,0,csgo weapon case 3,2,276
+Dual Berettas | Pyre,industrial grade,False,False,pistol,0.06,0.55,4,0,the norse collection,2,860
+Dual Berettas | Retribution,mil-spec,True,False,pistol,0.0,0.45,3,0,the huntsman collection,2,307
+Dual Berettas | Royal Consorts,restricted,True,False,pistol,0.0,1.0,4,0,glove case,2,625
+Dual Berettas | Shred,mil-spec,True,False,pistol,0.0,0.5,4,0,horizon case,2,710
+Dual Berettas | Stained,industrial grade,False,True,pistol,0.0,1.0,4,0,the italy collection,2,43
+Dual Berettas | Switch Board,industrial grade,False,False,pistol,0.0,0.65,4,0,the control collection,2,998
+Dual Berettas | Tread,mil-spec,True,False,pistol,0.0,1.0,4,0,operation riptide case,2,1091
+Dual Berettas | Twin Turbo,classified,False,True,pistol,0.0,1.0,4,0,the 2018 inferno collection,2,747
+Dual Berettas | Urban Shock,restricted,True,False,pistol,0.0,0.47,4,0,chroma case,2,396
+Dual Berettas | Ventilators,mil-spec,True,False,pistol,0.0,0.45,3,0,chroma 3 case,2,544
+Falchion Knife | Autotronic,covert,True,False,knife,0.0,0.85,4,0,"dreams and nightmares case, operation riptide case",512,1116
+Falchion Knife | Black Laminate,covert,True,False,knife,0.0,1.0,4,0,"dreams and nightmares case, operation riptide case",512,1111
+Falchion Knife | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,,512,42
+Falchion Knife | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,,512,77
+Falchion Knife | Bright Water,covert,True,False,knife,0.0,0.5,4,0,"dreams and nightmares case, operation riptide case",512,579
+Falchion Knife | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,,512,44
+Falchion Knife | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,,512,12
+Falchion Knife | Damascus Steel,covert,True,False,knife,0.0,0.5,4,0,"spectrum 2 case, spectrum case",512,411
+Falchion Knife | Doppler,covert,True,False,knife,0.0,0.08,1,0,"spectrum 2 case, spectrum case",512,421
+Falchion Knife | Fade,covert,True,False,knife,0.0,0.08,1,0,,512,38
+Falchion Knife | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,,512,5
+Falchion Knife | Freehand,covert,True,False,knife,0.0,0.48,4,0,"dreams and nightmares case, operation riptide case",512,581
+Falchion Knife | Gamma Doppler,covert,True,False,knife,0.0,0.08,1,0,"dreams and nightmares case, operation riptide case",512,572
+Falchion Knife | Lore,covert,True,False,knife,0.0,0.65,4,0,"dreams and nightmares case, operation riptide case",512,1106
+Falchion Knife | Marble Fade,covert,True,False,knife,0.0,0.08,1,0,"spectrum 2 case, spectrum case",512,413
+Falchion Knife | Night,covert,True,False,knife,0.06,0.8,4,0,,512,40
+Falchion Knife | Rust Coat,covert,True,False,knife,0.4,1.0,4,3,"spectrum 2 case, spectrum case",512,414
+Falchion Knife | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,,512,72
+Falchion Knife | Scorched,covert,True,False,knife,0.06,0.8,4,0,,512,175
+Falchion Knife | Slaughter,covert,True,False,knife,0.01,0.26,2,0,,512,59
+Falchion Knife | Stained,covert,True,False,knife,0.0,1.0,4,0,,512,43
+Falchion Knife | Tiger Tooth,covert,True,False,knife,0.0,0.08,1,0,"spectrum 2 case, spectrum case",512,409
+Falchion Knife | Ultraviolet,covert,True,False,knife,0.06,0.8,4,0,"spectrum 2 case, spectrum case",512,621
+Falchion Knife | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,,512,143
+Falchion Knife | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,,512,0
+FAMAS | Afterimage,classified,True,False,rifle,0.02,0.4,3,0,esports 2013 winter case,10,154
+FAMAS | CaliCamo,industrial grade,False,True,rifle,0.0,0.6,4,0,the 2021 mirage collection,10,240
+FAMAS | Colony,consumer grade,False,True,rifle,0.06,0.8,4,0,the italy collection,10,47
+FAMAS | Commemoration,covert,True,False,rifle,0.0,0.5,4,0,cs20 case,10,919
+FAMAS | Contrast Spray,consumer grade,False,False,rifle,0.06,0.8,4,0,the office collection,10,22
+FAMAS | Crypsis,mil-spec,True,False,rifle,0.0,0.55,4,0,prisma case,10,835
+FAMAS | Cyanospatter,industrial grade,False,True,rifle,0.06,0.8,4,0,the lake collection,10,92
+FAMAS | Dark Water,mil-spec,False,True,rifle,0.1,0.26,2,1,the ancient collection,10,60
+FAMAS | Decommissioned,mil-spec,True,False,rifle,0.0,1.0,4,0,cs20 case,10,904
+FAMAS | Djinn,classified,True,False,rifle,0.0,1.0,4,0,chroma 2 case,10,429
+FAMAS | Doomkitty,mil-spec,True,False,rifle,0.08,0.22,2,1,esports 2013 case,10,178
+FAMAS | Eye of Athena,classified,True,False,rifle,0.0,0.7,4,0,horizon case,10,723
+FAMAS | Faulty Wiring,consumer grade,False,True,rifle,0.0,0.5,4,0,the 2021 vertigo collection,10,1066
+FAMAS | Hexane,mil-spec,True,False,rifle,0.0,0.4,3,0,csgo weapon case 2,10,218
+FAMAS | Macabre,mil-spec,True,False,rifle,0.0,0.6,4,0,operation hydra case,10,659
+FAMAS | Mecha Industries,classified,True,False,rifle,0.0,0.5,4,0,glove case,10,626
+FAMAS | Meltdown,classified,False,False,rifle,0.0,0.4,3,0,the 2021 train collection,10,1053
+FAMAS | Meow 36,mil-spec,True,False,rifle,0.0,1.0,4,0,recoil case,10,1146
+FAMAS | Neural Net,restricted,True,False,rifle,0.0,0.6,4,0,falchion case,10,477
+FAMAS | Night Borre,consumer grade,False,False,rifle,0.0,0.55,4,0,the norse collection,10,863
+FAMAS | Prime Conspiracy,restricted,False,False,rifle,0.0,0.55,4,0,the control collection,10,999
+FAMAS | Pulse,restricted,True,False,rifle,0.0,0.4,3,0,winter offensive weapon case,10,260
+FAMAS | Rapid Eye Movement,classified,True,False,rifle,0.0,1.0,4,0,dreams and nightmares case,10,1127
+FAMAS | Roll Cage,covert,True,False,rifle,0.0,1.0,4,0,gamma 2 case,10,604
+FAMAS | Sergeant,restricted,True,False,rifle,0.1,1.0,4,1,operation phoenix weapon case,10,288
+FAMAS | Spitfire,restricted,False,False,rifle,0.06,0.8,4,0,the alpha collection,10,194
+FAMAS | Styx,restricted,False,True,rifle,0.0,0.6,4,0,the cache collection,10,371
+FAMAS | Sundown,mil-spec,False,False,rifle,0.0,0.6,4,0,the st marc collection,10,869
+FAMAS | Survivor Z,mil-spec,True,False,rifle,0.0,0.6,4,0,shadow case,10,492
+FAMAS | Teardown,mil-spec,False,True,rifle,0.0,0.6,4,0,the safehouse collection,10,244
+FAMAS | Valence,restricted,True,False,rifle,0.0,0.8,4,0,operation wildfire case,10,529
+FAMAS | Waters of Nephthys,classified,False,True,rifle,0.0,0.7,4,0,anubis collection package,10,1241
+FAMAS | ZX Spectron,restricted,True,False,rifle,0.0,1.0,4,0,operation riptide case,10,1092
+Five-SeveN | Angry Mob,covert,True,False,pistol,0.0,0.7,4,0,prisma case,3,837
+Five-SeveN | Anodized Gunmetal,consumer grade,False,False,pistol,0.0,0.08,1,0,the alpha collection,3,210
+Five-SeveN | Berries And Cherries,restricted,False,False,pistol,0.0,0.1,1,0,the control collection,3,1002
+Five-SeveN | Boost Protocol,restricted,True,False,pistol,0.0,0.41,3,0,operation riptide case,3,1093
+Five-SeveN | Buddy,restricted,True,False,pistol,0.0,0.55,4,0,cs20 case,3,906
+Five-SeveN | Candy Apple,industrial grade,False,False,pistol,0.0,0.3,2,0,the assault collection,3,3
+Five-SeveN | Capillary,mil-spec,True,False,pistol,0.0,0.7,4,0,spectrum case,3,646
+Five-SeveN | Case Hardened,restricted,True,False,pistol,0.0,1.0,4,0,csgo weapon case 2,3,44
+Five-SeveN | Contractor,consumer grade,False,True,pistol,0.06,0.8,4,0,the mirage collection,3,46
+Five-SeveN | Coolant,consumer grade,False,True,pistol,0.0,0.5,4,0,the 2018 nuke collection,3,784
+Five-SeveN | Copper Galaxy,restricted,True,False,pistol,0.0,0.2,2,0,csgo weapon case 3,3,274
+Five-SeveN | Crimson Blossom,mil-spec,False,False,pistol,0.0,0.5,4,0,the st marc collection,3,729
+Five-SeveN | Fairy Tale,classified,True,False,pistol,0.02,0.9,4,0,operation broken fang case,3,979
+Five-SeveN | Fall Hazard,classified,False,True,pistol,0.01,0.52,4,0,the 2021 vertigo collection,3,1082
+Five-SeveN | Flame Test,mil-spec,True,False,pistol,0.0,0.65,4,0,clutch case,3,693
+Five-SeveN | Forest Night,consumer grade,False,True,pistol,0.06,0.8,4,0,the train collection,3,78
+Five-SeveN | Fowl Play,classified,True,False,pistol,0.0,1.0,4,0,operation breakout weapon case,3,352
+Five-SeveN | Hot Shot,industrial grade,False,True,pistol,0.0,1.0,4,0,the cache collection,3,377
+Five-SeveN | Hybrid,restricted,True,False,pistol,0.0,1.0,4,0,kilowatt case,3,1168
+Five-SeveN | Hyper Beast,covert,True,False,pistol,0.0,1.0,4,0,operation hydra case,3,660
+Five-SeveN | Jungle,consumer grade,False,False,pistol,0.06,0.8,4,0,the aztec collection,3,151
+Five-SeveN | Kami,mil-spec,True,False,pistol,0.0,0.3,2,0,winter offensive weapon case,3,265
+Five-SeveN | Monkey Business,classified,True,False,pistol,0.1,0.9,4,1,chroma 2 case,3,427
+Five-SeveN | Neon Kimono,restricted,False,False,pistol,0.0,0.8,4,0,the rising sun collection,3,464
+Five-SeveN | Nightshade,mil-spec,True,False,pistol,0.0,0.5,4,0,esports 2013 winter case,3,223
+Five-SeveN | Nitro,mil-spec,False,False,pistol,0.06,0.8,4,0,the chop shop collection,3,254
+Five-SeveN | Orange Peel,industrial grade,False,True,pistol,0.06,0.8,4,0,the dust 2 collection,3,141
+Five-SeveN | Retrobution,restricted,True,False,pistol,0.0,1.0,4,0,revolver case,3,510
+Five-SeveN | Scrawl,mil-spec,True,False,pistol,0.0,1.0,4,0,dreams and nightmares case,3,1128
+Five-SeveN | Scumbria,mil-spec,True,False,pistol,0.0,1.0,4,0,gamma 2 case,3,605
+Five-SeveN | Silver Quartz,mil-spec,False,True,pistol,0.0,0.4,3,0,the safehouse collection,3,252
+Five-SeveN | Triumvirate,restricted,True,False,pistol,0.0,0.61,4,0,operation wildfire case,3,530
+Five-SeveN | Urban Hazard,mil-spec,True,False,pistol,0.0,0.25,2,0,operation vanguard weapon case,3,387
+Five-SeveN | Violent Daimyo,mil-spec,True,False,pistol,0.0,0.7,4,0,gamma case,3,585
+Five-SeveN | Withered Vine,industrial grade,False,True,pistol,0.0,0.5,4,0,the 2021 dust 2 collection,3,932
+Flip Knife | Autotronic,covert,True,False,knife,0.0,0.85,4,0,"gamma 2 case, gamma case",505,574
+Flip Knife | Black Laminate,covert,True,False,knife,0.0,1.0,4,0,"gamma 2 case, gamma case",505,564
+Flip Knife | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",505,42
+Flip Knife | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",505,77
+Flip Knife | Bright Water,covert,True,False,knife,0.0,0.5,4,0,"gamma 2 case, gamma case",505,578
+Flip Knife | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",505,44
+Flip Knife | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",505,12
+Flip Knife | Damascus Steel,covert,True,False,knife,0.0,0.5,4,0,"chroma 3 case, chroma 2 case, chroma case",505,410
+Flip Knife | Doppler,covert,True,False,knife,0.0,0.08,1,0,"chroma 3 case, chroma 2 case, chroma case",505,421
+Flip Knife | Fade,covert,True,False,knife,0.0,0.08,1,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",505,38
+Flip Knife | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",505,5
+Flip Knife | Freehand,covert,True,False,knife,0.0,0.48,4,0,"gamma 2 case, gamma case",505,580
+Flip Knife | Gamma Doppler,covert,True,False,knife,0.0,0.08,1,0,"gamma 2 case, gamma case",505,572
+Flip Knife | Lore,covert,True,False,knife,0.0,0.65,4,0,"gamma 2 case, gamma case",505,559
+Flip Knife | Marble Fade,covert,True,False,knife,0.0,0.08,1,0,"chroma 3 case, chroma 2 case, chroma case",505,413
+Flip Knife | Night,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",505,40
+Flip Knife | Rust Coat,covert,True,False,knife,0.4,1.0,4,3,"chroma 3 case, chroma 2 case, chroma case",505,414
+Flip Knife | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",505,72
+Flip Knife | Scorched,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",505,175
+Flip Knife | Slaughter,covert,True,False,knife,0.01,0.26,2,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",505,59
+Flip Knife | Stained,covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",505,43
+Flip Knife | Tiger Tooth,covert,True,False,knife,0.0,0.08,1,0,"chroma 3 case, chroma 2 case, chroma case",505,409
+Flip Knife | Ultraviolet,covert,True,False,knife,0.06,0.8,4,0,"chroma 3 case, chroma 2 case, chroma case",505,98
+Flip Knife | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",505,143
+Flip Knife | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",505,0
+G3SG1 | Ancient Ritual,industrial grade,False,True,sniper rifle,0.0,0.76,4,0,the ancient collection,11,1034
+G3SG1 | Arctic Camo,industrial grade,False,False,sniper rifle,0.06,0.8,4,0,the office collection,11,6
+G3SG1 | Azure Zebra,mil-spec,True,False,sniper rifle,0.0,0.28,2,0,esports 2013 winter case,11,229
+G3SG1 | Black Sand,mil-spec,True,False,sniper rifle,0.0,0.8,4,0,shattered web case,11,891
+G3SG1 | Chronos,restricted,False,False,sniper rifle,0.0,0.4,3,0,the gods and monsters collection,11,438
+G3SG1 | Contractor,consumer grade,False,False,sniper rifle,0.06,0.8,4,0,the baggage collection,11,46
+G3SG1 | Demeter,mil-spec,True,False,sniper rifle,0.06,0.8,4,0,operation bravo case,11,195
+G3SG1 | Desert Storm,consumer grade,False,True,sniper rifle,0.06,0.8,4,0,the dust 2 collection,11,8
+G3SG1 | Digital Mesh,mil-spec,True,False,sniper rifle,0.0,0.8,4,0,operation broken fang case,11,980
+G3SG1 | Dream Glade,restricted,True,False,sniper rifle,0.0,1.0,4,0,dreams and nightmares case,11,1129
+G3SG1 | Flux,classified,True,False,sniper rifle,0.0,0.9,4,0,shadow case,11,493
+G3SG1 | Green Apple,industrial grade,False,False,sniper rifle,0.0,0.3,2,0,the bank collection,11,294
+G3SG1 | High Seas,restricted,True,False,sniper rifle,0.0,0.7,4,0,horizon case,11,712
+G3SG1 | Hunter,mil-spec,True,False,sniper rifle,0.0,1.0,4,0,spectrum 2 case,11,677
+G3SG1 | Jungle Dashed,consumer grade,False,True,sniper rifle,0.06,0.8,4,0,the lake collection,11,147
+G3SG1 | Keeping Tabs,mil-spec,True,False,sniper rifle,0.0,0.7,4,0,operation riptide case,11,1095
+G3SG1 | Murky,mil-spec,True,False,sniper rifle,0.0,0.25,2,0,operation vanguard weapon case,11,382
+G3SG1 | New Roots,mil-spec,False,True,sniper rifle,0.0,0.55,4,0,the 2021 dust 2 collection,11,930
+G3SG1 | Orange Crash,mil-spec,True,False,sniper rifle,0.0,0.52,4,0,chroma 3 case,11,545
+G3SG1 | Orange Kimono,consumer grade,False,False,sniper rifle,0.0,0.8,4,0,the rising sun collection,11,465
+G3SG1 | Polar Camo,consumer grade,False,True,sniper rifle,0.06,0.8,4,0,the train collection,11,74
+G3SG1 | Safari Mesh,consumer grade,False,True,sniper rifle,0.06,0.8,4,0,the mirage collection,11,72
+G3SG1 | Scavenger,restricted,True,False,sniper rifle,0.0,0.65,4,0,danger zone case,11,806
+G3SG1 | Stinger,restricted,True,False,sniper rifle,0.0,0.7,4,0,glove case,11,628
+G3SG1 | The Executioner,classified,True,False,sniper rifle,0.14,0.85,4,1,revolver case,11,511
+G3SG1 | VariCamo,industrial grade,False,True,sniper rifle,0.0,0.6,4,0,the safehouse collection,11,235
+G3SG1 | Ventilator,mil-spec,True,False,sniper rifle,0.0,0.45,3,0,gamma 2 case,11,606
+G3SG1 | Violet Murano,mil-spec,False,False,sniper rifle,0.0,0.5,4,0,the canals collection,11,739
+Galil AR | Akoben,mil-spec,True,False,rifle,0.0,0.75,4,0,prisma case,13,842
+Galil AR | Amber Fade,mil-spec,False,True,rifle,0.0,0.4,3,0,the 2021 dust 2 collection,13,246
+Galil AR | Aqua Terrace,mil-spec,False,False,rifle,0.0,0.7,4,0,the rising sun collection,13,460
+Galil AR | Black Sand,mil-spec,True,False,rifle,0.0,1.0,4,0,glove case,13,629
+Galil AR | Blue Titanium,mil-spec,True,False,rifle,0.0,0.04,0,0,esports 2013 winter case,13,216
+Galil AR | CAUTION!,restricted,False,True,rifle,0.0,0.55,4,0,the 2021 vertigo collection,13,1071
+Galil AR | Cerberus,restricted,False,True,rifle,0.0,0.9,4,0,the cache collection,13,379
+Galil AR | Chatterbox,covert,True,False,rifle,0.35,0.85,4,2,chroma case,13,398
+Galil AR | Chromatic Aberration,classified,True,False,rifle,0.0,1.0,4,0,snakebite case,13,1038
+Galil AR | Cold Fusion,industrial grade,False,True,rifle,0.0,0.83,4,0,the 2018 nuke collection,13,790
+Galil AR | Connexion,restricted,True,False,rifle,0.0,0.8,4,0,fracture case,13,972
+Galil AR | Crimson Tsunami,restricted,True,False,rifle,0.0,0.55,4,0,spectrum case,13,647
+Galil AR | Destroyer,mil-spec,True,False,rifle,0.0,0.7,4,0,recoil case,13,1147
+Galil AR | Dusk Ruins,mil-spec,False,True,rifle,0.0,0.6,4,0,the ancient collection,13,1032
+Galil AR | Eco,classified,True,False,rifle,0.1,0.85,4,1,chroma 2 case,13,428
+Galil AR | Firefight,restricted,True,False,rifle,0.0,1.0,4,0,chroma 3 case,13,546
+Galil AR | Hunting Blind,consumer grade,False,True,rifle,0.0,0.6,4,0,the mirage collection,13,241
+Galil AR | Kami,mil-spec,True,False,rifle,0.0,0.6,4,0,huntsman weapon case,13,308
+Galil AR | Orange DDPAT,restricted,True,False,rifle,0.06,0.8,4,0,esports 2013 case,13,83
+Galil AR | Phoenix Blacklight,restricted,False,False,rifle,0.0,0.7,4,0,the havoc collection,13,1013
+Galil AR | Rocket Pop,mil-spec,True,False,rifle,0.0,1.0,4,0,falchion case,13,478
+Galil AR | Sage Spray,consumer grade,False,True,rifle,0.06,0.8,4,0,the lake collection,13,119
+Galil AR | Sandstorm,mil-spec,True,False,rifle,0.1,0.6,4,1,winter offensive weapon case,13,264
+Galil AR | Shattered,mil-spec,True,False,rifle,0.06,0.8,4,0,operation bravo case,13,192
+Galil AR | Signal,restricted,True,False,rifle,0.0,0.5,4,0,danger zone case,13,807
+Galil AR | Stone Cold,restricted,True,False,rifle,0.0,0.9,4,0,shadow case,13,494
+Galil AR | Sugar Rush,classified,True,False,rifle,0.0,0.55,4,0,operation hydra case,13,661
+Galil AR | Tornado,consumer grade,False,False,rifle,0.06,0.8,4,0,the norse collection,13,101
+Galil AR | Tuxedo,mil-spec,False,False,rifle,0.0,0.8,4,0,the bank collection,13,297
+Galil AR | Urban Rubble,industrial grade,False,False,rifle,0.0,0.5,4,0,the chop shop collection,13,237
+Galil AR | Vandal,mil-spec,True,False,rifle,0.0,1.0,4,0,operation broken fang case,13,981
+Galil AR | VariCamo,industrial grade,False,True,rifle,0.0,0.6,4,0,the safehouse collection,13,235
+Galil AR | Winter Forest,industrial grade,False,False,rifle,0.06,0.8,4,0,the office collection,13,76
+Glock-18 | Block-18,restricted,True,False,pistol,0.0,0.67,4,0,kilowatt case,4,1167
+Glock-18 | Blue Fissure,mil-spec,True,False,pistol,0.06,0.58,4,0,csgo weapon case 3,4,278
+Glock-18 | Brass,restricted,False,False,pistol,0.0,1.0,4,0,the dust collection,4,159
+Glock-18 | Bullet Queen,covert,True,False,pistol,0.0,1.0,4,0,prisma 2 case,4,957
+Glock-18 | Bunsen Burner,mil-spec,True,False,pistol,0.0,0.8,4,0,falchion case,4,479
+Glock-18 | Candy Apple,mil-spec,False,True,pistol,0.0,0.3,2,0,the italy collection,4,3
+Glock-18 | Catacombs,mil-spec,True,False,pistol,0.0,0.5,4,0,chroma case,4,399
+Glock-18 | Clear Polymer,mil-spec,True,False,pistol,0.0,1.0,4,0,snakebite case,4,1039
+Glock-18 | Death Rattle,industrial grade,False,False,pistol,0.08,0.5,4,1,the bank collection,4,293
+Glock-18 | Dragon Tattoo,restricted,True,False,pistol,0.0,0.08,1,0,csgo weapon case,4,48
+Glock-18 | Fade,restricted,False,False,pistol,0.0,0.08,1,0,the assault collection,4,38
+Glock-18 | Franklin,restricted,False,False,pistol,0.0,0.4,3,0,the havoc collection,4,1016
+Glock-18 | Gamma Doppler,covert,False,False,pistol,0.0,0.5,4,0,the 2021 train collection,4,1123
+Glock-18 | Grinder,restricted,True,False,pistol,0.02,0.25,2,0,operation vanguard weapon case,4,381
+Glock-18 | Groundwater,industrial grade,False,True,pistol,0.06,0.8,4,0,the mirage collection,4,2
+Glock-18 | High Beam,industrial grade,False,True,pistol,0.0,0.08,1,0,the 2018 inferno collection,4,799
+Glock-18 | Ironwork,mil-spec,True,False,pistol,0.0,1.0,4,0,glove case,4,623
+Glock-18 | Moonrise,restricted,True,False,pistol,0.0,0.65,4,0,clutch case,4,694
+Glock-18 | Neo-Noir,covert,True,False,pistol,0.0,1.0,4,0,operation broken fang case,4,988
+Glock-18 | Night,industrial grade,False,True,pistol,0.06,0.8,4,0,the overpass collection,4,40
+Glock-18 | Nuclear Garden,restricted,False,True,pistol,0.0,0.7,4,0,the 2018 nuke collection,4,789
+Glock-18 | Off World,mil-spec,True,False,pistol,0.0,1.0,4,0,spectrum 2 case,4,680
+Glock-18 | Oxide Blaze,mil-spec,True,False,pistol,0.0,0.85,4,0,danger zone case,4,808
+Glock-18 | Pink DDPAT,restricted,False,True,pistol,0.06,0.8,4,0,the 2021 mirage collection,4,84
+Glock-18 | Ramese's Reach,restricted,False,True,pistol,0.0,1.0,4,0,anubis collection package,4,1240
+Glock-18 | Reactor,mil-spec,False,True,pistol,0.0,1.0,4,0,the cache collection,4,367
+Glock-18 | Red Tire,industrial grade,False,True,pistol,0.0,0.55,4,0,the 2021 vertigo collection,4,1079
+Glock-18 | Royal Legion,restricted,True,False,pistol,0.0,1.0,4,0,operation wildfire case,4,532
+Glock-18 | Sacrifice,mil-spec,True,False,pistol,0.0,1.0,4,0,cs20 case,4,918
+Glock-18 | Sand Dune,industrial grade,False,False,pistol,0.06,0.8,4,0,the alpha collection,4,208
+Glock-18 | Snack Attack,classified,True,False,pistol,0.0,1.0,4,0,operation riptide case,4,1100
+Glock-18 | Steel Disruption,restricted,True,False,pistol,0.0,0.2,2,0,esports 2014 summer case,4,230
+Glock-18 | Synth Leaf,restricted,False,False,pistol,0.0,0.7,4,0,the st marc collection,4,732
+Glock-18 | Twilight Galaxy,classified,False,False,pistol,0.0,0.2,2,0,the chop shop collection,4,437
+Glock-18 | Umbral Rabbit,restricted,True,False,pistol,0.0,0.75,4,0,revolution case,4,1227
+Glock-18 | Vogue,classified,True,False,pistol,0.0,0.75,4,0,fracture case,4,963
+Glock-18 | Warhawk,mil-spec,True,False,pistol,0.0,1.0,4,0,horizon case,4,713
+Glock-18 | Wasteland Rebel,covert,True,False,pistol,0.0,0.54,4,0,gamma case,4,586
+Glock-18 | Water Elemental,classified,True,False,pistol,0.0,0.7,4,0,operation breakout weapon case,4,353
+Glock-18 | Weasel,restricted,True,False,pistol,0.0,1.0,4,0,gamma 2 case,4,607
+Glock-18 | Winterized,mil-spec,True,False,pistol,0.0,1.0,4,0,recoil case,4,1158
+Glock-18 | Wraiths,mil-spec,True,False,pistol,0.0,0.8,4,0,shadow case,4,495
+Gut Knife | Autotronic,covert,True,False,knife,0.0,0.85,4,0,"gamma 2 case, gamma case",506,575
+Gut Knife | Black Laminate,covert,True,False,knife,0.0,1.0,4,0,"gamma 2 case, gamma case",506,565
+Gut Knife | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",506,42
+Gut Knife | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",506,77
+Gut Knife | Bright Water,covert,True,False,knife,0.0,0.5,4,0,"gamma 2 case, gamma case",506,578
+Gut Knife | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",506,44
+Gut Knife | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",506,12
+Gut Knife | Damascus Steel,covert,True,False,knife,0.0,0.5,4,0,"chroma 3 case, chroma 2 case, chroma case",506,410
+Gut Knife | Doppler,covert,True,False,knife,0.0,0.08,1,0,"chroma 3 case, chroma 2 case, chroma case",506,421
+Gut Knife | Fade,covert,True,False,knife,0.0,0.08,1,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",506,38
+Gut Knife | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",506,5
+Gut Knife | Freehand,covert,True,False,knife,0.0,0.48,4,0,"gamma 2 case, gamma case",506,580
+Gut Knife | Gamma Doppler,covert,True,False,knife,0.0,0.08,1,0,"gamma 2 case, gamma case",506,572
+Gut Knife | Lore,covert,True,False,knife,0.0,0.65,4,0,"gamma 2 case, gamma case",506,560
+Gut Knife | Marble Fade,covert,True,False,knife,0.0,0.08,1,0,"chroma 3 case, chroma 2 case, chroma case",506,413
+Gut Knife | Night,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",506,40
+Gut Knife | Rust Coat,covert,True,False,knife,0.4,1.0,4,3,"chroma 3 case, chroma 2 case, chroma case",506,414
+Gut Knife | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",506,72
+Gut Knife | Scorched,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",506,175
+Gut Knife | Slaughter,covert,True,False,knife,0.01,0.26,2,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",506,59
+Gut Knife | Stained,covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",506,43
+Gut Knife | Tiger Tooth,covert,True,False,knife,0.0,0.08,1,0,"chroma 3 case, chroma 2 case, chroma case",506,409
+Gut Knife | Ultraviolet,covert,True,False,knife,0.06,0.8,4,0,"chroma 3 case, chroma 2 case, chroma case",506,98
+Gut Knife | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",506,143
+Gut Knife | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",506,0
+Hand Wraps | Arboreal,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5032,10056
+Hand Wraps | Badlands,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5032,10036
+Hand Wraps | CAUTION!,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5032,10084
+Hand Wraps | Cobalt Skulls,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5032,10053
+Hand Wraps | Constrictor,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5032,10083
+Hand Wraps | Desert Shamagh,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5032,10081
+Hand Wraps | Duct Tape,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5032,10055
+Hand Wraps | Giraffe,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5032,10082
+Hand Wraps | Leather,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5032,10009
+Hand Wraps | Overprint,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5032,10054
+Hand Wraps | Slaughter,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5032,10021
+Hand Wraps | Spruce DDPAT,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5032,10010
+Huntsman Knife | Autotronic,covert,True,False,knife,0.0,0.85,4,0,"dreams and nightmares case, operation riptide case",509,1117
+Huntsman Knife | Black Laminate,covert,True,False,knife,0.0,1.0,4,0,"dreams and nightmares case, operation riptide case",509,1112
+Huntsman Knife | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,,509,42
+Huntsman Knife | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,,509,77
+Huntsman Knife | Bright Water,covert,True,False,knife,0.0,0.5,4,0,"dreams and nightmares case, operation riptide case",509,579
+Huntsman Knife | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,,509,44
+Huntsman Knife | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,,509,12
+Huntsman Knife | Damascus Steel,covert,True,False,knife,0.0,0.5,4,0,"spectrum 2 case, spectrum case",509,411
+Huntsman Knife | Doppler,covert,True,False,knife,0.0,0.08,1,0,"spectrum 2 case, spectrum case",509,421
+Huntsman Knife | Fade,covert,True,False,knife,0.0,0.08,1,0,,509,38
+Huntsman Knife | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,,509,5
+Huntsman Knife | Freehand,covert,True,False,knife,0.0,0.48,4,0,"dreams and nightmares case, operation riptide case",509,581
+Huntsman Knife | Gamma Doppler,covert,True,False,knife,0.0,0.08,1,0,"dreams and nightmares case, operation riptide case",509,572
+Huntsman Knife | Lore,covert,True,False,knife,0.0,0.65,4,0,"dreams and nightmares case, operation riptide case",509,1107
+Huntsman Knife | Marble Fade,covert,True,False,knife,0.0,0.08,1,0,"spectrum 2 case, spectrum case",509,413
+Huntsman Knife | Night,covert,True,False,knife,0.06,0.8,4,0,,509,40
+Huntsman Knife | Rust Coat,covert,True,False,knife,0.4,1.0,4,3,"spectrum 2 case, spectrum case",509,414
+Huntsman Knife | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,,509,72
+Huntsman Knife | Scorched,covert,True,False,knife,0.06,0.8,4,0,,509,175
+Huntsman Knife | Slaughter,covert,True,False,knife,0.01,0.26,2,0,,509,59
+Huntsman Knife | Stained,covert,True,False,knife,0.0,1.0,4,0,,509,43
+Huntsman Knife | Tiger Tooth,covert,True,False,knife,0.0,0.08,1,0,"spectrum 2 case, spectrum case",509,409
+Huntsman Knife | Ultraviolet,covert,True,False,knife,0.06,0.8,4,0,"spectrum 2 case, spectrum case",509,620
+Huntsman Knife | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,,509,143
+Huntsman Knife | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,,509,0
+Hydra Gloves | Case Hardened,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5035,10060
+Hydra Gloves | Emerald,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5035,10057
+Hydra Gloves | Mangrove,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5035,10058
+Hydra Gloves | Rattler,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5035,10059
+Karambit | Autotronic,covert,True,False,knife,0.0,0.85,4,0,"gamma 2 case, gamma case",507,576
+Karambit | Black Laminate,covert,True,False,knife,0.0,1.0,4,0,"gamma 2 case, gamma case",507,566
+Karambit | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",507,42
+Karambit | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",507,77
+Karambit | Bright Water,covert,True,False,knife,0.0,0.5,4,0,"gamma 2 case, gamma case",507,578
+Karambit | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",507,44
+Karambit | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",507,12
+Karambit | Damascus Steel,covert,True,False,knife,0.0,0.5,4,0,"chroma 3 case, chroma 2 case, chroma case",507,410
+Karambit | Doppler,covert,True,False,knife,0.0,0.08,1,0,"chroma 3 case, chroma 2 case, chroma case",507,421
+Karambit | Fade,covert,True,False,knife,0.0,0.08,1,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",507,38
+Karambit | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",507,5
+Karambit | Freehand,covert,True,False,knife,0.0,0.48,4,0,"gamma 2 case, gamma case",507,582
+Karambit | Gamma Doppler,covert,True,False,knife,0.0,0.08,1,0,"gamma 2 case, gamma case",507,572
+Karambit | Lore,covert,True,False,knife,0.0,0.65,4,0,"gamma 2 case, gamma case",507,561
+Karambit | Marble Fade,covert,True,False,knife,0.0,0.08,1,0,"chroma 3 case, chroma 2 case, chroma case",507,413
+Karambit | Night,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",507,40
+Karambit | Rust Coat,covert,True,False,knife,0.4,1.0,4,3,"chroma 3 case, chroma 2 case, chroma case",507,414
+Karambit | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",507,72
+Karambit | Scorched,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",507,175
+Karambit | Slaughter,covert,True,False,knife,0.01,0.26,2,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",507,59
+Karambit | Stained,covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",507,43
+Karambit | Tiger Tooth,covert,True,False,knife,0.0,0.08,1,0,"chroma 3 case, chroma 2 case, chroma case",507,409
+Karambit | Ultraviolet,covert,True,False,knife,0.06,0.8,4,0,"chroma 3 case, chroma 2 case, chroma case",507,98
+Karambit | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",507,143
+Karambit | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",507,0
+Kukri Knife | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,,526,42
+Kukri Knife | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,,526,77
+Kukri Knife | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,,526,44
+Kukri Knife | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,,526,12
+Kukri Knife | Fade,covert,True,False,knife,0.0,0.08,1,0,,526,38
+Kukri Knife | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,,526,5
+Kukri Knife | Night Stripe,covert,True,False,knife,0.06,0.8,4,0,,526,735
+Kukri Knife | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,,526,72
+Kukri Knife | Scorched,covert,True,False,knife,0.06,0.8,4,0,,526,175
+Kukri Knife | Slaughter,covert,True,False,knife,0.01,0.26,2,0,,526,59
+Kukri Knife | Stained,covert,True,False,knife,0.0,1.0,4,0,,526,43
+Kukri Knife | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,,526,143
+Kukri Knife | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,,526,0
+M249 | Aztec,restricted,True,False,machine gun,0.0,0.75,4,0,cs20 case,14,902
+M249 | Blizzard Marbleized,industrial grade,False,False,machine gun,0.06,0.8,4,0,the office collection,14,75
+M249 | Contrast Spray,consumer grade,False,True,machine gun,0.06,0.8,4,0,the overpass collection,14,22
+M249 | Deep Relief,mil-spec,True,False,machine gun,0.0,1.0,4,0,operation broken fang case,14,983
+M249 | Downtown,restricted,True,False,machine gun,0.0,0.65,4,0,recoil case,14,1148
+M249 | Emerald Poison Dart,restricted,True,False,machine gun,0.0,0.45,3,0,spectrum case,14,648
+M249 | Gator Mesh,industrial grade,False,True,machine gun,0.0,0.6,4,0,the safehouse collection,14,243
+M249 | Humidor,mil-spec,False,True,machine gun,0.0,0.5,4,0,the 2021 mirage collection,14,827
+M249 | Impact Drill,consumer grade,False,False,machine gun,0.0,1.0,4,0,the chop shop collection,14,472
+M249 | Jungle,consumer grade,False,False,machine gun,0.06,0.8,4,0,the st marc collection,14,151
+M249 | Jungle DDPAT,consumer grade,False,False,machine gun,0.06,0.8,4,0,the alpha collection,14,202
+M249 | Magma,mil-spec,True,False,machine gun,0.0,0.7,4,0,winter offensive weapon case,14,266
+M249 | Midnight Palm,industrial grade,False,True,machine gun,0.0,0.5,4,0,the 2021 dust 2 collection,14,933
+M249 | Nebula Crusader,restricted,True,False,machine gun,0.0,1.0,4,0,shadow case,14,496
+M249 | O.S.I.P.R.,mil-spec,True,False,machine gun,0.0,0.7,4,0,snakebite case,14,1042
+M249 | Predator,consumer grade,False,False,machine gun,0.06,0.8,4,0,the havoc collection,14,170
+M249 | Shipping Forecast,industrial grade,False,False,machine gun,0.0,0.5,4,0,the gods and monsters collection,14,452
+M249 | Spectre,mil-spec,True,False,machine gun,0.0,0.5,4,0,chroma 3 case,14,547
+M249 | Submerged,consumer grade,False,True,machine gun,0.02,0.8,4,0,anubis collection package,14,1242
+M249 | System Lock,mil-spec,True,False,machine gun,0.0,0.8,4,0,chroma case,14,401
+M249 | Warbird,mil-spec,True,False,machine gun,0.05,0.65,4,0,shattered web case,14,900
+M4A1-S | Atomic Alloy,classified,True,False,rifle,0.0,0.9,4,0,huntsman weapon case,60,301
+M4A1-S | Basilisk,restricted,True,False,rifle,0.0,0.68,4,0,operation vanguard weapon case,60,383
+M4A1-S | Black Lotus,classified,True,False,rifle,0.0,0.7,4,0,kilowatt case,60,1166
+M4A1-S | Blood Tiger,mil-spec,True,False,rifle,0.0,0.3,2,0,csgo weapon case 2,60,217
+M4A1-S | Blue Phosphor,classified,False,False,rifle,0.0,0.08,1,0,the control collection,60,1017
+M4A1-S | Boreal Forest,industrial grade,False,True,rifle,0.06,0.8,4,0,the italy collection,60,77
+M4A1-S | Briefing,mil-spec,True,False,rifle,0.0,0.8,4,0,operation hydra case,60,663
+M4A1-S | Bright Water,restricted,True,False,rifle,0.1,0.22,2,1,operation bravo case,60,189
+M4A1-S | Chantico's Fire,covert,True,False,rifle,0.0,0.99,4,0,chroma 3 case,60,548
+M4A1-S | Control Panel,classified,False,True,rifle,0.0,1.0,4,0,the 2018 nuke collection,60,792
+M4A1-S | Cyrex,covert,True,False,rifle,0.0,0.5,4,0,operation breakout weapon case,60,360
+M4A1-S | Dark Water,restricted,True,False,rifle,0.1,0.26,2,1,csgo weapon case,60,60
+M4A1-S | Decimator,classified,True,False,rifle,0.0,0.85,4,0,spectrum case,60,644
+M4A1-S | Emphorosaur-S,restricted,True,False,rifle,0.0,0.8,4,0,revolution case,60,1223
+M4A1-S | Fizzy POP,mil-spec,False,False,rifle,0.0,0.57,4,0,the 2021 train collection,60,1059
+M4A1-S | Flashback,restricted,True,False,rifle,0.0,1.0,4,0,glove case,60,631
+M4A1-S | Golden Coil,covert,True,False,rifle,0.0,1.0,4,0,shadow case,60,497
+M4A1-S | Guardian,classified,True,False,rifle,0.0,0.5,4,0,winter offensive weapon case,60,257
+M4A1-S | Hot Rod,classified,False,False,rifle,0.0,0.08,1,0,the chop shop collection,60,445
+M4A1-S | Hyper Beast,covert,True,False,rifle,0.0,1.0,4,0,chroma 2 case,60,430
+M4A1-S | Icarus Fell,restricted,False,False,rifle,0.0,0.1,1,0,the gods and monsters collection,60,440
+M4A1-S | Imminent Danger,covert,False,True,rifle,0.0,0.8,4,0,the 2021 vertigo collection,60,1073
+M4A1-S | Knight,classified,False,True,rifle,0.0,0.1,1,0,the cobblestone collection,60,326
+M4A1-S | Leaded Glass,classified,True,False,rifle,0.0,0.7,4,0,spectrum 2 case,60,681
+M4A1-S | Master Piece,classified,False,True,rifle,0.0,1.0,4,0,the overpass collection,60,321
+M4A1-S | Mecha Industries,covert,True,False,rifle,0.0,0.8,4,0,gamma case,60,587
+M4A1-S | Moss Quartz,industrial grade,False,False,rifle,0.0,0.5,4,0,the norse collection,60,862
+M4A1-S | Mud-Spec,industrial grade,False,True,rifle,0.0,0.73,4,0,anubis collection package,60,1243
+M4A1-S | Night Terror,restricted,True,False,rifle,0.0,0.7,4,0,dreams and nightmares case,60,1130
+M4A1-S | Nightmare,classified,True,False,rifle,0.0,1.0,4,0,horizon case,60,714
+M4A1-S | Nitro,restricted,False,True,rifle,0.06,0.8,4,0,the safehouse collection,60,254
+M4A1-S | Player Two,covert,True,False,rifle,0.0,0.84,4,0,prisma 2 case,60,946
+M4A1-S | Printstream,covert,True,False,rifle,0.0,0.8,4,0,operation broken fang case,60,984
+M4A1-S | VariCamo,mil-spec,False,True,rifle,0.0,0.6,4,0,the dust 2 collection,60,235
+M4A1-S | Welcome to the Jungle,covert,False,True,rifle,0.0,1.0,4,0,the ancient collection,60,1001
+M4A4 | Asiimov,covert,True,False,rifle,0.18,1.0,4,2,winter offensive weapon case,16,255
+M4A4 | Bullet Rain,covert,True,False,rifle,0.02,0.46,4,0,esports 2014 summer case,16,155
+M4A4 | Buzz Kill,covert,True,False,rifle,0.0,0.7,4,0,glove case,16,632
+M4A4 | Converter,mil-spec,False,True,rifle,0.0,0.4,3,0,the 2018 inferno collection,16,793
+M4A4 | Cyber Security,classified,True,False,rifle,0.0,0.98,4,0,operation broken fang case,16,985
+M4A4 | Dark Blossom,industrial grade,False,False,rifle,0.0,0.5,4,0,the st marc collection,16,730
+M4A4 | Daybreak,restricted,False,False,rifle,0.0,0.6,4,0,the rising sun collection,16,471
+M4A4 | Desert Storm,industrial grade,False,False,rifle,0.06,0.8,4,0,the dust collection,16,8
+M4A4 | Desert-Strike,covert,True,False,rifle,0.0,0.7,4,0,huntsman weapon case,16,336
+M4A4 | Desolate Space,classified,True,False,rifle,0.0,1.0,4,0,gamma case,16,588
+M4A4 | 龍王 (Dragon King),classified,True,False,rifle,0.0,0.75,4,0,chroma case,16,400
+M4A4 | Etch Lord,restricted,True,False,rifle,0.0,1.0,4,0,kilowatt case,16,1165
+M4A4 | Evil Daimyo,restricted,True,False,rifle,0.0,0.52,4,0,falchion case,16,480
+M4A4 | Eye of Horus,covert,False,True,rifle,0.0,0.7,4,0,anubis collection package,16,1255
+M4A4 | Faded Zebra,mil-spec,True,False,rifle,0.06,0.8,4,0,esports 2013 case,16,176
+M4A4 | Global Offensive,mil-spec,False,False,rifle,0.0,0.7,4,0,the control collection,16,993
+M4A4 | Griffin,restricted,True,False,rifle,0.0,0.8,4,0,operation vanguard weapon case,16,384
+M4A4 | Hellfire,classified,True,False,rifle,0.0,0.5,4,0,operation hydra case,16,664
+M4A4 | Howl,contraband,True,False,rifle,0.0,0.4,3,0,,16,309
+M4A4 | In Living Color,covert,True,False,rifle,0.0,0.79,4,0,snakebite case,16,1041
+M4A4 | Jungle Tiger,industrial grade,False,False,rifle,0.06,0.8,4,0,the aztec collection,16,16
+M4A4 | Magnesium,mil-spec,True,False,rifle,0.0,1.0,4,0,danger zone case,16,811
+M4A4 | Mainframe,industrial grade,False,True,rifle,0.0,0.5,4,0,the 2018 nuke collection,16,780
+M4A4 | Modern Hunter,restricted,False,False,rifle,0.06,0.8,4,0,the militia collection,16,164
+M4A4 | Neo-Noir,covert,True,False,rifle,0.0,0.9,4,0,clutch case,16,695
+M4A4 | Poly Mag,mil-spec,True,False,rifle,0.0,1.0,4,0,recoil case,16,1149
+M4A4 | Poseidon,classified,False,False,rifle,0.0,0.33,2,0,the gods and monsters collection,16,449
+M4A4 | Radiation Hazard,mil-spec,False,True,rifle,0.06,0.8,4,0,the nuke collection,16,167
+M4A4 | Red DDPAT,restricted,False,True,rifle,0.0,0.5,4,0,the 2021 dust 2 collection,16,926
+M4A4 | Royal Paladin,covert,True,False,rifle,0.0,0.8,4,0,revolver case,16,512
+M4A4 | Spider Lily,restricted,True,False,rifle,0.0,1.0,4,0,operation riptide case,16,1097
+M4A4 | Temukau,covert,True,False,rifle,0.0,0.8,4,0,revolution case,16,1228
+M4A4 | The Battlestar,covert,True,False,rifle,0.0,0.64,4,0,operation wildfire case,16,533
+M4A4 | The Coalition,covert,False,False,rifle,0.0,1.0,4,0,the 2021 train collection,16,1063
+M4A4 | The Emperor,covert,True,False,rifle,0.0,0.8,4,0,prisma case,16,844
+M4A4 | Tooth Fairy,classified,True,False,rifle,0.0,0.73,4,0,fracture case,16,971
+M4A4 | Tornado,industrial grade,False,True,rifle,0.06,0.8,4,0,the inferno collection,16,101
+M4A4 | Urban DDPAT,industrial grade,False,True,rifle,0.06,0.8,4,0,the train collection,16,17
+M4A4 | X-Ray,covert,True,False,rifle,0.0,0.3,2,0,esports 2013 winter case,16,215
+M4A4 | Zirka,restricted,True,False,rifle,0.06,0.42,3,0,operation bravo case,16,187
+M9 Bayonet | Autotronic,covert,True,False,knife,0.0,0.85,4,0,"gamma 2 case, gamma case",508,577
+M9 Bayonet | Black Laminate,covert,True,False,knife,0.0,1.0,4,0,"gamma 2 case, gamma case",508,567
+M9 Bayonet | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",508,42
+M9 Bayonet | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",508,77
+M9 Bayonet | Bright Water,covert,True,False,knife,0.0,0.5,4,0,"gamma 2 case, gamma case",508,579
+M9 Bayonet | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",508,44
+M9 Bayonet | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",508,12
+M9 Bayonet | Damascus Steel,covert,True,False,knife,0.0,0.5,4,0,"chroma 3 case, chroma 2 case, chroma case",508,411
+M9 Bayonet | Doppler,covert,True,False,knife,0.0,0.08,1,0,"chroma 3 case, chroma 2 case, chroma case",508,421
+M9 Bayonet | Fade,covert,True,False,knife,0.0,0.08,1,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",508,38
+M9 Bayonet | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",508,5
+M9 Bayonet | Freehand,covert,True,False,knife,0.0,0.48,4,0,"gamma 2 case, gamma case",508,581
+M9 Bayonet | Gamma Doppler,covert,True,False,knife,0.0,0.08,1,0,"gamma 2 case, gamma case",508,572
+M9 Bayonet | Lore,covert,True,False,knife,0.0,0.65,4,0,"gamma 2 case, gamma case",508,562
+M9 Bayonet | Marble Fade,covert,True,False,knife,0.0,0.08,1,0,"chroma 3 case, chroma 2 case, chroma case",508,413
+M9 Bayonet | Night,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",508,40
+M9 Bayonet | Rust Coat,covert,True,False,knife,0.4,1.0,4,3,"chroma 3 case, chroma 2 case, chroma case",508,414
+M9 Bayonet | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",508,72
+M9 Bayonet | Scorched,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",508,175
+M9 Bayonet | Slaughter,covert,True,False,knife,0.01,0.26,2,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",508,59
+M9 Bayonet | Stained,covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",508,43
+M9 Bayonet | Tiger Tooth,covert,True,False,knife,0.0,0.08,1,0,"chroma 3 case, chroma 2 case, chroma case",508,409
+M9 Bayonet | Ultraviolet,covert,True,False,knife,0.06,0.8,4,0,"chroma 3 case, chroma 2 case, chroma case",508,98
+M9 Bayonet | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",508,143
+M9 Bayonet | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,"revolver case, operation vanguard weapon case, operation phoenix weapon case, winter offensive weapon case, csgo weapon case 3, esports 2013 winter case, esports 2014 summer case, csgo weapon case 2, operation bravo case, esports 2013 case, csgo weapon case",508,0
+MAC-10 | Allure,restricted,True,False,smg,0.0,1.0,4,0,fracture case,17,965
+MAC-10 | Aloha,mil-spec,True,False,smg,0.0,0.65,4,0,operation hydra case,17,665
+MAC-10 | Amber Fade,mil-spec,False,True,smg,0.0,0.4,3,0,the mirage collection,17,246
+MAC-10 | Button Masher,restricted,True,False,smg,0.0,1.0,4,0,snakebite case,17,1045
+MAC-10 | Calf Skin,industrial grade,False,True,smg,0.0,1.0,4,0,the 2018 inferno collection,17,748
+MAC-10 | Candy Apple,industrial grade,False,True,smg,0.0,0.3,2,0,the train collection,17,3
+MAC-10 | Carnivore,mil-spec,True,False,smg,0.0,1.0,4,0,gamma case,17,589
+MAC-10 | Case Hardened,restricted,False,True,smg,0.0,1.0,4,0,the 2021 dust 2 collection,17,44
+MAC-10 | Classic Crate,mil-spec,True,False,smg,0.0,1.0,4,0,cs20 case,17,908
+MAC-10 | Commuter,industrial grade,False,False,smg,0.0,1.0,4,0,the baggage collection,17,343
+MAC-10 | Copper Borre,mil-spec,False,False,smg,0.0,0.5,4,0,the norse collection,17,761
+MAC-10 | Curse,restricted,True,False,smg,0.0,0.5,4,0,the huntsman collection,17,310
+MAC-10 | Disco Tech,classified,True,False,smg,0.0,1.0,4,0,prisma 2 case,17,947
+MAC-10 | Echoing Sands,industrial grade,False,True,smg,0.02,0.8,4,0,anubis collection package,17,1244
+MAC-10 | Ensnared,mil-spec,True,False,smg,0.0,0.9,4,0,dreams and nightmares case,17,1131
+MAC-10 | Fade,mil-spec,False,False,smg,0.0,0.08,1,0,the chop shop collection,17,38
+MAC-10 | Gold Brick,restricted,False,True,smg,0.0,0.7,4,0,the ancient collection,17,1025
+MAC-10 | Graven,restricted,True,False,smg,0.06,0.8,4,0,operation bravo case,17,188
+MAC-10 | Heat,restricted,True,False,smg,0.0,1.0,4,0,operation phoenix weapon case,17,284
+MAC-10 | Hot Snakes,classified,False,False,smg,0.0,1.0,4,0,the havoc collection,17,1009
+MAC-10 | Indigo,consumer grade,False,True,smg,0.06,0.8,4,0,the cobblestone collection,17,333
+MAC-10 | Lapis Gator,mil-spec,True,False,smg,0.0,0.5,4,0,operation wildfire case,17,534
+MAC-10 | Last Dive,restricted,True,False,smg,0.0,0.52,4,0,spectrum case,17,651
+MAC-10 | Light Box,mil-spec,True,False,smg,0.0,1.0,4,0,kilowatt case,17,1164
+MAC-10 | Malachite,restricted,True,False,smg,0.0,0.5,4,0,chroma case,17,402
+MAC-10 | Monkeyflage,mil-spec,True,False,smg,0.0,1.0,4,0,recoil case,17,1150
+MAC-10 | Neon Rider,covert,True,False,smg,0.0,0.45,3,0,chroma 2 case,17,433
+MAC-10 | Nuclear Garden,mil-spec,False,True,smg,0.0,0.7,4,0,the cache collection,17,372
+MAC-10 | Oceanic,mil-spec,True,False,smg,0.0,0.6,4,0,spectrum 2 case,17,682
+MAC-10 | Palm,industrial grade,False,True,smg,0.06,0.8,4,0,the dust 2 collection,17,157
+MAC-10 | Pipe Down,restricted,True,False,smg,0.0,0.9,4,0,danger zone case,17,812
+MAC-10 | Propaganda,classified,False,False,smg,0.0,0.62,4,0,the 2021 train collection,17,1067
+MAC-10 | Rangeen,mil-spec,True,False,smg,0.0,0.5,4,0,shadow case,17,498
+MAC-10 | Red Filigree,restricted,False,False,smg,0.0,0.5,4,0,the canals collection,17,742
+MAC-10 | Sakkaku,restricted,True,False,smg,0.21,0.79,4,2,revolution case,17,1229
+MAC-10 | Sienna Damask,consumer grade,False,True,smg,0.0,0.6,4,0,the 2021 mirage collection,17,826
+MAC-10 | Silver,industrial grade,False,False,smg,0.0,0.08,1,0,the bank collection,17,32
+MAC-10 | Stalker,covert,True,False,smg,0.0,1.0,4,0,shattered web case,17,898
+MAC-10 | Strats,consumer grade,False,True,smg,0.0,0.6,4,0,the 2021 vertigo collection,17,1075
+MAC-10 | Surfwood,consumer grade,False,False,smg,0.0,0.5,4,0,the st marc collection,17,871
+MAC-10 | Tatter,restricted,True,False,smg,0.0,0.5,4,0,huntsman weapon case,17,337
+MAC-10 | Tornado,consumer grade,False,False,smg,0.06,0.8,4,0,the militia collection,17,101
+MAC-10 | Toybox,classified,True,False,smg,0.0,1.0,4,0,operation riptide case,17,1098
+MAC-10 | Ultraviolet,mil-spec,True,False,smg,0.06,0.8,4,0,esports 2014 summer case,17,98
+MAC-10 | Urban DDPAT,consumer grade,False,True,smg,0.06,0.8,4,0,the vertigo collection,17,17
+MAC-10 | Whitefish,mil-spec,True,False,smg,0.0,1.0,4,0,prisma case,17,840
+MAG-7 | BI83 Spectrum,restricted,True,False,shotgun,0.0,0.6,4,0,operation riptide case,27,1089
+MAG-7 | Bulldozer,restricted,False,True,shotgun,0.06,0.8,4,0,the mirage collection,27,39
+MAG-7 | Carbon Fiber,industrial grade,False,False,shotgun,0.0,0.12,1,0,the control collection,27,70
+MAG-7 | Chainmail,industrial grade,False,False,shotgun,0.0,0.22,2,0,the norse collection,27,327
+MAG-7 | Cinquedea,classified,False,False,shotgun,0.0,1.0,4,0,the canals collection,27,737
+MAG-7 | Cobalt Core,mil-spec,True,False,shotgun,0.0,0.5,4,0,shadow case,27,499
+MAG-7 | Copper Coated,mil-spec,False,True,shotgun,0.0,1.0,4,0,anubis collection package,27,1245
+MAG-7 | Core Breach,restricted,False,True,shotgun,0.0,1.0,4,0,the 2018 nuke collection,27,787
+MAG-7 | Counter Terrace,mil-spec,False,False,shotgun,0.0,0.65,4,0,the rising sun collection,27,462
+MAG-7 | Firestarter,mil-spec,True,False,shotgun,0.06,0.49,4,0,operation vanguard weapon case,27,385
+MAG-7 | Foresight,mil-spec,True,False,shotgun,0.0,0.7,4,0,dreams and nightmares case,27,1132
+MAG-7 | Hard Water,mil-spec,True,False,shotgun,0.0,0.45,3,0,operation hydra case,27,666
+MAG-7 | Hazard,mil-spec,False,False,shotgun,0.06,0.8,4,0,the alpha collection,27,198
+MAG-7 | Heat,restricted,True,False,shotgun,0.0,1.0,4,0,chroma 2 case,27,431
+MAG-7 | Heaven Guard,mil-spec,True,False,shotgun,0.0,0.4,3,0,operation phoenix weapon case,27,291
+MAG-7 | Insomnia,mil-spec,True,False,shotgun,0.0,1.0,4,0,revolution case,27,1220
+MAG-7 | Irradiated Alert,consumer grade,False,True,shotgun,0.06,0.8,4,0,the nuke collection,27,171
+MAG-7 | Justice,classified,True,False,shotgun,0.0,1.0,4,0,prisma 2 case,27,948
+MAG-7 | Memento,mil-spec,True,False,shotgun,0.02,0.18,2,0,esports 2013 case,27,177
+MAG-7 | Metallic DDPAT,industrial grade,False,True,shotgun,0.0,0.08,1,0,the train collection,27,34
+MAG-7 | Monster Call,restricted,True,False,shotgun,0.0,1.0,4,0,fracture case,27,961
+MAG-7 | Navy Sheen,consumer grade,False,True,shotgun,0.0,0.55,4,0,the 2021 mirage collection,27,822
+MAG-7 | Petroglyph,restricted,True,False,shotgun,0.0,0.44,3,0,gamma 2 case,27,608
+MAG-7 | Popdog,mil-spec,True,False,shotgun,0.0,0.8,4,0,cs20 case,27,909
+MAG-7 | Praetorian,restricted,True,False,shotgun,0.0,0.45,3,0,operation wildfire case,27,535
+MAG-7 | Prism Terrace,restricted,False,True,shotgun,0.0,0.37,2,0,the 2021 vertigo collection,27,1072
+MAG-7 | Rust Coat,consumer grade,False,True,shotgun,0.0,1.0,4,0,the 2018 inferno collection,27,754
+MAG-7 | Sand Dune,consumer grade,False,True,shotgun,0.06,0.8,4,0,the inferno collection,27,99
+MAG-7 | Seabird,consumer grade,False,False,shotgun,0.0,1.0,4,0,the chop shop collection,27,473
+MAG-7 | Silver,industrial grade,False,True,shotgun,0.0,0.08,1,0,the cobblestone collection,27,32
+MAG-7 | Sonar,mil-spec,True,False,shotgun,0.0,0.45,3,0,glove case,27,633
+MAG-7 | Storm,consumer grade,False,True,shotgun,0.06,0.8,4,0,the overpass collection,27,100
+MAG-7 | SWAG-7,restricted,True,False,shotgun,0.0,0.92,4,0,clutch case,27,703
+Moto Gloves | 3rd Commando Company,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5033,10080
+Moto Gloves | Blood Pressure,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5033,10079
+Moto Gloves | Boom!,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5033,10027
+Moto Gloves | Cool Mint,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5033,10028
+Moto Gloves | Eclipse,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5033,10024
+Moto Gloves | Finish Line,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5033,10077
+Moto Gloves | Polygon,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5033,10052
+Moto Gloves | POW!,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5033,10049
+Moto Gloves | Smoke Out,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5033,10078
+Moto Gloves | Spearmint,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5033,10026
+Moto Gloves | Transport,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5033,10051
+Moto Gloves | Turtle,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5033,10050
+MP5-SD | Acid Wash,mil-spec,True,False,smg,0.0,0.68,4,0,shattered web case,24,888
+MP5-SD | Agent,restricted,True,False,smg,0.0,1.0,4,0,cs20 case,24,915
+MP5-SD | Autumn Twilly,restricted,False,False,smg,0.0,0.58,4,0,the 2021 train collection,24,1061
+MP5-SD | Bamboo Garden,consumer grade,False,False,smg,0.0,0.55,4,0,the st marc collection,24,872
+MP5-SD | Condition Zero,mil-spec,True,False,smg,0.0,1.0,4,0,operation broken fang case,24,986
+MP5-SD | Co-Processor,mil-spec,False,True,smg,0.0,0.5,4,0,the 2018 nuke collection,24,781
+MP5-SD | Desert Strike,mil-spec,True,False,smg,0.0,1.0,4,0,prisma 2 case,24,949
+MP5-SD | Dirt Drop,consumer grade,False,True,smg,0.06,0.8,4,0,the 2018 inferno collection,24,753
+MP5-SD | Gauss,restricted,True,False,smg,0.0,1.0,4,0,prisma case,24,846
+MP5-SD | Kitbash,restricted,True,False,smg,0.0,0.8,4,0,fracture case,24,974
+MP5-SD | Lab Rats,restricted,False,True,smg,0.0,0.35,2,0,the blacksite collection,24,800
+MP5-SD | Liquidation,mil-spec,True,False,smg,0.0,1.0,4,0,revolution case,24,1231
+MP5-SD | Necro Jr.,mil-spec,True,False,smg,0.0,1.0,4,0,dreams and nightmares case,24,1137
+MP5-SD | Nitro,industrial grade,False,False,smg,0.06,0.8,4,0,the control collection,24,798
+MP5-SD | Oxide Oasis,classified,False,True,smg,0.0,0.55,4,0,the 2021 mirage collection,24,923
+MP5-SD | Phosphor,classified,True,False,smg,0.0,0.8,4,0,danger zone case,24,810
+MP7 | Abyssal Apparition,classified,True,False,smg,0.0,1.0,4,0,dreams and nightmares case,33,1133
+MP7 | Akoben,mil-spec,True,False,smg,0.0,0.7,4,0,spectrum case,33,649
+MP7 | Anodized Navy,mil-spec,False,True,smg,0.0,0.08,1,0,the italy collection,33,28
+MP7 | Armor Core,mil-spec,True,False,smg,0.0,0.5,4,0,chroma 2 case,33,423
+MP7 | Army Recon,consumer grade,False,True,smg,0.06,0.8,4,0,the safehouse collection,33,245
+MP7 | Asterion,consumer grade,False,False,smg,0.0,0.55,4,0,the gods and monsters collection,33,442
+MP7 | Bloodsport,covert,True,False,smg,0.0,0.65,4,0,clutch case,33,696
+MP7 | Cirrus,mil-spec,True,False,smg,0.0,0.75,4,0,glove case,33,627
+MP7 | Fade,restricted,False,True,smg,0.0,0.25,2,0,the 2018 inferno collection,33,752
+MP7 | Forest DDPAT,consumer grade,False,False,smg,0.06,0.8,4,0,the bank collection,33,5
+MP7 | Full Stop,mil-spec,False,False,smg,0.0,0.6,4,0,the chop shop collection,33,250
+MP7 | Groundwater,consumer grade,False,False,smg,0.06,0.8,4,0,the alpha collection,33,209
+MP7 | Guerrilla,mil-spec,True,False,smg,0.0,1.0,4,0,operation riptide case,33,1096
+MP7 | Gunsmoke,industrial grade,False,True,smg,0.06,0.8,4,0,the overpass collection,33,15
+MP7 | Impire,restricted,True,False,smg,0.0,0.4,3,0,operation wildfire case,33,536
+MP7 | Just Smile,restricted,True,False,smg,0.0,1.0,4,0,kilowatt case,33,1163
+MP7 | Mischief,mil-spec,True,False,smg,0.1,1.0,4,1,prisma case,33,847
+MP7 | Motherboard,industrial grade,False,True,smg,0.0,0.5,4,0,the 2018 nuke collection,33,782
+MP7 | Nemesis,classified,True,False,smg,0.0,0.32,2,0,falchion case,33,481
+MP7 | Neon Ply,restricted,True,False,smg,0.0,1.0,4,0,shattered web case,33,893
+MP7 | Ocean Foam,restricted,True,False,smg,0.0,0.08,1,0,esports 2014 summer case,33,213
+MP7 | Olive Plaid,consumer grade,False,False,smg,0.0,0.58,4,0,the baggage collection,33,365
+MP7 | Orange Peel,industrial grade,False,True,smg,0.06,0.8,4,0,the mirage collection,33,141
+MP7 | Powercore,restricted,True,False,smg,0.0,0.8,4,0,horizon case,33,719
+MP7 | Prey,consumer grade,False,True,smg,0.0,0.48,4,0,the 2021 dust 2 collection,33,935
+MP7 | Scorched,consumer grade,False,False,smg,0.06,0.8,4,0,the norse collection,33,175
+MP7 | Skulls,mil-spec,True,False,smg,0.1,0.26,2,1,csgo weapon case,33,11
+MP7 | Special Delivery,restricted,True,False,smg,0.0,0.62,4,0,shadow case,33,500
+MP7 | Sunbaked,consumer grade,False,True,smg,0.0,1.0,4,0,anubis collection package,33,1246
+MP7 | Tall Grass,industrial grade,False,True,smg,0.0,0.65,4,0,the ancient collection,33,1023
+MP7 | Teal Blossom,mil-spec,False,False,smg,0.0,0.5,4,0,the st marc collection,33,728
+MP7 | Urban Hazard,mil-spec,True,False,smg,0.0,0.5,4,0,operation breakout weapon case,33,354
+MP7 | Vault Heist,industrial grade,False,False,smg,0.0,0.6,4,0,the havoc collection,33,1007
+MP7 | Whiteout,mil-spec,False,False,smg,0.06,0.8,4,0,the office collection,33,102
+MP9 | Airlock,classified,True,False,smg,0.0,1.0,4,0,gamma 2 case,34,609
+MP9 | Army Sheen,consumer grade,False,False,smg,0.0,0.3,2,0,the control collection,34,298
+MP9 | Bioleak,mil-spec,True,False,smg,0.0,0.5,4,0,chroma 3 case,34,549
+MP9 | Black Sand,mil-spec,True,False,smg,0.0,1.0,4,0,clutch case,34,697
+MP9 | Bulldozer,restricted,False,False,smg,0.06,0.8,4,0,the assault collection,34,39
+MP9 | Capillary,mil-spec,True,False,smg,0.0,0.7,4,0,horizon case,34,715
+MP9 | Dark Age,mil-spec,False,True,smg,0.0,0.22,2,0,the cobblestone collection,34,329
+MP9 | Dart,mil-spec,True,False,smg,0.0,0.46,4,0,operation vanguard weapon case,34,386
+MP9 | Deadly Poison,mil-spec,True,False,smg,0.0,1.0,4,0,chroma case,34,403
+MP9 | Dry Season,consumer grade,False,False,smg,0.06,0.8,4,0,the alpha collection,34,199
+MP9 | Featherweight,mil-spec,True,False,smg,0.0,1.0,4,0,revolution case,34,1225
+MP9 | Food Chain,classified,True,False,smg,0.0,1.0,4,0,snakebite case,34,1037
+MP9 | Goo,restricted,True,False,smg,0.0,0.6,4,0,spectrum 2 case,34,679
+MP9 | Green Plaid,consumer grade,False,False,smg,0.0,0.58,4,0,the baggage collection,34,366
+MP9 | Hot Rod,mil-spec,False,True,smg,0.0,0.08,1,0,the mirage collection,34,33
+MP9 | Hydra,classified,True,False,smg,0.0,1.0,4,0,cs20 case,34,910
+MP9 | Hypnotic,restricted,True,False,smg,0.0,0.08,1,0,csgo weapon case 2,34,61
+MP9 | Modest Threat,mil-spec,True,False,smg,0.0,0.75,4,0,danger zone case,34,804
+MP9 | Mount Fuji,restricted,True,False,smg,0.0,0.55,4,0,operation riptide case,34,1094
+MP9 | Music Box,mil-spec,False,True,smg,0.0,0.55,4,0,the 2021 mirage collection,34,820
+MP9 | Old Roots,industrial grade,False,True,smg,0.0,0.5,4,0,the 2021 dust 2 collection,34,931
+MP9 | Orange Peel,industrial grade,False,True,smg,0.06,0.8,4,0,the safehouse collection,34,141
+MP9 | Pandora's Box,mil-spec,False,False,smg,0.0,0.3,2,0,the gods and monsters collection,34,448
+MP9 | Rose Iron,restricted,True,False,smg,0.0,0.3,2,0,winter offensive weapon case,34,262
+MP9 | Ruby Poison Dart,restricted,True,False,smg,0.0,0.5,4,0,falchion case,34,482
+MP9 | Sand Dashed,consumer grade,False,True,smg,0.06,0.8,4,0,the dust 2 collection,34,148
+MP9 | Sand Scale,mil-spec,True,False,smg,0.0,0.45,3,0,glove case,34,630
+MP9 | Setting Sun,mil-spec,False,True,smg,0.0,1.0,4,0,the cache collection,34,368
+MP9 | Slide,consumer grade,False,True,smg,0.06,0.8,4,0,the 2018 inferno collection,34,755
+MP9 | Stained Glass,restricted,False,False,smg,0.0,0.5,4,0,the canals collection,34,867
+MP9 | Starlight Protector,covert,True,False,smg,0.0,0.8,4,0,dreams and nightmares case,34,1134
+MP9 | Storm,consumer grade,False,True,smg,0.06,0.8,4,0,the overpass collection,34,100
+MP9 | Wild Lily,classified,False,False,smg,0.0,0.7,4,0,the st marc collection,34,734
+Navaja Knife | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,"danger zone case, horizon case",520,42
+Navaja Knife | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",520,77
+Navaja Knife | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,"danger zone case, horizon case",520,44
+Navaja Knife | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",520,12
+Navaja Knife | Damascus Steel,covert,True,False,knife,0.0,0.5,4,0,"prisma case, prisma 2 case",520,857
+Navaja Knife | Doppler,covert,True,False,knife,0.0,0.08,1,0,"prisma case, prisma 2 case",520,421
+Navaja Knife | Fade,covert,True,False,knife,0.0,0.08,1,0,"danger zone case, horizon case",520,38
+Navaja Knife | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",520,5
+Navaja Knife | Marble Fade,covert,True,False,knife,0.0,0.08,1,0,"prisma case, prisma 2 case",520,413
+Navaja Knife | Night Stripe,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",520,735
+Navaja Knife | Rust Coat,covert,True,False,knife,0.4,1.0,4,3,"prisma case, prisma 2 case",520,414
+Navaja Knife | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",520,72
+Navaja Knife | Scorched,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",520,175
+Navaja Knife | Slaughter,covert,True,False,knife,0.01,0.26,2,0,"danger zone case, horizon case",520,59
+Navaja Knife | Stained,covert,True,False,knife,0.0,1.0,4,0,"danger zone case, horizon case",520,43
+Navaja Knife | Tiger Tooth,covert,True,False,knife,0.0,0.08,1,0,"prisma case, prisma 2 case",520,409
+Navaja Knife | Ultraviolet,covert,True,False,knife,0.06,0.8,4,0,"prisma case, prisma 2 case",520,98
+Navaja Knife | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",520,143
+Navaja Knife | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,"danger zone case, horizon case",520,0
+Negev | Anodized Navy,mil-spec,False,False,machine gun,0.0,0.08,1,0,the assault collection,28,28
+Negev | Army Sheen,consumer grade,False,False,machine gun,0.0,0.3,2,0,the bank collection,28,298
+Negev | Boroque Sand,consumer grade,False,False,machine gun,0.0,1.0,4,0,the canals collection,28,920
+Negev | Bratatat,mil-spec,True,False,machine gun,0.0,1.0,4,0,esports 2014 summer case,28,317
+Negev | Bulkhead,industrial grade,False,True,machine gun,0.0,0.5,4,0,the 2018 nuke collection,28,783
+Negev | CaliCamo,industrial grade,False,True,machine gun,0.0,0.6,4,0,the mirage collection,28,240
+Negev | Dazzle,mil-spec,True,False,machine gun,0.1,0.65,4,1,gamma 2 case,28,610
+Negev | Desert-Strike,mil-spec,True,False,machine gun,0.0,0.5,4,0,operation breakout weapon case,28,355
+Negev | dev_texture,restricted,True,False,machine gun,0.0,0.65,4,0,snakebite case,28,1043
+Negev | Drop Me,mil-spec,True,False,machine gun,0.0,1.0,4,0,recoil case,28,1152
+Negev | Infrastructure,mil-spec,False,True,machine gun,0.0,0.49,4,0,the 2021 vertigo collection,28,1080
+Negev | Lionfish,restricted,True,False,machine gun,0.0,0.55,4,0,clutch case,28,698
+Negev | Loudmouth,restricted,True,False,machine gun,0.14,0.65,4,1,falchion case,28,483
+Negev | Man-o'-war,mil-spec,True,False,machine gun,0.1,0.2,2,1,chroma 2 case,28,432
+Negev | Mjölnir,classified,False,False,machine gun,0.0,0.6,4,0,the norse collection,28,763
+Negev | Nuclear Waste,industrial grade,False,True,machine gun,0.0,0.4,3,0,the cache collection,28,369
+Negev | Palm,industrial grade,False,False,machine gun,0.06,0.8,4,0,the alpha collection,28,201
+Negev | Phoenix Stencil,mil-spec,False,False,machine gun,0.0,0.65,4,0,the havoc collection,28,1012
+Negev | Power Loader,restricted,True,False,machine gun,0.0,1.0,4,0,revolver case,28,514
+Negev | Prototype,mil-spec,True,False,machine gun,0.0,0.7,4,0,prisma 2 case,28,950
+Negev | Terrain,mil-spec,True,False,machine gun,0.0,0.45,3,0,operation phoenix weapon case,28,285
+Negev | Ultralight,mil-spec,True,False,machine gun,0.0,0.79,4,0,fracture case,28,958
+Nomad Knife | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,"fracture case, shattered web case",521,42
+Nomad Knife | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",521,77
+Nomad Knife | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,"fracture case, shattered web case",521,44
+Nomad Knife | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",521,12
+Nomad Knife | Fade,covert,True,False,knife,0.0,0.08,1,0,"fracture case, shattered web case",521,38
+Nomad Knife | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",521,5
+Nomad Knife | Night Stripe,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",521,735
+Nomad Knife | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",521,72
+Nomad Knife | Scorched,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",521,175
+Nomad Knife | Slaughter,covert,True,False,knife,0.01,0.26,2,0,"fracture case, shattered web case",521,59
+Nomad Knife | Stained,covert,True,False,knife,0.0,1.0,4,0,"fracture case, shattered web case",521,43
+Nomad Knife | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",521,143
+Nomad Knife | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,"fracture case, shattered web case",521,0
+Nova | Antique,classified,True,False,shotgun,0.0,0.3,2,0,operation phoenix weapon case,35,286
+Nova | Army Sheen,consumer grade,False,True,shotgun,0.0,0.3,2,0,the ancient collection,35,298
+Nova | Baroque Orange,restricted,False,False,shotgun,0.0,0.5,4,0,the canals collection,35,746
+Nova | Blaze Orange,mil-spec,False,False,shotgun,0.06,0.8,4,0,the militia collection,35,166
+Nova | Bloomstick,classified,True,False,shotgun,0.06,0.8,4,0,esports 2014 summer case,35,62
+Nova | Caged Steel,industrial grade,False,False,shotgun,0.0,0.2,2,0,the bank collection,35,299
+Nova | Candy Apple,industrial grade,False,True,shotgun,0.0,0.3,2,0,the italy collection,35,3
+Nova | Clear Polymer,restricted,True,False,shotgun,0.0,1.0,4,0,operation broken fang case,35,987
+Nova | Dark Sigil,mil-spec,True,False,shotgun,0.0,0.7,4,0,kilowatt case,35,1162
+Nova | Exo,mil-spec,True,False,shotgun,0.0,0.5,4,0,gamma case,35,590
+Nova | Forest Leaves,consumer grade,False,False,shotgun,0.06,0.8,4,0,the aztec collection,35,25
+Nova | Ghost Camo,mil-spec,True,False,shotgun,0.0,0.4,3,0,esports 2013 winter case,35,225
+Nova | Gila,restricted,True,False,shotgun,0.0,0.3,2,0,glove case,35,634
+Nova | Graphite,restricted,True,False,shotgun,0.0,0.12,1,0,csgo weapon case 2,35,214
+Nova | Green Apple,industrial grade,False,True,shotgun,0.0,0.3,2,0,the cobblestone collection,35,294
+Nova | Hyper Beast,classified,True,False,shotgun,0.0,0.6,4,0,operation wildfire case,35,537
+Nova | Interlock,mil-spec,False,True,shotgun,0.0,0.5,4,0,the 2021 vertigo collection,35,1077
+Nova | Koi,restricted,True,False,shotgun,0.0,0.3,2,0,operation breakout weapon case,35,356
+Nova | Mandrel,consumer grade,False,True,shotgun,0.0,0.5,4,0,the 2018 nuke collection,35,785
+Nova | Modern Hunter,mil-spec,False,False,shotgun,0.06,0.8,4,0,the militia collection,35,164
+Nova | Moon in Libra,consumer grade,False,False,shotgun,0.0,0.5,4,0,the gods and monsters collection,35,450
+Nova | Plume,mil-spec,True,False,shotgun,0.0,0.8,4,0,shattered web case,35,890
+Nova | Polar Mesh,consumer grade,False,True,shotgun,0.06,0.8,4,0,the train collection,35,107
+Nova | Predator,consumer grade,False,True,shotgun,0.06,0.8,4,0,the dust 2 collection,35,170
+Nova | Quick Sand,mil-spec,False,True,shotgun,0.0,0.5,4,0,the 2021 dust 2 collection,35,929
+Nova | Ranger,mil-spec,True,False,shotgun,0.0,1.0,4,0,falchion case,35,484
+Nova | Red Quartz,restricted,False,False,shotgun,0.0,0.4,3,0,the 2021 train collection,35,248
+Nova | Rising Skull,restricted,True,False,shotgun,0.0,0.5,4,0,winter offensive weapon case,35,263
+Nova | Rust Coat,industrial grade,False,False,shotgun,0.0,0.8,4,0,the havoc collection,35,323
+Nova | Sand Dune,consumer grade,False,True,shotgun,0.06,0.8,4,0,the italy collection,35,99
+Nova | Sobek's Bite,restricted,False,True,shotgun,0.0,1.0,4,0,anubis collection package,35,1247
+Nova | Tempest,mil-spec,True,False,shotgun,0.06,0.22,2,0,operation bravo case,35,191
+Nova | Toy Soldier,restricted,True,False,shotgun,0.0,1.0,4,0,horizon case,35,716
+Nova | Walnut,consumer grade,False,True,shotgun,0.06,0.8,4,0,the inferno collection,35,158
+Nova | Wild Six,restricted,True,False,shotgun,0.0,0.8,4,0,clutch case,35,699
+Nova | Windblown,mil-spec,True,False,shotgun,0.0,0.5,4,0,snakebite case,35,1051
+Nova | Wood Fired,mil-spec,True,False,shotgun,0.0,0.75,4,0,danger zone case,35,809
+P2000 | Acid Etched,restricted,True,False,pistol,0.0,1.0,4,0,prisma 2 case,32,951
+P2000 | Amber Fade,restricted,False,True,pistol,0.0,0.4,3,0,the dust 2 collection,32,246
+P2000 | Chainmail,mil-spec,False,True,pistol,0.0,0.22,2,0,the cobblestone collection,32,327
+P2000 | Coach Class,industrial grade,False,False,pistol,0.0,1.0,4,0,the baggage collection,32,346
+P2000 | Corticera,classified,True,False,pistol,0.06,0.3,2,0,esports 2014 summer case,32,184
+P2000 | Dispatch,mil-spec,False,False,pistol,0.0,0.65,4,0,the control collection,32,997
+P2000 | Fire Elemental,covert,True,False,pistol,0.0,0.6,4,0,operation vanguard weapon case,32,389
+P2000 | Gnarled,mil-spec,True,False,pistol,0.0,1.0,4,0,fracture case,32,960
+P2000 | Granite Marbleized,industrial grade,False,True,pistol,0.06,0.8,4,0,the italy collection,32,21
+P2000 | Grassland,industrial grade,False,True,pistol,0.06,0.8,4,0,the overpass collection,32,95
+P2000 | Grassland Leaves,industrial grade,False,False,pistol,0.06,0.8,4,0,the militia collection,32,104
+P2000 | Handgun,restricted,True,False,pistol,0.0,1.0,4,0,falchion case,32,485
+P2000 | Imperial,mil-spec,True,False,pistol,0.0,0.2,2,0,revolver case,32,515
+P2000 | Imperial Dragon,classified,True,False,pistol,0.0,0.63,4,0,gamma case,32,591
+P2000 | Ivory,mil-spec,True,False,pistol,0.0,1.0,4,0,operation breakout weapon case,32,357
+P2000 | Lifted Spirits,mil-spec,True,False,pistol,0.0,1.0,4,0,dreams and nightmares case,32,1138
+P2000 | Obsidian,restricted,True,False,pistol,0.0,1.0,4,0,shattered web case,32,894
+P2000 | Ocean Foam,classified,True,False,pistol,0.0,0.12,1,0,operation bravo case,32,211
+P2000 | Oceanic,mil-spec,True,False,pistol,0.0,0.6,4,0,chroma 3 case,32,550
+P2000 | Panther Camo,industrial grade,False,True,pistol,0.0,0.5,4,0,the ancient collection,32,1019
+P2000 | Pathfinder,industrial grade,False,False,pistol,0.0,0.35,2,0,the gods and monsters collection,32,443
+P2000 | Pulse,mil-spec,True,False,pistol,0.0,0.6,4,0,huntsman weapon case,32,338
+P2000 | Red FragCam,mil-spec,True,False,pistol,0.0,0.7,4,0,csgo weapon case 3,32,275
+P2000 | Scorpion,restricted,False,False,pistol,0.0,0.08,1,0,the dust collection,32,71
+P2000 | Silver,mil-spec,False,False,pistol,0.0,0.08,1,0,the office collection,32,32
+P2000 | Space Race,restricted,False,False,pistol,0.0,0.6,4,0,the 2021 train collection,32,1055
+P2000 | Turf,mil-spec,True,False,pistol,0.0,1.0,4,0,glove case,32,635
+P2000 | Urban Hazard,mil-spec,True,False,pistol,0.0,1.0,4,0,clutch case,32,700
+P2000 | Wicked Sick,classified,True,False,pistol,0.0,1.0,4,0,revolution case,32,1224
+P2000 | Woodsman,restricted,True,False,pistol,0.0,0.8,4,0,operation hydra case,32,667
+P250 | Apep's Curse,classified,False,True,pistol,0.0,1.0,4,0,anubis collection package,36,1248
+P250 | Asiimov,classified,True,False,pistol,0.1,1.0,4,1,chroma 3 case,36,551
+P250 | Bengal Tiger,mil-spec,False,False,pistol,0.06,0.8,4,0,the havoc collection,36,1030
+P250 | Black & Tan,mil-spec,False,True,pistol,0.0,0.5,4,0,the 2021 dust 2 collection,36,928
+P250 | Bone Mask,consumer grade,False,True,pistol,0.06,0.8,4,0,the mirage collection,36,27
+P250 | Boreal Forest,consumer grade,False,True,pistol,0.06,0.8,4,0,the lake collection,36,77
+P250 | Cartel,classified,True,False,pistol,0.0,0.75,4,0,operation vanguard weapon case,36,388
+P250 | Cassette,mil-spec,True,False,pistol,0.0,0.6,4,0,fracture case,36,968
+P250 | Contaminant,mil-spec,True,False,pistol,0.0,0.7,4,0,operation broken fang case,36,982
+P250 | Contamination,industrial grade,False,True,pistol,0.0,0.83,4,0,the cache collection,36,373
+P250 | Crimson Kimono,industrial grade,False,False,pistol,0.0,0.8,4,0,the rising sun collection,36,466
+P250 | Cyber Shell,restricted,True,False,pistol,0.0,0.85,4,0,snakebite case,36,1044
+P250 | Dark Filigree,industrial grade,False,False,pistol,0.0,0.5,4,0,the canals collection,36,741
+P250 | Digital Architect,restricted,False,True,pistol,0.0,0.49,4,0,the 2021 vertigo collection,36,1081
+P250 | Drought,consumer grade,False,True,pistol,0.0,0.44,3,0,the 2021 mirage collection,36,825
+P250 | Exchanger,mil-spec,False,True,pistol,0.0,0.5,4,0,the 2018 nuke collection,36,786
+P250 | Facets,industrial grade,False,False,pistol,0.06,0.8,4,0,the alpha collection,36,207
+P250 | Facility Draft,consumer grade,False,True,pistol,0.0,0.5,4,0,the 2018 nuke collection,36,777
+P250 | Forest Night,consumer grade,False,False,pistol,0.06,0.8,4,0,the control collection,36,78
+P250 | Franklin,classified,False,False,pistol,0.0,0.4,3,0,the bank collection,36,295
+P250 | Gunsmoke,industrial grade,False,True,pistol,0.06,0.8,4,0,the inferno collection,36,15
+P250 | Hive,mil-spec,True,False,pistol,0.0,0.3,2,0,csgo weapon case 2,36,219
+P250 | Inferno,restricted,True,False,pistol,0.0,0.68,4,0,cs20 case,36,907
+P250 | Iron Clad,mil-spec,True,False,pistol,0.05,0.8,4,0,gamma case,36,592
+P250 | Mehndi,classified,True,False,pistol,0.0,1.0,4,0,winter offensive weapon case,36,258
+P250 | Metallic DDPAT,industrial grade,False,True,pistol,0.0,0.08,1,0,the train collection,36,34
+P250 | Mint Kimono,consumer grade,False,False,pistol,0.0,0.8,4,0,the rising sun collection,36,467
+P250 | Modern Hunter,mil-spec,False,False,pistol,0.06,0.8,4,0,the militia collection,36,164
+P250 | Muertos,classified,True,False,pistol,0.0,0.6,4,0,chroma case,36,404
+P250 | Nevermore,restricted,True,False,pistol,0.0,0.4,3,0,danger zone case,36,813
+P250 | Nuclear Threat,restricted,False,True,pistol,0.06,0.8,4,0,the nuke collection,36,168
+P250 | Re.built,mil-spec,True,False,pistol,0.0,0.9,4,0,revolution case,36,1230
+P250 | Red Rock,restricted,True,False,pistol,0.0,1.0,4,0,operation hydra case,36,668
+P250 | Ripple,mil-spec,True,False,pistol,0.0,0.5,4,0,spectrum case,36,650
+P250 | Sand Dune,consumer grade,False,True,pistol,0.06,0.8,4,0,the dust 2 collection,36,99
+P250 | See Ya Later,covert,True,False,pistol,0.0,0.7,4,0,spectrum 2 case,36,678
+P250 | Splash,restricted,True,False,pistol,0.06,0.18,2,0,esports 2013 case,36,162
+P250 | Steel Disruption,mil-spec,True,False,pistol,0.0,0.2,2,0,esports 2013 winter case,36,230
+P250 | Supernova,restricted,True,False,pistol,0.0,0.4,3,0,operation breakout weapon case,36,358
+P250 | Undertow,classified,True,False,pistol,0.0,0.2,2,0,csgo weapon case 3,36,271
+P250 | Valence,mil-spec,True,False,pistol,0.0,0.8,4,0,chroma 2 case,36,426
+P250 | Verdigris,mil-spec,True,False,pistol,0.0,0.7,4,0,prisma case,36,848
+P250 | Vino Primo,restricted,False,True,pistol,0.0,1.0,4,0,the 2018 inferno collection,36,749
+P250 | Visions,classified,True,False,pistol,0.0,0.7,4,0,recoil case,36,1153
+P250 | Whiteout,mil-spec,False,False,pistol,0.06,0.8,4,0,the chop shop collection,36,102
+P250 | Wingshot,restricted,True,False,pistol,0.0,0.9,4,0,shadow case,36,501
+P250 | X-Ray,restricted,True,False,pistol,0.0,0.3,2,0,xray p250 package,36,125
+P90 | Ancient Earth,consumer grade,False,True,smg,0.0,0.5,4,0,the ancient collection,19,1020
+P90 | Ash Wood,industrial grade,False,True,smg,0.0,0.45,3,0,the train collection,19,234
+P90 | Asiimov,covert,True,False,smg,0.0,0.92,4,0,operation breakout weapon case,19,359
+P90 | Astral Jörmungandr,restricted,False,False,smg,0.0,0.5,4,0,the norse collection,19,759
+P90 | Baroque Red,mil-spec,False,False,smg,0.0,0.5,4,0,the canals collection,19,744
+P90 | Blind Spot,restricted,True,False,smg,0.0,0.5,4,0,esports 2013 winter case,19,228
+P90 | Chopper,restricted,True,False,smg,0.0,0.6,4,0,gamma case,19,593
+P90 | Cocoa Rampage,mil-spec,True,False,smg,0.0,0.6,4,0,operation broken fang case,19,977
+P90 | Cold Blooded,classified,True,False,smg,0.0,0.08,1,0,csgo weapon case 2,19,67
+P90 | Death by Kitty,covert,True,False,smg,0.08,0.32,2,1,esports 2013 case,19,156
+P90 | Death Grip,restricted,True,False,smg,0.0,1.0,4,0,operation hydra case,19,669
+P90 | Desert DDPAT,consumer grade,False,True,smg,0.0,0.5,4,0,the 2021 dust 2 collection,19,925
+P90 | Desert Warfare,mil-spec,True,False,smg,0.0,0.5,4,0,the huntsman collection,19,311
+P90 | Elite Build,mil-spec,True,False,smg,0.0,1.0,4,0,falchion case,19,486
+P90 | Emerald Dragon,classified,True,False,smg,0.06,0.52,4,0,operation bravo case,19,182
+P90 | Facility Negative,mil-spec,False,True,smg,0.0,0.5,4,0,the 2018 nuke collection,19,776
+P90 | Fallout Warning,industrial grade,False,True,smg,0.06,0.8,4,0,the nuke collection,19,169
+P90 | Freight,mil-spec,True,False,smg,0.0,1.0,4,0,fracture case,19,969
+P90 | Glacier Mesh,mil-spec,False,True,smg,0.06,0.8,4,0,the vertigo collection,19,111
+P90 | Grim,mil-spec,True,False,smg,0.0,0.8,4,0,gamma 2 case,19,611
+P90 | Leather,industrial grade,False,False,smg,0.0,1.0,4,0,the baggage collection,19,342
+P90 | Module,mil-spec,True,False,smg,0.0,0.35,2,0,huntsman weapon case,19,335
+P90 | Neoqueen,restricted,True,False,smg,0.0,0.6,4,0,revolution case,19,1233
+P90 | Nostalgia,classified,True,False,smg,0.0,0.57,4,0,cs20 case,19,911
+P90 | Off World,mil-spec,True,False,smg,0.0,0.75,4,0,prisma case,19,849
+P90 | Run and Hide,classified,False,True,smg,0.0,1.0,4,0,the ancient collection,19,1000
+P90 | Sand Spray,consumer grade,False,True,smg,0.06,0.8,4,0,the dust 2 collection,19,124
+P90 | ScaraB Rush,restricted,False,True,smg,0.0,1.0,4,0,anubis collection package,19,1250
+P90 | Schematic,mil-spec,False,True,smg,0.0,0.5,4,0,the 2021 vertigo collection,19,1074
+P90 | Scorched,consumer grade,False,True,smg,0.06,0.8,4,0,the mirage collection,19,175
+P90 | Shallow Grave,classified,True,False,smg,0.0,0.75,4,0,glove case,19,636
+P90 | Shapewood,classified,True,False,smg,0.0,1.0,4,0,revolver case,19,516
+P90 | Storm,consumer grade,False,True,smg,0.06,0.8,4,0,the cobblestone collection,19,100
+P90 | Sunset Lily,industrial grade,False,False,smg,0.0,0.5,4,0,the st marc collection,19,726
+P90 | Teardown,mil-spec,False,True,smg,0.0,0.6,4,0,the lake collection,19,244
+P90 | Tiger Pit,mil-spec,False,False,smg,0.0,0.5,4,0,the havoc collection,19,1015
+P90 | Traction,mil-spec,True,False,smg,0.0,1.0,4,0,horizon case,19,717
+P90 | Trigon,classified,True,False,smg,0.08,0.75,4,1,operation phoenix weapon case,19,283
+P90 | Vent Rush,restricted,True,False,smg,0.0,0.7,4,0,recoil case,19,1154
+P90 | Verdant Growth,industrial grade,False,True,smg,0.0,0.47,4,0,the 2021 mirage collection,19,828
+P90 | Virus,restricted,True,False,smg,0.06,0.8,4,0,esports 2014 summer case,19,20
+Paracord Knife | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,"fracture case, shattered web case",517,42
+Paracord Knife | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",517,77
+Paracord Knife | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,"fracture case, shattered web case",517,44
+Paracord Knife | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",517,12
+Paracord Knife | Fade,covert,True,False,knife,0.0,0.08,1,0,"fracture case, shattered web case",517,38
+Paracord Knife | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",517,5
+Paracord Knife | Night Stripe,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",517,735
+Paracord Knife | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",517,72
+Paracord Knife | Scorched,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",517,175
+Paracord Knife | Slaughter,covert,True,False,knife,0.01,0.26,2,0,"fracture case, shattered web case",517,59
+Paracord Knife | Stained,covert,True,False,knife,0.0,1.0,4,0,"fracture case, shattered web case",517,43
+Paracord Knife | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",517,143
+Paracord Knife | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,"fracture case, shattered web case",517,0
+PP-Bizon | Anolis,consumer grade,False,True,smg,0.0,0.5,4,0,the 2021 mirage collection,26,829
+PP-Bizon | Antique,restricted,True,False,smg,0.0,0.5,4,0,huntsman weapon case,26,306
+PP-Bizon | Bamboo Print,consumer grade,False,False,smg,0.0,0.8,4,0,the rising sun collection,26,457
+PP-Bizon | Blue Streak,restricted,True,False,smg,0.06,0.8,4,0,esports 2014 summer case,26,13
+PP-Bizon | Brass,mil-spec,False,True,smg,0.0,1.0,4,0,the dust 2 collection,26,159
+PP-Bizon | Breaker Box,industrial grade,False,True,smg,0.0,0.44,3,0,the 2021 vertigo collection,26,1083
+PP-Bizon | Candy Apple,industrial grade,False,True,smg,0.0,0.3,2,0,the 2018 inferno collection,26,3
+PP-Bizon | Carbon Fiber,industrial grade,False,True,smg,0.0,0.12,1,0,the vertigo collection,26,70
+PP-Bizon | Chemical Green,industrial grade,False,True,smg,0.0,0.9,4,0,the cache collection,26,376
+PP-Bizon | Cobalt Halftone,mil-spec,True,False,smg,0.05,0.45,3,0,winter offensive weapon case,26,267
+PP-Bizon | Death Rattle,consumer grade,False,False,smg,0.08,0.5,4,1,the havoc collection,26,293
+PP-Bizon | Embargo,restricted,True,False,smg,0.0,1.0,4,0,shattered web case,26,884
+PP-Bizon | Facility Sketch,consumer grade,False,True,smg,0.0,0.5,4,0,the 2018 nuke collection,26,775
+PP-Bizon | Forest Leaves,consumer grade,False,False,smg,0.06,0.8,4,0,the militia collection,26,25
+PP-Bizon | Fuel Rod,restricted,True,False,smg,0.0,1.0,4,0,revolver case,26,508
+PP-Bizon | Harvester,mil-spec,True,False,smg,0.0,1.0,4,0,gamma case,26,594
+PP-Bizon | High Roller,classified,True,False,smg,0.0,1.0,4,0,spectrum 2 case,26,676
+PP-Bizon | Irradiated Alert,consumer grade,False,True,smg,0.06,0.8,4,0,the nuke collection,26,171
+PP-Bizon | Judgement of Anubis,covert,True,False,smg,0.0,0.5,4,0,chroma 3 case,26,542
+PP-Bizon | Jungle Slipstream,mil-spec,True,False,smg,0.0,0.5,4,0,spectrum case,26,641
+PP-Bizon | Lumen,mil-spec,True,False,smg,0.0,0.77,4,0,operation riptide case,26,1099
+PP-Bizon | Modern Hunter,mil-spec,False,False,smg,0.06,0.8,4,0,the militia collection,26,164
+PP-Bizon | Night Ops,industrial grade,False,True,smg,0.0,0.6,4,0,the lake collection,26,236
+PP-Bizon | Night Riot,mil-spec,True,False,smg,0.0,0.8,4,0,clutch case,26,692
+PP-Bizon | Osiris,restricted,True,False,smg,0.0,0.5,4,0,operation breakout weapon case,26,349
+PP-Bizon | Photic Zone,mil-spec,True,False,smg,0.0,1.0,4,0,operation wildfire case,26,526
+PP-Bizon | Runic,mil-spec,True,False,smg,0.0,1.0,4,0,fracture case,26,973
+PP-Bizon | Rust Coat,mil-spec,False,False,smg,0.0,1.0,4,0,the alpha collection,26,203
+PP-Bizon | Sand Dashed,consumer grade,False,True,smg,0.06,0.8,4,0,the italy collection,26,148
+PP-Bizon | Seabird,consumer grade,False,False,smg,0.0,0.5,4,0,the st marc collection,26,873
+PP-Bizon | Space Cat,restricted,True,False,smg,0.0,0.67,4,0,dreams and nightmares case,26,1125
+PP-Bizon | Urban Dashed,consumer grade,False,True,smg,0.06,0.8,4,0,the train collection,26,149
+PP-Bizon | Water Sigil,mil-spec,True,False,smg,0.0,0.5,4,0,esports 2013 winter case,26,224
+R8 Revolver | Amber Fade,classified,False,True,pistol,0.0,0.4,3,0,the dust 2 collection,64,523
+R8 Revolver | Banana Cannon,restricted,True,False,pistol,0.0,1.0,4,0,revolution case,64,1232
+R8 Revolver | Blaze,mil-spec,False,False,pistol,0.0,0.08,1,0,the 2021 train collection,64,37
+R8 Revolver | Bone Forged,mil-spec,True,False,pistol,0.0,0.6,4,0,prisma 2 case,64,952
+R8 Revolver | Bone Mask,consumer grade,False,True,pistol,0.06,0.8,4,0,the bank collection,64,27
+R8 Revolver | Canal Spray,consumer grade,False,False,pistol,0.06,0.6,4,0,the canals collection,64,866
+R8 Revolver | Crazy 8,restricted,True,False,pistol,0.0,1.0,4,0,recoil case,64,1145
+R8 Revolver | Crimson Web,mil-spec,True,False,pistol,0.06,0.8,4,0,revolver case,64,12
+R8 Revolver | Desert Brush,consumer grade,False,True,pistol,0.0,0.6,4,0,the 2021 dust 2 collection,64,924
+R8 Revolver | Fade,covert,True,False,pistol,0.0,0.4,3,0,revolver case,64,522
+R8 Revolver | Grip,mil-spec,True,False,pistol,0.0,1.0,4,0,clutch case,64,701
+R8 Revolver | Inlay,consumer grade,False,True,pistol,0.0,0.76,4,0,anubis collection package,64,1237
+R8 Revolver | Junk Yard,mil-spec,True,False,pistol,0.0,1.0,4,0,snakebite case,64,1047
+R8 Revolver | Llama Cannon,classified,True,False,pistol,0.03,0.7,4,0,spectrum 2 case,64,683
+R8 Revolver | Memento,mil-spec,True,False,pistol,0.0,0.8,4,0,shattered web case,64,892
+R8 Revolver | Night,consumer grade,False,True,pistol,0.06,0.8,4,0,the ancient collection,64,40
+R8 Revolver | Nitro,industrial grade,False,True,pistol,0.06,0.8,4,0,the 2018 inferno collection,64,798
+R8 Revolver | Phoenix Marker,industrial grade,False,False,pistol,0.0,0.6,4,0,the havoc collection,64,1011
+R8 Revolver | Reboot,restricted,True,False,pistol,0.0,1.0,4,0,gamma case,64,595
+R8 Revolver | Skull Crusher,classified,True,False,pistol,0.25,0.8,4,2,prisma case,64,843
+R8 Revolver | Survivalist,mil-spec,True,False,pistol,0.0,0.7,4,0,horizon case,64,721
+Sawed-Off | Amber Fade,mil-spec,False,True,shotgun,0.0,0.4,3,0,the train collection,29,246
+Sawed-Off | Analog Input,restricted,True,False,shotgun,0.0,0.62,4,0,kilowatt case,29,1160
+Sawed-Off | Apocalypto,restricted,True,False,shotgun,0.0,1.0,4,0,prisma 2 case,29,953
+Sawed-Off | Bamboo Shadow,consumer grade,False,False,shotgun,0.0,0.6,4,0,the rising sun collection,29,458
+Sawed-Off | Black Sand,mil-spec,True,False,shotgun,0.0,0.9,4,0,danger zone case,29,814
+Sawed-Off | Brake Light,mil-spec,False,True,shotgun,0.0,0.08,1,0,the 2018 inferno collection,29,797
+Sawed-Off | Clay Ambush,consumer grade,False,False,shotgun,0.0,0.6,4,0,the havoc collection,29,1014
+Sawed-Off | Copper,mil-spec,False,False,shotgun,0.0,1.0,4,0,the dust collection,29,41
+Sawed-Off | Devourer,classified,True,False,shotgun,0.0,0.8,4,0,horizon case,29,720
+Sawed-Off | First Class,mil-spec,False,False,shotgun,0.0,0.5,4,0,the baggage collection,29,345
+Sawed-Off | Forest DDPAT,consumer grade,False,False,shotgun,0.06,0.8,4,0,the bank collection,29,5
+Sawed-Off | Fubar,mil-spec,True,False,shotgun,0.4,1.0,4,3,chroma 3 case,29,552
+Sawed-Off | Full Stop,mil-spec,False,True,shotgun,0.0,0.6,4,0,the italy collection,29,250
+Sawed-Off | Highwayman,restricted,True,False,shotgun,0.0,1.0,4,0,operation vanguard weapon case,29,390
+Sawed-Off | Irradiated Alert,consumer grade,False,True,shotgun,0.06,0.8,4,0,the nuke collection,29,171
+Sawed-Off | Jungle Thicket,consumer grade,False,False,shotgun,0.0,0.5,4,0,the st marc collection,29,870
+Sawed-Off | Kiss♥Love,classified,True,False,shotgun,0.0,1.0,4,0,recoil case,29,1155
+Sawed-Off | Limelight,restricted,True,False,shotgun,0.0,1.0,4,0,gamma case,29,596
+Sawed-Off | Morris,mil-spec,True,False,shotgun,0.0,1.0,4,0,spectrum 2 case,29,673
+Sawed-Off | Mosaico,industrial grade,False,False,shotgun,0.06,0.8,4,0,the alpha collection,29,204
+Sawed-Off | Orange DDPAT,restricted,True,False,shotgun,0.06,0.8,4,0,esports 2013 case,29,83
+Sawed-Off | Origami,mil-spec,True,False,shotgun,0.0,0.55,4,0,chroma 2 case,29,434
+Sawed-Off | Parched,consumer grade,False,True,shotgun,0.0,0.49,4,0,the 2021 dust 2 collection,29,880
+Sawed-Off | Rust Coat,industrial grade,False,True,shotgun,0.0,0.8,4,0,the cobblestone collection,29,323
+Sawed-Off | Sage Spray,consumer grade,False,True,shotgun,0.06,0.8,4,0,the overpass collection,29,119
+Sawed-Off | Serenity,restricted,True,False,shotgun,0.0,0.5,4,0,chroma case,29,405
+Sawed-Off | Snake Camo,industrial grade,False,True,shotgun,0.06,0.8,4,0,the dust 2 collection,29,30
+Sawed-Off | Spirit Board,mil-spec,True,False,shotgun,0.0,1.0,4,0,dreams and nightmares case,29,1140
+Sawed-Off | The Kraken,covert,True,False,shotgun,0.0,0.4,3,0,winter offensive weapon case,29,256
+Sawed-Off | Wasteland Princess,classified,True,False,shotgun,0.0,0.7,4,0,glove case,29,638
+Sawed-Off | Yorick,mil-spec,True,False,shotgun,0.0,1.0,4,0,revolver case,29,517
+Sawed-Off | Zander,mil-spec,True,False,shotgun,0.05,1.0,4,0,spectrum case,29,655
+SCAR-20 | Army Sheen,consumer grade,False,False,sniper rifle,0.0,0.3,2,0,the chop shop collection,38,298
+SCAR-20 | Assault,mil-spec,True,False,sniper rifle,0.0,0.62,4,0,cs20 case,38,914
+SCAR-20 | Bloodsport,classified,True,False,sniper rifle,0.0,0.45,3,0,gamma case,38,597
+SCAR-20 | Blueprint,mil-spec,True,False,sniper rifle,0.0,0.75,4,0,spectrum case,38,642
+SCAR-20 | Brass,mil-spec,False,False,sniper rifle,0.0,1.0,4,0,the norse collection,38,159
+SCAR-20 | Carbon Fiber,industrial grade,False,True,sniper rifle,0.0,0.12,1,0,the train collection,38,70
+SCAR-20 | Cardiac,classified,True,False,sniper rifle,0.0,1.0,4,0,operation vanguard weapon case,38,391
+SCAR-20 | Contractor,consumer grade,False,True,sniper rifle,0.06,0.8,4,0,the safehouse collection,38,46
+SCAR-20 | Crimson Web,mil-spec,True,False,sniper rifle,0.06,0.8,4,0,csgo weapon case 2,38,232
+SCAR-20 | Cyrex,classified,True,False,sniper rifle,0.0,0.5,4,0,huntsman weapon case,38,312
+SCAR-20 | Emerald,restricted,False,False,sniper rifle,0.0,0.08,1,0,the alpha collection,38,196
+SCAR-20 | Enforcer,restricted,True,False,sniper rifle,0.0,1.0,4,0,prisma 2 case,38,954
+SCAR-20 | Fragments,mil-spec,True,False,sniper rifle,0.0,0.78,4,0,revolution case,38,1226
+SCAR-20 | Green Marine,mil-spec,True,False,sniper rifle,0.0,0.8,4,0,shadow case,38,502
+SCAR-20 | Grotto,mil-spec,True,False,sniper rifle,0.0,0.5,4,0,chroma case,38,406
+SCAR-20 | Jungle Slipstream,mil-spec,True,False,sniper rifle,0.0,0.5,4,0,spectrum 2 case,38,685
+SCAR-20 | Magna Carta,mil-spec,False,False,sniper rifle,0.0,0.6,4,0,the control collection,38,1028
+SCAR-20 | Outbreak,mil-spec,True,False,sniper rifle,0.0,0.5,4,0,revolver case,38,518
+SCAR-20 | Palm,industrial grade,False,False,sniper rifle,0.06,0.8,4,0,the dust collection,38,157
+SCAR-20 | Poultrygeist,mil-spec,True,False,sniper rifle,0.0,0.57,4,0,dreams and nightmares case,38,1139
+SCAR-20 | Powercore,restricted,True,False,sniper rifle,0.0,1.0,4,0,gamma 2 case,38,612
+SCAR-20 | Sand Mesh,consumer grade,False,True,sniper rifle,0.06,0.8,4,0,the dust 2 collection,38,116
+SCAR-20 | Splash Jam,classified,False,False,sniper rifle,0.06,0.8,4,0,the militia collection,38,165
+SCAR-20 | Stone Mosaico,consumer grade,False,False,sniper rifle,0.06,0.5,4,0,the canals collection,38,865
+SCAR-20 | Storm,consumer grade,False,True,sniper rifle,0.06,0.8,4,0,the cobblestone collection,38,100
+SCAR-20 | Torn,mil-spec,True,False,sniper rifle,0.0,0.45,3,0,shattered web case,38,896
+SG 553 | Aerial,mil-spec,True,False,rifle,0.0,0.6,4,0,gamma case,39,598
+SG 553 | Aloha,mil-spec,True,False,rifle,0.0,0.55,4,0,clutch case,39,702
+SG 553 | Anodized Navy,mil-spec,False,True,rifle,0.0,0.08,1,0,the lake collection,39,28
+SG 553 | Army Sheen,consumer grade,False,False,rifle,0.0,0.3,2,0,the bank collection,39,298
+SG 553 | Atlas,mil-spec,True,False,rifle,0.0,0.81,4,0,chroma 3 case,39,553
+SG 553 | Barricade,consumer grade,False,False,rifle,0.0,0.65,4,0,the norse collection,39,861
+SG 553 | Bleached,consumer grade,False,True,rifle,0.0,0.5,4,0,the 2021 dust 2 collection,39,934
+SG 553 | Bulldozer,restricted,False,False,rifle,0.06,0.8,4,0,the chop shop collection,39,39
+SG 553 | Candy Apple,industrial grade,False,False,rifle,0.0,0.7,4,0,the canals collection,39,864
+SG 553 | Colony IV,classified,True,False,rifle,0.0,1.0,4,0,shattered web case,39,897
+SG 553 | Cyberforce,mil-spec,True,False,rifle,0.0,0.9,4,0,revolution case,39,0
+SG 553 | Cyrex,classified,True,False,rifle,0.0,1.0,4,0,falchion case,39,487
+SG 553 | Damascus Steel,mil-spec,False,True,rifle,0.0,1.0,4,0,the dust 2 collection,39,247
+SG 553 | Danger Close,mil-spec,True,False,rifle,0.02,0.8,4,0,danger zone case,39,815
+SG 553 | Darkwing,restricted,True,False,rifle,0.0,1.0,4,0,prisma 2 case,39,955
+SG 553 | Desert Blossom,mil-spec,False,True,rifle,0.0,0.49,4,0,the 2021 mirage collection,39,765
+SG 553 | Dragon Tech,restricted,True,False,rifle,0.0,0.7,4,0,recoil case,39,0
+SG 553 | Fallout Warning,industrial grade,False,True,rifle,0.0,0.8,4,0,the cache collection,39,378
+SG 553 | Gator Mesh,industrial grade,False,True,rifle,0.0,0.6,4,0,the mirage collection,39,243
+SG 553 | Hazard Pay,classified,False,True,rifle,0.0,0.48,4,0,the 2021 vertigo collection,39,1084
+SG 553 | Heavy Metal,mil-spec,True,False,rifle,0.0,1.0,4,0,snakebite case,39,1048
+SG 553 | Hypnotic,restricted,False,False,rifle,0.0,0.08,1,0,the havoc collection,39,61
+SG 553 | Integrale,classified,False,True,rifle,0.0,1.0,4,0,the 2018 inferno collection,39,750
+SG 553 | Lush Ruins,consumer grade,False,True,rifle,0.0,0.7,4,0,the ancient collection,39,1022
+SG 553 | Ol' Rusty,mil-spec,True,False,rifle,0.0,0.7,4,0,fracture case,39,966
+SG 553 | Phantom,restricted,True,False,rifle,0.0,0.6,4,0,spectrum 2 case,39,686
+SG 553 | Pulse,restricted,True,False,rifle,0.1,0.6,4,1,operation phoenix weapon case,39,287
+SG 553 | Tiger Moth,restricted,True,False,rifle,0.0,1.0,4,0,revolver case,39,519
+SG 553 | Tornado,consumer grade,False,False,rifle,0.06,0.8,4,0,the assault collection,39,101
+SG 553 | Traveler,industrial grade,False,False,rifle,0.0,1.0,4,0,the baggage collection,39,363
+SG 553 | Triarch,restricted,True,False,rifle,0.0,1.0,4,0,gamma 2 case,39,613
+SG 553 | Ultraviolet,mil-spec,True,False,rifle,0.06,0.8,4,0,csgo weapon case,39,98
+SG 553 | Wave Spray,mil-spec,True,False,rifle,0.06,0.8,4,0,operation bravo case,39,186
+SG 553 | Waves Perforated,consumer grade,False,True,rifle,0.06,0.8,4,0,the lake collection,39,136
+Shadow Daggers | Autotronic,covert,True,False,knife,0.0,0.85,4,0,"dreams and nightmares case, operation riptide case",516,1118
+Shadow Daggers | Black Laminate,covert,True,False,knife,0.0,1.0,4,0,"dreams and nightmares case, operation riptide case",516,1113
+Shadow Daggers | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,,516,42
+Shadow Daggers | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,,516,77
+Shadow Daggers | Bright Water,covert,True,False,knife,0.0,0.5,4,0,"dreams and nightmares case, operation riptide case",516,579
+Shadow Daggers | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,,516,44
+Shadow Daggers | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,,516,12
+Shadow Daggers | Damascus Steel,covert,True,False,knife,0.0,0.5,4,0,"spectrum 2 case, spectrum case",516,411
+Shadow Daggers | Doppler,covert,True,False,knife,0.0,0.08,1,0,"spectrum 2 case, spectrum case",516,619
+Shadow Daggers | Fade,covert,True,False,knife,0.0,0.08,1,0,,516,38
+Shadow Daggers | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,,516,5
+Shadow Daggers | Freehand,covert,True,False,knife,0.0,0.48,4,0,"dreams and nightmares case, operation riptide case",516,581
+Shadow Daggers | Gamma Doppler,covert,True,False,knife,0.0,0.08,1,0,"dreams and nightmares case, operation riptide case",516,572
+Shadow Daggers | Lore,covert,True,False,knife,0.0,1.0,4,0,"dreams and nightmares case, operation riptide case",516,1108
+Shadow Daggers | Marble Fade,covert,True,False,knife,0.0,0.08,1,0,"spectrum 2 case, spectrum case",516,413
+Shadow Daggers | Night,covert,True,False,knife,0.06,0.8,4,0,,516,40
+Shadow Daggers | Rust Coat,covert,True,False,knife,0.4,1.0,4,3,"spectrum 2 case, spectrum case",516,414
+Shadow Daggers | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,,516,72
+Shadow Daggers | Scorched,covert,True,False,knife,0.06,0.8,4,0,,516,175
+Shadow Daggers | Slaughter,covert,True,False,knife,0.01,0.26,2,0,,516,59
+Shadow Daggers | Stained,covert,True,False,knife,0.0,1.0,4,0,,516,43
+Shadow Daggers | Tiger Tooth,covert,True,False,knife,0.0,0.08,1,0,"spectrum 2 case, spectrum case",516,409
+Shadow Daggers | Ultraviolet,covert,True,False,knife,0.06,0.8,4,0,"spectrum 2 case, spectrum case",516,98
+Shadow Daggers | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,,516,143
+Shadow Daggers | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,,516,0
+Skeleton Knife | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,"fracture case, shattered web case",525,42
+Skeleton Knife | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",525,77
+Skeleton Knife | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,"fracture case, shattered web case",525,44
+Skeleton Knife | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",525,12
+Skeleton Knife | Fade,covert,True,False,knife,0.0,0.08,1,0,"fracture case, shattered web case",525,38
+Skeleton Knife | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",525,5
+Skeleton Knife | Night Stripe,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",525,735
+Skeleton Knife | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",525,72
+Skeleton Knife | Scorched,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",525,175
+Skeleton Knife | Slaughter,covert,True,False,knife,0.01,0.26,2,0,"fracture case, shattered web case",525,59
+Skeleton Knife | Stained,covert,True,False,knife,0.0,1.0,4,0,"fracture case, shattered web case",525,43
+Skeleton Knife | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",525,143
+Skeleton Knife | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,"fracture case, shattered web case",525,0
+Specialist Gloves | Buckshot,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5034,10062
+Specialist Gloves | Crimson Kimono,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5034,10033
+Specialist Gloves | Crimson Web,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5034,10061
+Specialist Gloves | Emerald Web,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5034,10034
+Specialist Gloves | Fade,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5034,10063
+Specialist Gloves | Field Agent,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5034,10068
+Specialist Gloves | Forest DDPAT,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5034,10030
+Specialist Gloves | Foundation,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5034,10035
+Specialist Gloves | Lt. Commander,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5034,10066
+Specialist Gloves | Marble Fade,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5034,10065
+Specialist Gloves | Mogul,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5034,10064
+Specialist Gloves | Tiger Strike,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5034,10067
+Sport Gloves | Amphibious,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5030,10045
+Sport Gloves | Arid,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5030,10019
+Sport Gloves | Big Game,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5030,10074
+Sport Gloves | Bronze Morph,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5030,10046
+Sport Gloves | Hedge Maze,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5030,10038
+Sport Gloves | Nocts,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5030,10076
+Sport Gloves | Omega,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5030,10047
+Sport Gloves | Pandora's Box,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5030,10037
+Sport Gloves | Scarlet Shamagh,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5030,10075
+Sport Gloves | Slingshot,extraordinary,False,False,gloves,0.06,0.8,4,0,"recoil case, snakebite case, operation broken fang case",5030,10073
+Sport Gloves | Superconductor,extraordinary,False,False,gloves,0.06,0.8,4,0,"glove case, operation hydra case",5030,10018
+Sport Gloves | Vice,extraordinary,False,False,gloves,0.06,0.8,4,0,"revolution case, clutch case",5030,10048
+SSG 08 | Abyss,mil-spec,True,False,sniper rifle,0.0,1.0,4,0,operation breakout weapon case,40,361
+SSG 08 | Acid Fade,mil-spec,False,True,sniper rifle,0.0,0.03,0,0,the safehouse collection,40,253
+SSG 08 | Azure Glyph,industrial grade,False,True,sniper rifle,0.01,0.99,4,0,anubis collection package,40,1251
+SSG 08 | Big Iron,classified,True,False,sniper rifle,0.0,0.64,4,0,shadow case,40,503
+SSG 08 | Blood in the Water,covert,True,False,sniper rifle,0.06,0.2,2,0,csgo weapon case 2,40,222
+SSG 08 | Bloodshot,classified,True,False,sniper rifle,0.14,0.6,4,1,shattered web case,40,899
+SSG 08 | Blue Spruce,consumer grade,False,True,sniper rifle,0.06,0.8,4,0,the safehouse collection,40,96
+SSG 08 | Carbon Fiber,industrial grade,False,True,sniper rifle,0.0,0.12,1,0,the 2021 vertigo collection,40,70
+SSG 08 | Dark Water,mil-spec,True,False,sniper rifle,0.1,0.26,2,1,esports 2014 summer case,40,60
+SSG 08 | Death Strike,classified,False,True,sniper rifle,0.0,0.8,4,0,the 2021 dust 2 collection,40,1052
+SSG 08 | Death's Head,restricted,True,False,sniper rifle,0.0,0.51,4,0,operation hydra case,40,670
+SSG 08 | Detour,mil-spec,False,True,sniper rifle,0.0,0.43,3,0,the overpass collection,40,319
+SSG 08 | Dezastre,mil-spec,True,False,sniper rifle,0.0,1.0,4,0,kilowatt case,40,1161
+SSG 08 | Dragonfire,covert,True,False,sniper rifle,0.0,0.5,4,0,glove case,40,624
+SSG 08 | Fever Dream,restricted,True,False,sniper rifle,0.0,0.72,4,0,prisma 2 case,40,956
+SSG 08 | Ghost Crusader,restricted,True,False,sniper rifle,0.0,1.0,4,0,chroma 3 case,40,554
+SSG 08 | Hand Brake,mil-spec,False,True,sniper rifle,0.0,1.0,4,0,the 2018 inferno collection,40,751
+SSG 08 | Jungle Dashed,consumer grade,False,True,sniper rifle,0.06,0.8,4,0,the ancient collection,40,147
+SSG 08 | Lichen Dashed,consumer grade,False,False,sniper rifle,0.06,0.8,4,0,the aztec collection,40,26
+SSG 08 | Mainframe 001,mil-spec,True,False,sniper rifle,0.0,1.0,4,0,fracture case,40,967
+SSG 08 | Mayan Dreams,industrial grade,False,False,sniper rifle,0.06,0.8,4,0,the alpha collection,40,200
+SSG 08 | Necropos,mil-spec,True,False,sniper rifle,0.0,1.0,4,0,operation wildfire case,40,538
+SSG 08 | Orange Filigree,mil-spec,False,False,sniper rifle,0.0,0.5,4,0,the canals collection,40,743
+SSG 08 | Parallax,restricted,True,False,sniper rifle,0.0,1.0,4,0,operation broken fang case,40,989
+SSG 08 | Prey,consumer grade,False,True,sniper rifle,0.0,0.48,4,0,the 2021 mirage collection,40,935
+SSG 08 | Red Stone,consumer grade,False,False,sniper rifle,0.06,0.5,4,0,the norse collection,40,762
+SSG 08 | Sand Dune,consumer grade,False,False,sniper rifle,0.06,0.8,4,0,the baggage collection,40,99
+SSG 08 | Sea Calico,restricted,False,False,sniper rifle,0.0,0.5,4,0,the st marc collection,40,868
+SSG 08 | Slashed,mil-spec,True,False,sniper rifle,0.15,0.8,4,2,huntsman weapon case,40,304
+SSG 08 | Spring Twilly,mil-spec,False,False,sniper rifle,0.0,0.55,4,0,the 2021 train collection,40,1060
+SSG 08 | Threat Detected,mil-spec,False,False,sniper rifle,0.0,0.65,4,0,the control collection,40,996
+SSG 08 | Tropical Storm,industrial grade,False,True,sniper rifle,0.06,0.8,4,0,the mirage collection,40,233
+SSG 08 | Turbo Peek,classified,True,False,sniper rifle,0.0,0.6,4,0,operation riptide case,40,1101
+Stiletto Knife | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,"danger zone case, horizon case",522,42
+Stiletto Knife | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",522,77
+Stiletto Knife | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,"danger zone case, horizon case",522,44
+Stiletto Knife | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",522,12
+Stiletto Knife | Damascus Steel,covert,True,False,knife,0.0,0.5,4,0,"prisma case, prisma 2 case",522,857
+Stiletto Knife | Doppler,covert,True,False,knife,0.0,0.08,1,0,"prisma case, prisma 2 case",522,421
+Stiletto Knife | Fade,covert,True,False,knife,0.0,0.08,1,0,"danger zone case, horizon case",522,38
+Stiletto Knife | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",522,5
+Stiletto Knife | Marble Fade,covert,True,False,knife,0.0,0.08,1,0,"prisma case, prisma 2 case",522,413
+Stiletto Knife | Night Stripe,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",522,735
+Stiletto Knife | Rust Coat,covert,True,False,knife,0.4,1.0,4,3,"prisma case, prisma 2 case",522,414
+Stiletto Knife | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",522,72
+Stiletto Knife | Scorched,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",522,175
+Stiletto Knife | Slaughter,covert,True,False,knife,0.01,0.26,2,0,"danger zone case, horizon case",522,59
+Stiletto Knife | Stained,covert,True,False,knife,0.0,1.0,4,0,"danger zone case, horizon case",522,43
+Stiletto Knife | Tiger Tooth,covert,True,False,knife,0.0,0.08,1,0,"prisma case, prisma 2 case",522,409
+Stiletto Knife | Ultraviolet,covert,True,False,knife,0.06,0.8,4,0,"prisma case, prisma 2 case",522,98
+Stiletto Knife | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",522,143
+Stiletto Knife | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,"danger zone case, horizon case",522,0
+Survival Knife | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,"fracture case, shattered web case",518,42
+Survival Knife | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",518,77
+Survival Knife | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,"fracture case, shattered web case",518,44
+Survival Knife | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",518,12
+Survival Knife | Fade,covert,True,False,knife,0.0,0.08,1,0,"fracture case, shattered web case",518,38
+Survival Knife | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",518,5
+Survival Knife | Night Stripe,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",518,735
+Survival Knife | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",518,72
+Survival Knife | Scorched,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",518,175
+Survival Knife | Slaughter,covert,True,False,knife,0.01,0.26,2,0,"fracture case, shattered web case",518,59
+Survival Knife | Stained,covert,True,False,knife,0.0,1.0,4,0,"fracture case, shattered web case",518,43
+Survival Knife | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,"fracture case, shattered web case",518,143
+Survival Knife | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,"fracture case, shattered web case",518,0
+Talon Knife | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,"danger zone case, horizon case",523,42
+Talon Knife | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",523,77
+Talon Knife | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,"danger zone case, horizon case",523,44
+Talon Knife | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",523,12
+Talon Knife | Damascus Steel,covert,True,False,knife,0.0,0.5,4,0,"prisma case, prisma 2 case",523,858
+Talon Knife | Doppler,covert,True,False,knife,0.0,0.08,1,0,"prisma case, prisma 2 case",523,855
+Talon Knife | Fade,covert,True,False,knife,0.0,0.08,1,0,"danger zone case, horizon case",523,38
+Talon Knife | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",523,5
+Talon Knife | Marble Fade,covert,True,False,knife,0.0,0.08,1,0,"prisma case, prisma 2 case",523,856
+Talon Knife | Night Stripe,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",523,735
+Talon Knife | Rust Coat,covert,True,False,knife,0.4,1.0,4,3,"prisma case, prisma 2 case",523,414
+Talon Knife | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",523,72
+Talon Knife | Scorched,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",523,175
+Talon Knife | Slaughter,covert,True,False,knife,0.01,0.26,2,0,"danger zone case, horizon case",523,59
+Talon Knife | Stained,covert,True,False,knife,0.0,1.0,4,0,"danger zone case, horizon case",523,43
+Talon Knife | Tiger Tooth,covert,True,False,knife,0.0,0.08,1,0,"prisma case, prisma 2 case",523,409
+Talon Knife | Ultraviolet,covert,True,False,knife,0.06,0.8,4,0,"prisma case, prisma 2 case",523,98
+Talon Knife | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",523,143
+Talon Knife | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,"danger zone case, horizon case",523,0
+Tec-9 | Army Mesh,consumer grade,False,True,pistol,0.0,0.6,4,0,the safehouse collection,30,242
+Tec-9 | Avalanche,restricted,True,False,pistol,0.0,1.0,4,0,revolver case,30,520
+Tec-9 | Bamboo Forest,consumer grade,False,False,pistol,0.0,0.6,4,0,the rising sun collection,30,459
+Tec-9 | Bamboozle,restricted,True,False,pistol,0.0,0.8,4,0,prisma case,30,839
+Tec-9 | Blast From the Past,mil-spec,False,True,pistol,0.0,0.65,4,0,the ancient collection,30,1024
+Tec-9 | Blue Titanium,mil-spec,True,False,pistol,0.0,0.04,0,0,csgo weapon case 2,30,216
+Tec-9 | Brass,mil-spec,False,True,pistol,0.0,1.0,4,0,the inferno collection,30,159
+Tec-9 | Brother,restricted,True,False,pistol,0.0,1.0,4,0,fracture case,30,964
+Tec-9 | Cracked Opal,mil-spec,True,False,pistol,0.0,1.0,4,0,spectrum 2 case,30,684
+Tec-9 | Cut Out,mil-spec,True,False,pistol,0.0,1.0,4,0,operation hydra case,30,671
+Tec-9 | Decimator,classified,True,False,pistol,0.0,0.75,4,0,shattered web case,30,889
+Tec-9 | Flash Out,mil-spec,True,False,pistol,0.0,0.7,4,0,cs20 case,30,905
+Tec-9 | Fubar,mil-spec,True,False,pistol,0.14,1.0,4,1,danger zone case,30,816
+Tec-9 | Fuel Injector,classified,True,False,pistol,0.0,1.0,4,0,gamma 2 case,30,614
+Tec-9 | Groundwater,consumer grade,False,True,pistol,0.06,0.8,4,0,the italy collection,30,2
+Tec-9 | Hades,industrial grade,False,False,pistol,0.0,1.0,4,0,the gods and monsters collection,30,439
+Tec-9 | Ice Cap,mil-spec,True,False,pistol,0.0,0.5,4,0,gamma case,30,599
+Tec-9 | Isaac,mil-spec,True,False,pistol,0.0,1.0,4,0,huntsman weapon case,30,303
+Tec-9 | Jambiya,mil-spec,True,False,pistol,0.0,1.0,4,0,operation wildfire case,30,539
+Tec-9 | Mummy's Rot,mil-spec,False,True,pistol,0.0,1.0,4,0,anubis collection package,30,1252
+Tec-9 | Nuclear Threat,restricted,False,True,pistol,0.06,0.8,4,0,the nuke collection,30,179
+Tec-9 | Orange Murano,industrial grade,False,False,pistol,0.0,1.0,4,0,the canals collection,30,738
+Tec-9 | Ossified,mil-spec,False,False,pistol,0.0,0.08,1,0,the aztec collection,30,36
+Tec-9 | Phoenix Chalk,consumer grade,False,False,pistol,0.0,0.8,4,0,the havoc collection,30,1010
+Tec-9 | Rebel,mil-spec,True,False,pistol,0.0,1.0,4,0,revolution case,30,1235
+Tec-9 | Red Quartz,restricted,False,True,pistol,0.0,0.4,3,0,the train collection,30,248
+Tec-9 | Re-Entry,restricted,True,False,pistol,0.0,0.43,3,0,chroma 3 case,30,555
+Tec-9 | Remote Control,classified,False,True,pistol,0.0,1.0,4,0,the 2018 nuke collection,30,791
+Tec-9 | Rust Leaf,industrial grade,False,False,pistol,0.0,0.5,4,0,the st marc collection,30,733
+Tec-9 | Safety Net,mil-spec,False,False,pistol,0.0,0.6,4,0,the 2021 train collection,30,795
+Tec-9 | Sandstorm,mil-spec,True,False,pistol,0.1,0.7,4,1,operation phoenix weapon case,30,289
+Tec-9 | Slag,mil-spec,True,False,pistol,0.0,0.9,4,0,kilowatt case,30,1159
+Tec-9 | Snek-9,mil-spec,True,False,pistol,0.0,1.0,4,0,horizon case,30,722
+Tec-9 | Terrace,mil-spec,False,False,pistol,0.0,1.0,4,0,the rising sun collection,30,463
+Tec-9 | Titanium Bit,restricted,True,False,pistol,0.0,0.2,2,0,csgo weapon case 3,30,272
+Tec-9 | Tornado,consumer grade,False,False,pistol,0.06,0.8,4,0,the alpha collection,30,206
+Tec-9 | Toxic,mil-spec,False,True,pistol,0.0,0.7,4,0,the cache collection,30,374
+Tec-9 | Urban DDPAT,consumer grade,False,False,pistol,0.06,0.8,4,0,the bank collection,30,17
+Tec-9 | VariCamo,industrial grade,False,True,pistol,0.0,0.6,4,0,the dust 2 collection,30,235
+UMP-45 | Arctic Wolf,restricted,True,False,smg,0.0,0.8,4,0,clutch case,24,704
+UMP-45 | Blaze,mil-spec,False,True,smg,0.0,0.08,1,0,the mirage collection,24,37
+UMP-45 | Bone Pile,mil-spec,True,False,smg,0.06,0.34,2,0,operation bravo case,24,193
+UMP-45 | Briefing,mil-spec,True,False,smg,0.0,1.0,4,0,gamma 2 case,24,615
+UMP-45 | Caramel,consumer grade,False,False,smg,0.06,0.8,4,0,the assault collection,24,93
+UMP-45 | Carbon Fiber,industrial grade,False,False,smg,0.0,0.12,1,0,the bank collection,24,70
+UMP-45 | Corporal,mil-spec,True,False,smg,0.05,0.75,4,0,operation phoenix weapon case,24,281
+UMP-45 | Crime Scene,restricted,False,False,smg,0.0,0.75,4,0,the control collection,24,1003
+UMP-45 | Day Lily,mil-spec,False,False,smg,0.0,0.55,4,0,the st marc collection,24,725
+UMP-45 | Delusion,mil-spec,True,False,smg,0.06,0.35,2,0,operation vanguard weapon case,24,392
+UMP-45 | Exposure,restricted,True,False,smg,0.0,0.55,4,0,spectrum 2 case,24,688
+UMP-45 | Facility Dark,consumer grade,False,True,smg,0.0,0.5,4,0,the 2018 nuke collection,24,778
+UMP-45 | Fade,classified,False,True,smg,0.0,0.08,1,0,the 2021 dust 2 collection,24,879
+UMP-45 | Fallout Warning,industrial grade,False,True,smg,0.06,0.8,4,0,the nuke collection,24,169
+UMP-45 | Full Stop,mil-spec,False,False,smg,0.0,0.6,4,0,the 2021 train collection,24,250
+UMP-45 | Gold Bismuth,restricted,True,False,smg,0.0,0.7,4,0,operation broken fang case,24,990
+UMP-45 | Grand Prix,restricted,True,False,smg,0.25,0.35,2,2,chroma 2 case,24,436
+UMP-45 | Gunsmoke,industrial grade,False,True,smg,0.06,0.8,4,0,the italy collection,24,15
+UMP-45 | Houndstooth,industrial grade,False,False,smg,0.0,0.6,4,0,the havoc collection,24,1008
+UMP-45 | Indigo,consumer grade,False,True,smg,0.06,0.8,4,0,the cobblestone collection,24,333
+UMP-45 | Labyrinth,mil-spec,True,False,smg,0.0,0.4,3,0,operation breakout weapon case,24,362
+UMP-45 | Mechanism,industrial grade,False,True,smg,0.0,0.49,4,0,the 2021 vertigo collection,24,1085
+UMP-45 | Metal Flowers,mil-spec,True,False,smg,0.0,0.7,4,0,operation hydra case,24,672
+UMP-45 | Minotaur's Labyrinth,mil-spec,False,False,smg,0.0,0.39,3,0,the gods and monsters collection,24,441
+UMP-45 | Momentum,classified,True,False,smg,0.0,0.5,4,0,danger zone case,24,802
+UMP-45 | Moonrise,restricted,True,False,smg,0.0,0.4,3,0,prisma case,24,851
+UMP-45 | Motorized,mil-spec,True,False,smg,0.0,0.8,4,0,kilowatt case,24,1175
+UMP-45 | Mudder,consumer grade,False,True,smg,0.06,0.8,4,0,the 2018 inferno collection,24,90
+UMP-45 | Oscillator,mil-spec,True,False,smg,0.0,0.5,4,0,snakebite case,24,1049
+UMP-45 | Plastique,restricted,True,False,smg,0.0,0.8,4,0,cs20 case,24,916
+UMP-45 | Primal Saber,classified,True,False,smg,0.0,0.77,4,0,chroma 3 case,24,556
+UMP-45 | Riot,mil-spec,True,False,smg,0.0,0.7,4,0,falchion case,24,488
+UMP-45 | Roadblock,mil-spec,True,False,smg,0.0,1.0,4,0,recoil case,24,1157
+UMP-45 | Scaffold,restricted,True,False,smg,0.0,1.0,4,0,spectrum case,24,652
+UMP-45 | Scorched,consumer grade,False,True,smg,0.06,0.8,4,0,the overpass collection,24,175
+UMP-45 | Urban DDPAT,consumer grade,False,True,smg,0.06,0.8,4,0,the train collection,24,17
+UMP-45 | Wild Child,classified,True,False,smg,0.0,1.0,4,0,revolution case,24,1236
+Ursus Knife | Blue Steel,covert,True,False,knife,0.0,1.0,4,0,"danger zone case, horizon case",519,42
+Ursus Knife | Boreal Forest,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",519,77
+Ursus Knife | Case Hardened,covert,True,False,knife,0.0,1.0,4,0,"danger zone case, horizon case",519,44
+Ursus Knife | Crimson Web,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",519,12
+Ursus Knife | Damascus Steel,covert,True,False,knife,0.0,0.5,4,0,"prisma case, prisma 2 case",519,857
+Ursus Knife | Doppler,covert,True,False,knife,0.0,0.08,1,0,"prisma case, prisma 2 case",519,421
+Ursus Knife | Fade,covert,True,False,knife,0.0,0.08,1,0,"danger zone case, horizon case",519,38
+Ursus Knife | Forest DDPAT,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",519,5
+Ursus Knife | Marble Fade,covert,True,False,knife,0.0,0.08,1,0,"prisma case, prisma 2 case",519,413
+Ursus Knife | Night Stripe,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",519,735
+Ursus Knife | Rust Coat,covert,True,False,knife,0.4,1.0,4,3,"prisma case, prisma 2 case",519,414
+Ursus Knife | Safari Mesh,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",519,72
+Ursus Knife | Scorched,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",519,175
+Ursus Knife | Slaughter,covert,True,False,knife,0.01,0.26,2,0,"danger zone case, horizon case",519,59
+Ursus Knife | Stained,covert,True,False,knife,0.0,1.0,4,0,"danger zone case, horizon case",519,43
+Ursus Knife | Tiger Tooth,covert,True,False,knife,0.0,0.08,1,0,"prisma case, prisma 2 case",519,409
+Ursus Knife | Ultraviolet,covert,True,False,knife,0.06,0.8,4,0,"prisma case, prisma 2 case",519,98
+Ursus Knife | Urban Masked,covert,True,False,knife,0.06,0.8,4,0,"danger zone case, horizon case",519,143
+Ursus Knife | ★ (Vanilla),covert,True,False,knife,0.0,1.0,4,0,"danger zone case, horizon case",519,0
+USP-S | Ancient Visions,restricted,False,True,pistol,0.0,0.45,3,0,the ancient collection,61,1031
+USP-S | Black Lotus,mil-spec,True,False,pistol,0.0,0.9,4,0,operation riptide case,61,1102
+USP-S | Blood Tiger,mil-spec,True,False,pistol,0.0,0.3,2,0,esports 2014 summer case,61,217
+USP-S | Blueprint,mil-spec,True,False,pistol,0.0,0.86,4,0,operation hydra case,61,657
+USP-S | Business Class,mil-spec,False,False,pistol,0.0,1.0,4,0,the baggage collection,61,364
+USP-S | Caiman,classified,True,False,pistol,0.0,0.4,3,0,huntsman weapon case,61,339
+USP-S | Check Engine,mil-spec,False,True,pistol,0.0,0.6,4,0,the 2018 inferno collection,61,796
+USP-S | Cortex,classified,True,False,pistol,0.0,1.0,4,0,clutch case,61,705
+USP-S | Cyrex,restricted,True,False,pistol,0.0,0.55,4,0,glove case,61,637
+USP-S | Dark Water,restricted,True,False,pistol,0.1,0.26,2,1,csgo weapon case,61,60
+USP-S | Desert Tactical,industrial grade,False,True,pistol,0.0,1.0,4,0,anubis collection package,61,1253
+USP-S | Flashback,restricted,True,False,pistol,0.0,0.5,4,0,danger zone case,61,817
+USP-S | Forest Leaves,industrial grade,False,True,pistol,0.06,0.8,4,0,the safehouse collection,61,25
+USP-S | Guardian,restricted,True,False,pistol,0.0,0.38,2,0,operation phoenix weapon case,61,290
+USP-S | Jawbreaker,classified,True,False,pistol,0.0,1.0,4,0,kilowatt case,61,1173
+USP-S | Kill Confirmed,covert,True,False,pistol,0.0,1.0,4,0,shadow case,61,504
+USP-S | Lead Conduit,mil-spec,True,False,pistol,0.0,1.0,4,0,operation wildfire case,61,540
+USP-S | Monster Mashup,classified,True,False,pistol,0.0,0.7,4,0,operation broken fang case,61,991
+USP-S | Neo-Noir,covert,True,False,pistol,0.0,0.7,4,0,spectrum case,61,653
+USP-S | Night Ops,mil-spec,False,True,pistol,0.0,0.6,4,0,the lake collection,61,236
+USP-S | Orange Anolis,restricted,False,True,pistol,0.0,0.37,2,0,the 2021 dust 2 collection,61,922
+USP-S | Orion,classified,True,False,pistol,0.0,0.5,4,0,the huntsman collection,61,313
+USP-S | Overgrowth,restricted,True,False,pistol,0.06,0.8,4,0,operation bravo case,61,183
+USP-S | Para Green,industrial grade,False,False,pistol,0.0,0.8,4,0,the chop shop collection,61,454
+USP-S | Pathfinder,industrial grade,False,False,pistol,0.0,0.35,2,0,the norse collection,61,443
+USP-S | Printstream,covert,True,False,pistol,0.0,0.85,4,0,recoil case,61,1142
+USP-S | Purple DDPAT,mil-spec,False,True,pistol,0.0,0.55,4,0,the 2021 mirage collection,61,818
+USP-S | Road Rash,restricted,False,True,pistol,0.0,1.0,4,0,the overpass collection,61,318
+USP-S | Royal Blue,industrial grade,False,True,pistol,0.06,0.8,4,0,the cobblestone collection,61,332
+USP-S | Serum,classified,True,False,pistol,0.0,0.25,2,0,csgo weapon case 2,61,221
+USP-S | Stainless,mil-spec,True,False,pistol,0.0,0.8,4,0,csgo weapon case 3,61,277
+USP-S | Target Acquired,classified,False,False,pistol,0.0,0.5,4,0,the control collection,61,1027
+USP-S | The Traitor,covert,True,False,pistol,0.0,1.0,4,0,snakebite case,61,1040
+USP-S | Ticket to Hell,restricted,True,False,pistol,0.0,0.76,4,0,dreams and nightmares case,61,1136
+USP-S | Torque,mil-spec,True,False,pistol,0.0,0.46,4,0,falchion case,61,489
+USP-S | Whiteout,classified,False,False,pistol,0.06,0.8,4,0,the 2021 train collection,61,1065
+XM1014 | Ancient Lore,restricted,False,True,shotgun,0.0,0.5,4,0,the ancient collection,25,1021
+XM1014 | Banana Leaf,industrial grade,False,False,shotgun,0.0,0.6,4,0,the st marc collection,25,731
+XM1014 | Black Tie,restricted,True,False,shotgun,0.0,0.75,4,0,chroma 3 case,25,557
+XM1014 | Blaze Orange,mil-spec,False,False,shotgun,0.06,0.8,4,0,the militia collection,25,166
+XM1014 | Blue Spruce,consumer grade,False,True,shotgun,0.06,0.8,4,0,the lake collection,25,96
+XM1014 | Blue Steel,industrial grade,False,True,shotgun,0.0,1.0,4,0,the lake collection,25,42
+XM1014 | Blue Tire,consumer grade,False,True,shotgun,0.0,0.55,4,0,the 2021 vertigo collection,25,1078
+XM1014 | Bone Machine,mil-spec,False,True,shotgun,0.0,0.6,4,0,the cache collection,25,370
+XM1014 | CaliCamo,industrial grade,False,True,shotgun,0.0,0.6,4,0,the italy collection,25,240
+XM1014 | Charter,consumer grade,False,False,shotgun,0.0,0.65,4,0,the control collection,25,994
+XM1014 | Elegant Vines,restricted,False,True,shotgun,0.0,0.37,2,0,the 2021 mirage collection,25,821
+XM1014 | Entombed,classified,True,False,shotgun,0.0,0.5,4,0,fracture case,25,970
+XM1014 | Fallout Warning,industrial grade,False,True,shotgun,0.06,0.8,4,0,the nuke collection,25,169
+XM1014 | Frost Borre,mil-spec,False,False,shotgun,0.0,0.5,4,0,the norse collection,25,760
+XM1014 | Grassland,consumer grade,False,False,shotgun,0.06,0.8,4,0,the militia collection,25,95
+XM1014 | Heaven Guard,restricted,True,False,shotgun,0.03,0.5,4,0,huntsman weapon case,25,314
+XM1014 | Hieroglyph,consumer grade,False,True,shotgun,0.0,1.0,4,0,anubis collection package,25,1142
+XM1014 | Incinegator,classified,True,False,shotgun,0.14,0.65,4,1,prisma case,25,850
+XM1014 | Irezumi,mil-spec,True,False,shotgun,0.0,0.8,4,0,kilowatt case,25,1174
+XM1014 | Jungle,consumer grade,False,False,shotgun,0.06,0.8,4,0,the alpha collection,25,205
+XM1014 | Oxide Blaze,mil-spec,True,False,shotgun,0.0,0.7,4,0,clutch case,25,706
+XM1014 | Quicksilver,mil-spec,True,False,shotgun,0.0,0.5,4,0,chroma case,25,407
+XM1014 | Red Leather,mil-spec,False,False,shotgun,0.0,0.56,4,0,the baggage collection,25,348
+XM1014 | Red Python,mil-spec,True,False,shotgun,0.08,0.5,4,1,esports 2014 summer case,25,320
+XM1014 | Scumbria,mil-spec,True,False,shotgun,0.0,1.0,4,0,shadow case,25,505
+XM1014 | Seasons,restricted,True,False,shotgun,0.0,0.5,4,0,spectrum case,25,654
+XM1014 | Slipstream,mil-spec,True,False,shotgun,0.0,0.5,4,0,gamma 2 case,25,616
+XM1014 | Teclu Burner,restricted,True,False,shotgun,0.0,0.65,4,0,revolver case,25,521
+XM1014 | Tranquility,classified,True,False,shotgun,0.0,0.5,4,0,operation vanguard weapon case,25,393
+XM1014 | Urban Perforated,consumer grade,False,True,shotgun,0.06,0.8,4,0,the vertigo collection,25,135
+XM1014 | VariCamo Blue,mil-spec,False,True,shotgun,0.0,0.5,4,0,the overpass collection,25,238
+XM1014 | Watchdog,mil-spec,True,False,shotgun,0.0,1.0,4,0,operation riptide case,25,1103
+XM1014 | XOXO,classified,True,False,shotgun,0.0,0.9,4,0,snakebite case,25,1046
+XM1014 | Ziggy,restricted,True,False,shotgun,0.0,0.72,4,0,spectrum 2 case,25,689
+XM1014 | Zombie Offensive,restricted,True,False,shotgun,0.0,0.5,4,0,dreams and nightmares case,25,1135
+Zeus x27 | Olympus,classified,True,False,equipment,0.0,0.67,4,0,kilowatt case,31,1172
