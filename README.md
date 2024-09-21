@@ -1,4 +1,4 @@
-![enter image description here](https://img001.prntscr.com/file/img001/5jc2VPmeRQSsCN_kEjXa9A.png)
+![enter image description here](https://img001.prntscr.com/file/img001/RlIHr_cPQuC8wuqoBytLDw.png)
 ## Installation
 
 ### Requirements
